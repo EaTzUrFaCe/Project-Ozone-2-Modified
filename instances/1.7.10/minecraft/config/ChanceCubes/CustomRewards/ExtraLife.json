@@ -1,0 +1,14 @@
+{
+	"life":
+	{
+		"chance": 100,
+		"Message":
+		[
+			{"message":"An Extra life for all the unlucky chances!"}
+		],
+		"Item":
+		[
+			{"item":{"id":"HardcoreQuesting:hearts","Damage":3,"Count":1}, "delay":20}
+		]
+}
+}

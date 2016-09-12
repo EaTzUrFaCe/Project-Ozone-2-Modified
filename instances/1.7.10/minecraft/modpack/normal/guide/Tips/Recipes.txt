@@ -1,0 +1,25 @@
+§2Tips Guide
+
+Hello I'm here to tell you the recipe for the Mekanism Gas tanks!
+
+Basic Gas Tank:
+
+{"image":"basic gas tank.png", "scale":-4}
+
+Advanced Gas Tank:
+
+{"image":"advanced gas tank.png", "scale":-4}
+
+Elite Gas Tank:
+
+{"image":"elite gas tank.png", "scale":-4}
+
+Ultimate Gas Tank:
+
+{"image":"ultimate gas tank.png", "scale":-4}
+
+Draconic Evolution Energy Storage Multiblock: Takes "Block of Carbon" from the planet Venus instead of  "Redstone blocks"
+
+If having problems with Capacitor seeds they pretty much must be like this to grow:
+
+{"image":"capacity.png", "scale":-4}

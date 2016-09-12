@@ -1,0 +1,576 @@
+Transformers:
+- logisticspipes.asm.LogisticsPipesClassInjector
+- cpw.mods.fml.common.asm.transformers.PatchingTransformer
+- cpw.mods.fml.common.asm.transformers.MarkerTransformer
+- cpw.mods.fml.common.asm.transformers.SideTransformer
+- cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+- net.minecraftforge.classloading.FluidIdTransformer
+- com.github.Simon04090.AppliedExchange.core.AppliedExchangeClassTransformer
+- appeng.transformer.asm.ASMIntegration
+- codechicken.lib.asm.ClassHeirachyManager
+- codechicken.core.asm.InterfaceDependancyTransformer
+- codechicken.core.asm.TweakTransformer
+- codechicken.core.asm.DelegatedTransformer
+- codechicken.core.asm.DefaultImplementationTransformer
+- mrtjp.relocation.asm.Transformer
+- myrathi.infinibows.asm.BowTransformer
+- invtweaks.forge.asm.ContainerTransformer
+- logisticspipes.asm.LogisticsClassTransformer
+- micdoodle8.mods.miccore.MicdoodleTransformer
+- codechicken.nei.asm.NEITransformer
+- api.player.forge.PlayerAPITransformer
+- coolsquid.squidapi.asm.SquidAPIPlugin
+- com.mumfrey.liteloader.transformers.event.EventProxyTransformer
+- com.mumfrey.liteloader.launch.LiteLoaderTransformer
+- com.mumfrey.liteloader.client.transformers.CrashReportTransformer
+- openmods.core.OpenModsClassTransformer
+- openblocks.asm.OpenBlocksClassTransformer
+- cpw.mods.fml.common.asm.transformers.DeobfuscationTransformer
+- cpw.mods.fml.common.asm.transformers.AccessTransformer
+- net.minecraftforge.transformers.ForgeAccessTransformer
+- appeng.transformer.asm.ASMTweaker
+- aroma1997.core.coremod.asm.AromaAccessTransformer
+- codechicken.core.asm.CodeChickenAccessTransformer
+- cofh.asm.CoFHAccessTransformer
+- invtweaks.forge.asm.ITAccessTransformer
+- logisticspipes.asm.LogisticsAccessTransformer
+- micdoodle8.mods.miccore.MicdoodleAccessTransformer
+- cpw.mods.fml.common.asm.transformers.ModAccessTransformer
+- cpw.mods.fml.common.asm.transformers.ItemStackTransformer
+- com.brandon3055.brandonscore.asm.ClassTransformer
+- cofh.asm.CoFHClassTransformer
+- com.gildedgames.util.threadedlighting.asm.TLTransformer
+- lumien.randomthings.Transformer.RTClassTransformer
+- lumien.resourceloader.asm.ClassTransformer
+- squeek.applecore.asm.TransformerModuleHandler
+- com.enderio.core.common.transform.EnderCoreTransformer
+- com.enderio.core.common.transform.EnderCoreTransformerClient
+- fastcraft.J
+- cpw.mods.fml.common.asm.transformers.TerminalTransformer
+- com.mamiyaotaru.betterclouds.BetterCloudsTransformer
+- com.uyjulian.minecraft.XrayMod.XrayModEventTransformer
+- com.mumfrey.liteloader.client.transformers.LiteLoaderEventInjectionTransformer
+- com.mumfrey.liteloader.client.transformers.MinecraftOverlayTransformer
+- com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer
+- net.eq2online.macros.transformers.MacrosTransformer
+- net.eq2online.macros.transformers.CollectionPacketTransformer
+- cpw.mods.fml.common.asm.transformers.ModAPITransformer
+
+Transformer exclusions:
+- aroma1997.core.coremod.CoreMod
+- invtweaks.forge.asm.compatibility
+- com.github.Simon04090.AppliedExchange.core.AppliedExchangeCore
+- myrathi.infinibows
+- cpw.mods.fml.relauncher.
+- openmods.Log
+- codechicken.core.launch.CodeChickenCorePlugin
+- org.objectweb.asm.
+- mrtjp.core.handler.CorePlugin
+- org.bouncycastle.
+- invtweaks.forge.asm.FMLPlugin
+- codechicken.lib.config
+- lumien.resourceloader.asm.LoadingPlugin
+- squeek.applecore.asm
+- com.enderio.core.common.transform.EnderCorePlugin
+- invtweaks.forge.asm
+- codechicken.core.asm
+- logisticspipes.asm.
+- net.minecraft.launchwrapper.injector.
+- squeek.asmhelper
+- com.google.common.
+- info.inpureprojects.core.Preloader.INpurePreLoader
+- javax.
+- myrathi.infinibows.LoadingPlugin
+- myrathi.infinibows.asm
+- api.player.forge
+- micdoodle8.mods.miccore
+- openmods.include.
+- codechicken.nei.asm.NEICorePlugin
+- com.gildedgames.util.threadedlighting.asm
+- micdoodle8.mods.galacticraft.api.entity.IEntityBreathable
+- cpw.mods.fml.relauncher.FMLCorePlugin
+- logisticspipes.asm.LogisticsPipesCoreLoader
+- cpw.mods.fml.common.patcher.
+- scala
+- aroma1997.core.coremod.asm
+- net.minecraftforge.classloading.FMLForgePlugin
+- codechicken.obfuscator
+- openblocks.OpenBlocksCorePlugin
+- cofh.asm.
+- cpw.mods.fml.common.asm.transformers.
+- com.gildedgames.util.threadedlighting.TLLoadingPlugin
+- coolsquid.squidapi.exception
+- mrtjp.relocation.asm.RelocationPlugin
+- fastcraft
+- codechicken.nei.asm
+- codechicken.core.launch.DepLoader
+- cpw.mods.fml.repackage.
+- appeng.transformer.AppEngCore
+- openmods.asm.
+- com.brandon3055.brandonscore.asm.
+- codechicken.lib.asm
+- cofh.repack.codechicken.lib.asm.
+- mekanism.common.asm.LoadingHook
+- openmods.injector.
+- xreliquary.common.asm.DepLoader
+- com.brandon3055.brandonscore.asm.LoadingPlugin
+- api.player.forge.PlayerAPIPlugin
+- lumien.randomthings.Transformer.RTLoadingPlugin
+- cpw.mods.fml.common.asm.transformers.deobf.
+- squeek.applecore.AppleCore
+- micdoodle8.mods.miccore.MicdoodlePlugin
+- aroma1997.core.coremod
+- openmods.core.
+- coolsquid.squidapi.asm.SquidAPIPlugin
+- cofh.repack.codechicken.lib.config.
+- mrtjp.relocation.asm
+- coolsquid.squidapi.asm
+- argo.
+- openmods.core.OpenModsCorePlugin
+- com.github.Simon04090.AppliedExchange.core
+- cofh.asm.LoadingPlugin
+
+Mod list:
+- AE2 Stuff 0.5.1.9
+- AE2 Wireless Crafting Terminal 1.7.10-rv3-1.8.7.1b
+- Aether II 1.7.10-1.6
+- AgriCraft 1.7.10-1.5.0
+- Another One Bites The Dust 2.9.2
+- AppleCore 1.3.2
+- Applied Energistics 2 rv3-beta-6
+- Applied Energistics 2 Core rv3-beta-6
+- Applied Exchange Core 1
+- Aroma1997's Dimensional World 1.0
+- Aroma1997Core 1.0.2.16
+- Aroma1997Core|Helper 1.0.2.16
+- Artifacts 1.1.3
+- Avaritia 1.11
+- Avaritiaddons 1.2
+- BC Builders 7.1.17
+- BC Energy 7.1.17
+- BC Factory 7.1.17
+- BC Robotics 7.1.17
+- BC Silicon 7.1.17
+- BC Transport 7.1.17
+- BD Lib 1.9.4.109
+- BF Compatibility 3.1
+- Baublelicious 1.7.10-1.2.1
+- Baubles 1.0.1.10
+- Better Achievements 0.1.0
+- Better Builder's Wands 0.6.1
+- Better Furnaces 4.3
+- BiblioCraft 1.11.5
+- BiblioWoods Natura Edition 1.5
+- Big Reactors 0.4.3A
+- Botania r1.8-249
+- Brandon's Core 1.0.0.12
+- BuildCraft 7.1.17
+- BuildCraft Compat 7.1.5
+- Carpenter's Blocks 3.3.8
+- Chance Cubes 1.7.10-2.2.1.121
+- ChickenChunks 1.3.4.19
+- Chisel 2.9.5.11
+- CoFH ASM 000
+- CoFH Core 1.7.10R3.1.3
+- CodeChicken Core 1.0.7.47
+- Compacter 1.1.0.12
+- ComputerCraft 1.75
+- Convenient Recipes 1.3.1
+- Cooking for Blockheads 1.0.140
+- Custom Main Menu 1.9.2
+- CustomThings MC1.7.10-0.0.3-52
+- DefenseTech 1.0.1
+- Dense Ores 1.0
+- Draconic Evolution 1.0.2h
+- EiraMoticons 1.2.84
+- Ender IO 1.7.10-2.3.0.429_beta
+- Ender IO Addons 0.10.11
+- EnderCore 1.7.10-0.2.0.38_beta
+- EnderStorage 1.4.7.37
+- Erebus 0.4.7
+- Ex Astris Rebirth MC1.7.10-1.01-45
+- Ex Compressum 1.1.143
+- Ex Nihilo 1.38-53
+- Experience Rings 1.2.0
+- Extra Cells 2 2.3.14
+- Extra Utilities 1.2.12
+- ExtraPlanets 1.0-3.6.9
+- ExtraTiC 1.4.6
+- FTB Tweaks 1.0.2
+- FTBLib 1.0.18.2
+- FTBUtilities 1.0.18.2
+- FastCraft 1.23
+- FlatBedrock Xplosion's Edition 1.0.2
+- Forge Microblocks 1.2.0.345
+- Forge Mod Loader 7.10.99.99
+- Forge Multipart 1.2.0.345
+- ForgeRelocation 0.0.1.4
+- Galacticraft Core 3.0.12
+- Galacticraft Planets 3.0.12
+- Garden of Glass sqrt(-1)
+- Gilded Games Utility 1.7.10-1.2
+- Hardcore Questing Mode 4.4.4
+- Hardcore Wither 1.1.3
+- HardcoreMapReset 2.2.0
+- INpureCore 1.7.10R1.0.0B9
+- Iguana Tinker Tweaks 1.7.10-2.1.6.163
+- Immersive Engineering 0.7.7
+- InGame Info XML 2.8.1.82
+- InfiniBows 1.3.0 build 20
+- Inventory Tweaks 1.59-dev-152-cf6e263
+- Iron Chest 6.0.60.741
+- ItemBlacklist 1.2.0.8
+- JourneyMap 5.1.4p1
+- Karat Garden 0.0.3
+- KleeSlabs 1.0
+- Logistics Pipes 0.9.3.126
+- Loot Bags 2.0.15
+- LunatriusCore 1.1.2.21
+- MCFrames 1.0
+- MFR Compat ProjectRed 1.7.10R2.8.1
+- MFR Compat: Applied Energistics 1.7.10R2.8.1
+- MFR Compat: Atum 1.7.10R2.8.1
+- MFR Compat: BackTools 1.7.10R2.8.1
+- MFR Compat: BuildCraft 1.7.10R2.8.1
+- MFR Compat: Chococraft 1.7.10R2.8.1
+- MFR Compat: ExtraBiomes 1.7.10R2.8.1
+- MFR Compat: Forestry 1.7.10R2.8.1
+- MFR Compat: ForgeMicroblock 1.7.10R2.8.1
+- MFR Compat: IC2 1.7.10R2.8.1
+- MFR Compat: Magical Crops 1.2.1
+- MFR Compat: Railcraft 1.7.10R2.8.1
+- MFR Compat: Sufficient Biomes 1.7.10R2.8.1
+- MFR Compat: Thaumcraft 1.7.10R2.8.1
+- MFR Compat: Thermal Expansion 1.7.10R2.8.1
+- MFR Compat: Tinkers' Construct 1.7.10R2.8.1
+- MFR Compat: TwilightForest 1.7.10R2.8.1
+- MFR Compat: Vanilla 1.7.10R2.8.1
+- Magical Crops: Armoury 4.0.0_PUBLIC_BETA_4
+- Magical Crops: Core 4.0.0_PUBLIC_BETA_4b
+- Magical Crops: Decorative 4.0.0_PUBLIC_BETA_4a
+- Magneticraft 0.6.0-final
+- Mantle 1.7.10-0.3.2.jenkins191
+- Mekanism 9.1.0
+- MekanismGenerators 9.1.0
+- MekanismTools 9.1.0
+- Micdoodle8 Core 
+- MineFactory Reloaded 1.7.10R2.8.1
+- MineTweaker 3 3.0.11
+- MineTweakerRecipeMaker 1.0
+- Minecraft Coder Pack 9.05
+- Minecraft Forge 10.13.4.1614
+- Minecraft Multipart Plugin 1.2.0.345
+- Mod Support 0.34.1_1.7.10-4d066f1
+- Mod Tweaker 2 0.9.6
+- Moo Fluids 1.7.10-1.5.01.19a
+- More Chisels @VERSION@
+- Mouse Tweaks 2.4.4
+- MrTJPCore 1.1.0.33
+- NEI Addons 1.12.14.40
+- NEI Addons: Applied Energistics 2 1.12.14.40
+- NEI Addons: Botany 1.12.14.40
+- NEI Addons: Crafting Tables 1.12.14.40
+- NEI Addons: Developer Tools 1.12.14.40
+- NEI Addons: Ex Nihilo 1.12.14.40
+- NEI Addons: Forestry 1.12.14.40
+- NEI Integration 1.1.2
+- Natura 2.2.0
+- Nether Ores 1.7.10R2.3.1
+- Nether Portal Fix 1.0
+- No Mob Spawning on Trees 1.1.4-mc1.7.10
+- No More Rain 0.0.1
+- Not Enough Items 1.0.5.120
+- Open Modular Turrets 2.2.4-225
+- OpenBlocks 1.5.1
+- OpenMods 0.9.1
+- OpenModsCore 0.9.1
+- PackGuard 1.1.0
+- Pam's HarvestCraft 1.7.10j
+- Player API 1.4
+- PneumaticCraft 1.12.7-150
+- PortalGun 4.0.0-beta-6
+- ProjectE 1.7.10-PE1.10.0
+- ProjectE Aether Addon 1.7.10-PEA1.0.0
+- ProjectRed Compatibility 4.7.0pre12.95
+- ProjectRed Core 4.7.0pre12.95
+- ProjectRed Expansion 4.7.0pre12.95
+- ProjectRed Exploration 4.7.0pre12.95
+- ProjectRed Illumination 4.7.0pre12.95
+- ProjectRed Integration 4.7.0pre12.95
+- ProjectRed Transmission 4.7.0pre12.95
+- ProjectRed Transportation 4.7.0pre12.95
+- QuantumFlux 1.7.10-1.3.4
+- RFTools 4.23
+- Ranchable Fluid Cows 1.7.10-1.1.5
+- Random Things 2.2.4
+- Redstone Arsenal 1.7.10R1.1.2
+- Redstonic 1.4.10
+- Reliquary 1.2
+- RelocationFMP 0.0.1.2
+- Resource Loader 1.3
+- Simple Achievements MC1.7.10-1.1.0-21
+- SimpleLabels @VERSION@
+- Simply Jetpacks 1.5.3
+- SkyLandsForge 1.7.10_0.0.2a
+- Snad 1.7.10-1.6.01.31a
+- Solar Flux 1.7.10-0.8b
+- SquidAPI 1.1.14
+- StartingInventory 1.7.10.r03
+- Storage Drawers 1.7.10-1.10.1
+- Thermal Dynamics 1.7.10R1.2.0
+- Thermal Expansion 1.7.10R4.1.4
+- Thermal Foundation 1.7.10R1.2.5
+- Thermal Singularities 1.7.10-1.2
+- Thermal Smeltery 1.0
+- Threaded Lighting 1.7.10-1.0
+- TiC Tooltips 1.2.5
+- Tinkers Construct Auto Tool Station 1.1.2
+- Tinkers' Construct 1.7.10-1.8.8.build988
+- Translocator 1.1.2.16
+- Tree Growing Simulator 2014 0.0.3
+- UniDict 1.7.10-2.9
+- Vein Miner 0.34.1_1.7.10-4d066f1
+- WAILA Plugins MC1.7.10-0.2.0-23
+- Waila 1.5.10
+- Waila Harvestability 1.1.6
+- What Are We Looking At 1.3.1
+- Ztones 1.7.10
+- bspkrsCore 6.16
+- debug 1.0
+- enderbatteries 1.0
+- iChunUtil 4.2.2
+- libsandstone 1.0.0
+- §9MrCrayfish's Furniture Mod 3.4.7
+
+Classpath files:
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/jars/NewLaunch.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/mojang/netty/1.6/netty-1.6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/versions/1.7.10/1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/%5B1.7.10%5DAppliedExchange-1.7.10-0.1.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/AppleCore-mc1.7.10-1.3.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/appliedenergistics2-rv3-beta-6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Aroma1997Core-1.7.10-1.0.2.16.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/BrandonsCore-1.0.0.12.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/CodeChickenCore-1.7.10-1.0.7.47-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/CoFHCore-%5B1.7.10%5D3.1.3-327.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/EnderCore-1.7.10-0.2.0.38_beta.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/fastcraft-1.23.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/ForgeRelocation-1.7.10-0.0.1.4-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/gilded-games-util-1.7.10-1.9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/InfiniBows-1.7.10-universal-coremod-1.3.0.20.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/INpureCore-%5B1.7.10%5D1.0.0B9-62.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/InventoryTweaks-1.59-dev-152.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/liteloader-1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/logisticspipes-0.9.3.126.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Mekanism-1.7.10-9.1.0.281.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MicdoodleCore-1.7-3.0.12.463.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/MrTJPCore-1.1.0.33-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/OpenBlocks-1.7.10-1.5.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/OpenModsLib-1.7.10-0.9.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/PlayerAPI-1.7.10-1.4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/RandomThings-2.2.4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Reliquary-1.7.10-1.2.1.483.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ResourceLoader-MC1.7.10-1.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/SquidAPI-1.1.15.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/mod_macros_0.10.12_for_1.7.10.litemod
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/mod_betterClouds-1.0.1_for_1.7.10.litemod
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/CoFHLib-%5B1.7.10%5D1.1.2-182.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/mcjtylib-1.8.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/commons-codec-1.9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/commons-compress-1.8.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/denseores-1.6.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ItemBlacklist-1.7.10-1.2.0.8.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/%5B1.7.10%5DBetter_Furnaces_V4.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/%5B1.7.10%5DBFCompatV3.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/%5B1.7.10%5DbspkrsCore-universal-6.16.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/%5B1.7.10%5DStartingInventory-universal-1.7.10.r03.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/bdlib-1.9.4.109-mc1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ae2stuff-rv3-0.5.1.9-mc1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/aether-1.7.10-1.6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/AgriCraft-1.7.10-1.5.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Baubles-1.7.10-1.0.1.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Artifacts-1.1.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Botania%20r1.8-249.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Avaritia-1.11.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Avaritiaddons-1.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/baublelicious-1.7.10-1.2.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/BetterAchievements-1.7.10-0.1.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/BiblioCraft%5Bv1.11.5%5D%5BMC1.7.10%5D.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Mantle-1.7.10-0.3.2b.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/natura-1.7.10-2.2.0.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/BiblioWoods%5BNatura%5D%5Bv1.5%5D.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ThermalFoundation-%5B1.7.10%5D1.2.5-115.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ThermalExpansion-%5B1.7.10%5D4.1.4-247.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/BigReactors-0.4.3A.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/buildcraft-7.1.17.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/buildcraft-compat-7.1.5.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Chisel-2.9.5.11.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Carpenter's%20Blocks%20v3.3.8%20-%20MC%201.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ChanceCubes-1.7.10-2.2.1.121.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ChickenChunks-1.7.10-1.3.4.19-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/compacter-1.1.0.12-mc1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ComputerCraft1.75.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ConvenientRecipes-1.7.10-1.3.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/cookingbook-mc1.7.10-1.0.140.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/CraftTweaker-1.7.10-3.0.11.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/CustomMainMenu-MC1.7.10-1.9.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/CustomThings-MC1.7.10-0.0.3-52.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/GalacticraftCore-1.7-3.0.12.463.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/DefenseTech-1.7.10-1.0.1.46.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Draconic-Evolution-1.7.10-1.0.2h.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/eiramoticons-mc1.7.10-1.2.84.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/EnderStorage-1.7.10-1.4.7.37-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/enderbatteries-MC1.7.10-0.1-3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MineFactoryReloaded-%5B1.7.10%5D2.8.1-174.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Waila-1.5.10_1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/EnderIO-1.7.10-2.3.0.429_beta.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/EnderIOAddons-1.7.10-2.3.0.427_beta-0.10.11.54_beta.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Ex-Nihilo-1.38-53.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/RedstoneArsenal-%5B1.7.10%5D1.1.2-92.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/extrautilities-1.2.12.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ImmersiveEngineering-0.7.7.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/TConstruct-1.7.10-1.8.8.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Ex-Astris-Rebirth-MC1.7.10-1.01-45.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/excompressum-mc1.7.10-1.1.143.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ExtraCells-1.7.10-2.3.14b197.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Galacticraft-Planets-1.7-3.0.12.463.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ExtraPlanets-1.0-Pre%203.6.9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Pam's%20HarvestCraft%201.7.10Lb.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ExtraTiC-1.7.10-1.4.6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/FlatBedrock-1.0.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/FTBLib-1.7.10-1.0.18.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/FTBTweaks-1.0.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/FTBUtilities-1.7.10-1.0.18.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/GardenOfGlass.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Hardcore%20Wither-1.7.10-1.1.3-21-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/HardCoreMapReset-2.2.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/HQM-The%20Journey-4.4.4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/iChunUtil-4.2.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/LunatriusCore-1.7.10-1.1.2.21-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/InGameInfoXML-1.7.10-2.8.1.82-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ironchest-1.7.10-6.0.60.741-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/journeymap-1.7.10-5.1.4p1-unlimited.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/KaratGarden-1.7.10-0.0.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/kleeslabs-mc1.7.10-1.2.9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/LootBags-1.7.10-2.0.15.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/magicalcrops-4.0.0_PUBLIC_BETA_5.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/magicalcropsarmoury-4.0.0_PUBLIC_BETA_4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/magicalcropsdeco-4.0.0_PUBLIC_BETA_4a.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/magneticraft-0.6.1-final.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MekanismGenerators-1.7.10-9.1.0.281.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MekanismTools-1.7.10-9.1.0.281.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MFR%20Compat%20-%20Magical%20Crops%20v1-2-1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-World.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ModTweaker2-0.9.6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MoreChisels-1.7.10-1.0-28.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MouseTweaks-2.4.4-mc1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/neiaddons-1.12.14.40-mc1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/NEIIntegration-MC1.7.10-1.1.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/NetherOres-%5B1.7.10%5D2.3.1-22.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/netherportalfix-mc1.7.10-1.1.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/NoMobSpawningOnTrees-1.1.4-mc1.7.10.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/nomorerain-1.7.10-0.0.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/OpenModularTurrets-1.7.10-2.2.4-225.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/PackGuard-1.3.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ProjectE-1.7.10-PE1.10.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/peaether-1.7.10-PEA1.0.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/PneumaticCraft-1.7.10-1.12.7-150-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/PortalGun-4.0.0-beta-6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/QuantumFlux-1.7.10-1.3.4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Redstonic-v1.4.11.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/rftools-4.23.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/SimpleAchievements-MC1.7.10-1.1.0-21.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/SimpleLabels-1.7.10-1.0-9.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/SimplyJetpacks-MC1.7.10-1.5.3.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/SkyLandsForge-1.7.10_0.0.2a.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Snad-1.7.10-1.6.01.31a.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/SolarFlux-1.7.10-0.8b.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/StorageDrawers-1.7.10-1.10.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/TheErebus-0.4.7.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ThermalDynamics-%5B1.7.10%5D1.2.0-171.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ThermalSingularities-1.7.10-1.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/ThermalSmeltery-1.3.1.4.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/TiConAutoToolStation-1.7.10-1.1.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/TiCTooltips-mc1.7.10-1.2.5.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Translocator-1.7.10-1.1.2.16-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/VeinMiner-0.34.1-1.7.10r473+4d066f1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/WailaHarvestability-mc1.7.10-1.1.6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/WAILAPlugins-MC1.7.10-0.2.0-23.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Wawla-1.0.5.120.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/WirelessCraftingTerminal-1.7.10-rv3-1.8.7.1b.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/xprings-1.2.0.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Ztones-1.7.10-2.2.1.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/1.7.10/ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/AOBD-2.9.2.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/IguanaTinkerTweaks-1.7.10-2.1.6.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/MooFluids-1.7.10-1.5.01.19a.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/RanchableFluidCows-1.7.10-1.1.5.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/UniDict-1.7.10-2.9.jar
+
+Blackboard:
+- fcimc9afc808c={wrUpdateTime=0}
+- TweakClasses=[]
+- Tweaks=[]
+- OpenModsCoreLoaded=0.9.1
+- fml.deobfuscatedEnvironment=false
+- modList={}
+- launchArgs={}
+- ArgumentList=[--uuid, 83d3619aa3dd4813a289a1dc0645a160, --userProperties, {}, --assetIndex, 1.7.10, --assetsDir, C:\Users\%removed%\Desktop\Ozone-Modified\MultiMC\assets, --gameDir, C:\Users\%removed%\Desktop\Ozone-Modified\MultiMC\instances\1.7.10\minecraft, --accessToken, %removed%, --version, MultiMC5, --userType, legacy, --username, %removed%]
+- fcVersion=1.23

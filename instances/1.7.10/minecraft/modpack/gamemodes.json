@@ -1,0 +1,8 @@
+{
+  "modes": [
+    "normal",
+    "titan"
+  ],
+  "default": "normal",
+  "common": "common"
+}

@@ -1,0 +1,122 @@
+{
+  "who": {
+    "Chance": -70,
+    "Message": [
+      {
+        "message": "Who Dat Is!?",
+        "range": 4
+      },
+      {
+        "message": "[Wither] You know who dat is!",
+        "delay": 8,
+        "range": 4
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon WitherBoss",
+        "delay": 8
+      }
+    ]
+  },
+  "who1": {
+    "Chance": -40,
+    "Message": [
+      {
+        "message": "Who Dat Is!?",
+        "range": 4
+      },
+      {
+        "message": "[Solifuge] Ailments!",
+        "delay": 8,
+        "range": 4
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon erebus.solifuge",
+        "delay": 8
+      }
+    ]
+  },
+  "who2": {
+    "Chance": 0,
+    "Message": [
+      {
+        "message": "Who Dat Is!?",
+        "range": 4
+      },
+      {
+        "message": "[Endest Pearl] Void!",
+        "delay": 8,
+        "range": 4
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon Avaritia.EndestPearl",
+        "delay": 16
+      }
+    ]
+  },
+  "who3": {
+    "Chance": 40,
+    "Message": [
+      {
+        "message": "Who Dat Is!?",
+        "range": 4
+      },
+      {
+        "message": "[Aerbunny] Bounce!",
+        "delay": 8,
+        "range": 4
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon aether.aerbunny",
+        "delay": 8
+      }
+    ]
+  },
+  "who4": {
+    "Chance": -80,
+    "Message": [
+      {
+        "message": "Who Dat Is!?",
+        "range": 12
+      },
+      {
+        "message": "Tactical Nuke Incoming!",
+        "delay": 20,
+        "range": 12
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon ExtraPlanets.ExtraPlanetsNuclearBombPrimed",
+        "delay": 40
+      }
+    ]
+  },
+  "who5": {
+    "Chance": -100,
+	"Message": [
+	 {
+		"message": "Who Dat Is!?",
+		"range": 64
+	 },
+	 {
+		"message": "I hope this isn't near your base.",
+		"delay": 8,
+		"range": 64
+	 }
+	],
+	"Command": [
+	 {
+		"command": "/summon DraconicEvolution.EntityChaosEnergyVortex",
+		"delay": 200
+	 }
+	]
+  }
+ }

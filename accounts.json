@@ -1,0 +1,38 @@
+{
+    "accounts": [
+        {
+            "accessToken": "ac6a30e78c904b07bb4094335a3fc7fa",
+            "activeProfile": "83d3619aa3dd4813a289a1dc0645a160",
+            "clientToken": "f6f6093e8d6a4132b25dfbdb6b376fa9",
+            "profiles": [
+                {
+                    "id": "83d3619aa3dd4813a289a1dc0645a160",
+                    "legacy": true,
+                    "name": "EaTzUrFaCe"
+                }
+            ],
+            "user": {
+                "id": "11442887"
+            },
+            "username": "EaTzUrFaCe"
+        },
+        {
+            "accessToken": "e46a9b1c2d984418bd155539e24c5978",
+            "activeProfile": "7455223fb79e483e926a6985498fb29a",
+            "clientToken": "9a67a28b27ef4008992b39b5ec2ffc1b",
+            "profiles": [
+                {
+                    "id": "7455223fb79e483e926a6985498fb29a",
+                    "legacy": false,
+                    "name": "EaTzMyFaCe"
+                }
+            ],
+            "user": {
+                "id": "25f449b07c2a56f532e78d85c814b4c9"
+            },
+            "username": "mathwhiz19@gmail.com"
+        }
+    ],
+    "activeAccount": "EaTzUrFaCe",
+    "formatVersion": 2
+}

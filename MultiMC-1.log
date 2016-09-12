@@ -1,0 +1,181 @@
+    0.002 D MultiMC 5, (c) 2013-2015 MultiMC Contributors
+    0.002 D Version                    :  "0.4.11-751"
+    0.002 D Git commit                 :  "a3cd3d5ff18215a475ed6b5f231f3f02ccd668f7"
+    0.002 D Git refspec                :  "refs/heads/stable"
+    0.002 D Work dir before adjustment :  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC"
+    0.002 D Work dir after adjustment  :  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC"
+    0.002 D Adjusted by                :  "Command line C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC"
+    0.002 D Binary path                :  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC"
+    0.013 D Application root path      :  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC"
+    0.015 D Detected default console font: "Courier" , substitutions: ""
+    0.015 D FTB Launcher paths: "C:/Users/Matt Hermes/AppData/Roaming/ftblauncher" and "C:/Users/Matt Hermes/AppData/Local/ftblauncher"
+    0.015 D Attempting to read "C:/Users/Matt Hermes/AppData/Roaming/ftblauncher/ftblaunch.cfg"
+    0.017 D FTB is installed at "c:/ftb"
+    0.087 D Your language is "en"
+    0.093 W libpng warning: iCCP: known incorrect sRGB profile
+    0.101 D Started watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/icons"
+    0.101 D Instance path              :  "instances"
+    0.102 D Loading Instances...
+    0.102 D Loading accounts...
+    0.102 C "Failed to read the account list file (accounts.json)."
+    0.102 D Detecting proxy settings...
+    0.102 D Using no proxy is an option!
+    0.102 D Downloading Translations Index...
+    0.102 D "Translations Index"  started.
+    0.122 D "Status JSON"  started.
+    0.126 D Loading builtin version list.
+    0.126 W Blacklisted legacy version ignored:  "rd-160052"
+    0.401 D Reloading news.
+    0.401 D "News RSS Feed"  started.
+    0.401 D Checking for updates.
+    0.401 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.401 D Loading the channel list.
+    0.401 D "Update System Channel List"  started.
+    0.401 D "Checking for notifications"  started.
+    0.449 D Java path needs resetting, showing Java selection dialog...
+    0.463 D Probing the following Java paths: 
+    0.463 D   "C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe"
+    0.463 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+    0.463 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+    0.463 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+    0.463 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+    0.463 D   "java"
+    0.463 D "Java detection"  started.
+    0.463 D "Running java checker: C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe-jar C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/jars/JavaCheck.jar"
+    0.466 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/jars/JavaCheck.jar"
+    0.466 D Java checker has failed to start.
+    0.466 D "Java detection" progress: 1 / 6
+    0.466 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/jars/JavaCheck.jar"
+    0.467 D Java checker has failed to start.
+    0.467 D "Java detection" progress: 2 / 6
+    0.467 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/jars/JavaCheck.jar"
+    0.467 D Java checker has failed to start.
+    0.467 D "Java detection" progress: 3 / 6
+    0.467 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/jars/JavaCheck.jar"
+    0.467 D Java checker has failed to start.
+    0.467 D "Java detection" progress: 4 / 6
+    0.467 D "Running java checker: java-jar C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/jars/JavaCheck.jar"
+    0.470 D Downloading  "http://files.multimc.org/translations/index"
+    0.471 D Downloading  "http://status.mojang.com/check"
+    0.471 D Downloading  "http://multimc.org/rss.xml"
+    0.471 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    0.471 D Downloading  "http://files.multimc.org/notifications.json"
+    0.741 D STDOUT "os.arch=amd64
+java.version=1.8.0_91
+"
+    0.741 W STDERR ""
+    0.741 D Java checker finished with status  0  exit code  0
+    0.741 D Java checker succeeded.
+    0.741 D "Java detection" progress: 5 / 6
+    0.891 D STDOUT "os.arch=amd64
+java.version=1.8.0_91
+"
+    0.891 W STDERR ""
+    0.891 D Java checker finished with status  0  exit code  0
+    0.891 D Java checker succeeded.
+    0.891 D "Java detection" progress: 6 / 6
+    0.891 D Found the following valid Java installations:
+    0.891 D   "1.8.0_91" "64" "C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe"
+    0.891 D   "1.8.0_91" "64" "java"
+    0.891 D Task succeeded
+    1.267 D Following redirect to  "https://multimc.org/rss.xml"
+    1.267 D Downloading  "https://multimc.org/rss.xml"
+    1.338 D "Status JSON" succeeded.
+    1.338 D Task succeeded
+    1.338 D Finished loading status JSON.
+    1.338 D Status loading succeeded.
+    1.535 D "Translations Index" succeeded.
+    1.535 D Task succeeded
+    1.535 D Got translations index!
+    1.535 D "Translations"  started.
+    1.536 D Downloading  "http://files.multimc.org/translations/bg.qm"
+    1.536 D Downloading  "http://files.multimc.org/translations/cs.qm"
+    1.537 D Downloading  "http://files.multimc.org/translations/de.qm"
+    1.537 D Downloading  "http://files.multimc.org/translations/es.qm"
+    1.538 D Downloading  "http://files.multimc.org/translations/fi.qm"
+    1.538 D Downloading  "http://files.multimc.org/translations/fr.qm"
+    1.551 D "Update System Channel List" succeeded.
+    1.551 D Task succeeded
+    1.551 D Successfully loaded UpdateChecker channel list.
+    1.551 D Checking for updates.
+    1.551 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    1.551 D "GoUpdate Repository Index"  started.
+    1.611 D "Checking for notifications" succeeded.
+    1.612 D Task succeeded
+    1.612 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    1.681 D Downloading  "http://files.multimc.org/translations/it.qm"
+    1.958 D Loaded LWJGL list.
+    2.045 D "GoUpdate Repository Index" succeeded.
+    2.045 D Task succeeded
+    2.045 D Finished downloading repo index. Checking for new versions.
+    2.045 D Processing repository version list.
+    2.323 D Loading remote version list.
+    2.323 D Loaded version "16w36a" from remote version list.
+    2.323 D Loaded version "16w35a" from remote version list.
+    2.323 D Loaded version "16w33a" from remote version list.
+    2.323 D Loaded version "16w32b" from remote version list.
+    2.323 D Loaded version "1.10.2" from remote version list.
+    2.323 D Loaded version "1.10.1" from remote version list.
+    2.323 D Loaded version "1.10" from remote version list.
+    2.323 D Loaded version "16w21b" from remote version list.
+    2.323 D Loaded version "16w20a" from remote version list.
+    2.323 D Loaded version "1.9.4" from remote version list.
+    2.323 D Loaded version "1.9.3" from remote version list.
+    2.323 D Loaded version "16w15b" from remote version list.
+    2.323 D Loaded version "16w14a" from remote version list.
+    2.323 D Loaded version "1.9.2" from remote version list.
+    2.323 D Loaded version "1.9.1" from remote version list.
+    2.323 D Loaded version "1.9" from remote version list.
+    2.323 D Loaded version "1.8.9" from remote version list.
+    2.323 D Loaded version "1.8.8" from remote version list.
+    2.323 D Loaded version "1.8.7" from remote version list.
+    2.323 D Loaded version "1.8.6" from remote version list.
+    2.323 D Loaded version "1.8.5" from remote version list.
+    2.324 D Loaded version "1.8.4" from remote version list.
+    2.324 D Loaded version "1.8.3" from remote version list.
+    2.324 D Loaded version "1.8.2" from remote version list.
+    2.324 D Loaded version "1.8.1" from remote version list.
+    2.324 D Loaded version "1.8" from remote version list.
+    2.324 D Loaded version "1.7.10" from remote version list.
+    2.324 D Loaded version "1.7.9" from remote version list.
+    2.324 D Loaded version "1.7.8" from remote version list.
+    2.324 D Loaded version "1.7.7" from remote version list.
+    2.324 D Loaded version "1.7.6" from remote version list.
+    2.324 D Loaded version "1.7.5" from remote version list.
+    2.324 D Loaded version "1.7.4" from remote version list.
+    2.324 D Loaded version "1.7.3" from remote version list.
+    2.324 D Loaded version "1.7.2" from remote version list.
+    2.324 D Loaded version "1.6.4" from remote version list.
+    2.324 D Loaded version "1.6.2" from remote version list.
+    2.324 D Loaded version "1.6.1" from remote version list.
+    2.324 W Blacklisted legacy version ignored:  "rd-160052"
+    2.324 D Task succeeded
+    2.345 D "News RSS Feed" succeeded.
+    2.345 D Task succeeded
+    2.345 D Finished loading RSS feed.
+    2.345 D Loaded news entry "Update to 0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    2.345 D Loaded news entry "Update to 0.4.10 - Another wifi fix"
+    2.345 D Loaded news entry "Update to 0.4.9 - the Windows wifi fix"
+    2.345 D Loaded news entry "Update to 0.4.8"
+    2.345 D Loaded news entry "Update to 0.4.7, what 0.4.6 should have been."
+    2.345 D Loaded news entry "Update to 0.4.6, Bug fixes and improvements!"
+    2.345 D Loaded news entry "Update to 0.4.5, Translations, Themes, and Technic"
+    2.346 D Loaded news entry "Version 0.4 out - Jar mods, UI changes, and more!"
+    2.346 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    2.346 D Loaded news entry "Support us on Patreon!"
+    2.346 D News loading succeeded.
+    2.575 D Downloading  "http://files.multimc.org/translations/ja.qm"
+    2.700 D Downloading  "http://files.multimc.org/translations/ko.qm"
+    2.741 D Downloading  "http://files.multimc.org/translations/nb.qm"
+    3.015 D Downloading  "http://files.multimc.org/translations/nl.qm"
+    3.063 D Downloading  "http://files.multimc.org/translations/pl.qm"
+    3.234 D Downloading  "http://files.multimc.org/translations/pt_BR.qm"
+    3.431 D Downloading  "http://files.multimc.org/translations/pt_PT.qm"
+    3.472 D Downloading  "http://files.multimc.org/translations/ru.qm"
+    3.712 D Downloading  "http://files.multimc.org/translations/sv.qm"
+    3.792 D Downloading  "http://files.multimc.org/translations/tr.qm"
+    3.883 D Downloading  "http://files.multimc.org/translations/zh.qm"
+    4.158 D Downloading  "http://files.multimc.org/translations/zh_TW.qm"
+    5.965 D "Translations" succeeded.
+    5.965 D Task succeeded
+    5.965 D Got translations!

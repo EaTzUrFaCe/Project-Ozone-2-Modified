@@ -1,0 +1,20 @@
+{
+  "__GLOBAL__": [
+    {
+      "item": "aether:continuumOrb",
+      "damage": "*"
+    },
+	{
+      "item": "aether:luckyBell",
+      "damage": "*"
+    },
+	{
+      "item": "aether:continuumBomb",
+      "damage": "*"
+    },
+    {
+      "item": "aether:continuumOre",
+      "damage": "*"
+    }
+  ]
+}
