@@ -3177,3 +3177,663 @@ java.version=1.8.0_91
 10080.119 D Task succeeded
 10080.119 D Finished loading status JSON.
 10080.119 D Status loading succeeded.
+10140.040 D "Status JSON"  started.
+10140.040 D Downloading  "http://status.mojang.com/check"
+10140.126 D "Status JSON" succeeded.
+10140.127 D Task succeeded
+10140.127 D Finished loading status JSON.
+10140.127 D Status loading succeeded.
+10200.031 D "Status JSON"  started.
+10200.031 D Downloading  "http://status.mojang.com/check"
+10200.117 D "Status JSON" succeeded.
+10200.117 D Task succeeded
+10200.117 D Finished loading status JSON.
+10200.117 D Status loading succeeded.
+10260.037 D "Status JSON"  started.
+10260.037 D Downloading  "http://status.mojang.com/check"
+10260.128 D "Status JSON" succeeded.
+10260.128 D Task succeeded
+10260.128 D Finished loading status JSON.
+10260.128 D Status loading succeeded.
+10320.044 D "Status JSON"  started.
+10320.044 D Downloading  "http://status.mojang.com/check"
+10320.131 D "Status JSON" succeeded.
+10320.131 D Task succeeded
+10320.131 D Finished loading status JSON.
+10320.131 D Status loading succeeded.
+10380.031 D "Status JSON"  started.
+10380.031 D Downloading  "http://status.mojang.com/check"
+10380.115 D "Status JSON" succeeded.
+10380.115 D Task succeeded
+10380.115 D Finished loading status JSON.
+10380.115 D Status loading succeeded.
+10440.044 D "Status JSON"  started.
+10440.044 D Downloading  "http://status.mojang.com/check"
+10440.131 D "Status JSON" succeeded.
+10440.131 D Task succeeded
+10440.131 D Finished loading status JSON.
+10440.132 D Status loading succeeded.
+10500.031 D "Status JSON"  started.
+10500.031 D Downloading  "http://status.mojang.com/check"
+10500.115 D "Status JSON" succeeded.
+10500.115 D Task succeeded
+10500.115 D Finished loading status JSON.
+10500.115 D Status loading succeeded.
+10560.037 D "Status JSON"  started.
+10560.037 D Downloading  "http://status.mojang.com/check"
+10560.126 D "Status JSON" succeeded.
+10560.126 D Task succeeded
+10560.126 D Finished loading status JSON.
+10560.126 D Status loading succeeded.
+10620.042 D "Status JSON"  started.
+10620.042 D Downloading  "http://status.mojang.com/check"
+10620.127 D "Status JSON" succeeded.
+10620.127 D Task succeeded
+10620.128 D Finished loading status JSON.
+10620.128 D Status loading succeeded.
+10680.032 D "Status JSON"  started.
+10680.032 D Downloading  "http://status.mojang.com/check"
+10680.120 D "Status JSON" succeeded.
+10680.120 D Task succeeded
+10680.120 D Finished loading status JSON.
+10680.120 D Status loading succeeded.
+10740.032 D "Status JSON"  started.
+10740.032 D Downloading  "http://status.mojang.com/check"
+10740.527 D "Status JSON" succeeded.
+10740.527 D Task succeeded
+10740.527 D Finished loading status JSON.
+10740.527 D Status loading succeeded.
+10800.041 D "Status JSON"  started.
+10800.041 D Downloading  "http://status.mojang.com/check"
+10801.138 D "Status JSON" succeeded.
+10801.138 D Task succeeded
+10801.138 D Finished loading status JSON.
+10801.138 D Status loading succeeded.
+10860.037 D "Status JSON"  started.
+10860.037 D Downloading  "http://status.mojang.com/check"
+10860.130 D "Status JSON" succeeded.
+10860.130 D Task succeeded
+10860.130 D Finished loading status JSON.
+10860.130 D Status loading succeeded.
+10920.031 D "Status JSON"  started.
+10920.032 D Downloading  "http://status.mojang.com/check"
+10920.120 D "Status JSON" succeeded.
+10920.120 D Task succeeded
+10920.120 D Finished loading status JSON.
+10920.120 D Status loading succeeded.
+10980.032 D "Status JSON"  started.
+10980.032 D Downloading  "http://status.mojang.com/check"
+10980.242 D "Status JSON" succeeded.
+10980.242 D Task succeeded
+10980.242 D Finished loading status JSON.
+10980.242 D Status loading succeeded.
+11040.031 D "Status JSON"  started.
+11040.031 D Downloading  "http://status.mojang.com/check"
+11040.213 D "Status JSON" succeeded.
+11040.213 D Task succeeded
+11040.213 D Finished loading status JSON.
+11040.213 D Status loading succeeded.
+11100.039 D "Status JSON"  started.
+11100.040 D Downloading  "http://status.mojang.com/check"
+11100.236 D "Status JSON" succeeded.
+11100.236 D Task succeeded
+11100.236 D Finished loading status JSON.
+11100.236 D Status loading succeeded.
+11160.036 D "Status JSON"  started.
+11160.036 D Downloading  "http://status.mojang.com/check"
+11160.143 D "Status JSON" succeeded.
+11160.143 D Task succeeded
+11160.143 D Finished loading status JSON.
+11160.143 D Status loading succeeded.
+11220.041 D "Status JSON"  started.
+11220.041 D Downloading  "http://status.mojang.com/check"
+11220.254 D "Status JSON" succeeded.
+11220.254 D Task succeeded
+11220.254 D Finished loading status JSON.
+11220.254 D Status loading succeeded.
+11280.031 D "Status JSON"  started.
+11280.031 D Downloading  "http://status.mojang.com/check"
+11280.232 D "Status JSON" succeeded.
+11280.232 D Task succeeded
+11280.232 D Finished loading status JSON.
+11280.232 D Status loading succeeded.
+11340.035 D "Status JSON"  started.
+11340.035 D Downloading  "http://status.mojang.com/check"
+11340.543 D "Status JSON" succeeded.
+11340.543 D Task succeeded
+11340.543 D Finished loading status JSON.
+11340.544 D Status loading succeeded.
+11400.036 D "Status JSON"  started.
+11400.036 D Downloading  "http://status.mojang.com/check"
+11400.237 D "Status JSON" succeeded.
+11400.237 D Task succeeded
+11400.237 D Finished loading status JSON.
+11400.237 D Status loading succeeded.
+11460.032 D "Status JSON"  started.
+11460.032 D Downloading  "http://status.mojang.com/check"
+11460.277 D "Status JSON" succeeded.
+11460.278 D Task succeeded
+11460.278 D Finished loading status JSON.
+11460.278 D Status loading succeeded.
+11520.031 D "Status JSON"  started.
+11520.031 D Downloading  "http://status.mojang.com/check"
+11520.302 D "Status JSON" succeeded.
+11520.302 D Task succeeded
+11520.302 D Finished loading status JSON.
+11520.302 D Status loading succeeded.
+11580.039 D "Status JSON"  started.
+11580.039 D Downloading  "http://status.mojang.com/check"
+11580.122 D "Status JSON" succeeded.
+11580.122 D Task succeeded
+11580.122 D Finished loading status JSON.
+11580.122 D Status loading succeeded.
+11640.032 D "Status JSON"  started.
+11640.032 D Downloading  "http://status.mojang.com/check"
+11640.140 D "Status JSON" succeeded.
+11640.140 D Task succeeded
+11640.140 D Finished loading status JSON.
+11640.140 D Status loading succeeded.
+11700.032 D "Status JSON"  started.
+11700.032 D Downloading  "http://status.mojang.com/check"
+11700.129 D "Status JSON" succeeded.
+11700.129 D Task succeeded
+11700.129 D Finished loading status JSON.
+11700.129 D Status loading succeeded.
+11760.034 D "Status JSON"  started.
+11760.034 D Downloading  "http://status.mojang.com/check"
+11760.313 D "Status JSON" succeeded.
+11760.313 D Task succeeded
+11760.313 D Finished loading status JSON.
+11760.313 D Status loading succeeded.
+11820.042 D "Status JSON"  started.
+11820.042 D Downloading  "http://status.mojang.com/check"
+11820.124 D "Status JSON" succeeded.
+11820.124 D Task succeeded
+11820.124 D Finished loading status JSON.
+11820.124 D Status loading succeeded.
+11880.031 D "Status JSON"  started.
+11880.031 D Downloading  "http://status.mojang.com/check"
+11880.114 D "Status JSON" succeeded.
+11880.114 D Task succeeded
+11880.114 D Finished loading status JSON.
+11880.114 D Status loading succeeded.
+11940.035 D "Status JSON"  started.
+11940.035 D Downloading  "http://status.mojang.com/check"
+11940.128 D "Status JSON" succeeded.
+11940.128 D Task succeeded
+11940.128 D Finished loading status JSON.
+11940.128 D Status loading succeeded.
+12000.031 D "Status JSON"  started.
+12000.031 D Downloading  "http://status.mojang.com/check"
+12000.426 D "Status JSON" succeeded.
+12000.426 D Task succeeded
+12000.426 D Finished loading status JSON.
+12000.426 D Status loading succeeded.
+12060.044 D "Status JSON"  started.
+12060.044 D Downloading  "http://status.mojang.com/check"
+12060.133 D "Status JSON" succeeded.
+12060.133 D Task succeeded
+12060.133 D Finished loading status JSON.
+12060.133 D Status loading succeeded.
+12120.041 D "Status JSON"  started.
+12120.041 D Downloading  "http://status.mojang.com/check"
+12120.126 D "Status JSON" succeeded.
+12120.126 D Task succeeded
+12120.126 D Finished loading status JSON.
+12120.126 D Status loading succeeded.
+12180.035 D "Status JSON"  started.
+12180.035 D Downloading  "http://status.mojang.com/check"
+12180.503 D "Status JSON" succeeded.
+12180.503 D Task succeeded
+12180.503 D Finished loading status JSON.
+12180.503 D Status loading succeeded.
+12240.042 D "Status JSON"  started.
+12240.042 D Downloading  "http://status.mojang.com/check"
+12240.252 D "Status JSON" succeeded.
+12240.252 D Task succeeded
+12240.252 D Finished loading status JSON.
+12240.252 D Status loading succeeded.
+12300.036 D "Status JSON"  started.
+12300.036 D Downloading  "http://status.mojang.com/check"
+12300.149 D "Status JSON" succeeded.
+12300.149 D Task succeeded
+12300.149 D Finished loading status JSON.
+12300.150 D Status loading succeeded.
+12360.034 D "Status JSON"  started.
+12360.034 D Downloading  "http://status.mojang.com/check"
+12360.117 D "Status JSON" succeeded.
+12360.117 D Task succeeded
+12360.117 D Finished loading status JSON.
+12360.117 D Status loading succeeded.
+12420.039 D "Status JSON"  started.
+12420.039 D Downloading  "http://status.mojang.com/check"
+12420.290 D "Status JSON" succeeded.
+12420.290 D Task succeeded
+12420.290 D Finished loading status JSON.
+12420.290 D Status loading succeeded.
+12480.038 D "Status JSON"  started.
+12480.038 D Downloading  "http://status.mojang.com/check"
+12480.304 D "Status JSON" succeeded.
+12480.304 D Task succeeded
+12480.304 D Finished loading status JSON.
+12480.304 D Status loading succeeded.
+12540.031 D "Status JSON"  started.
+12540.031 D Downloading  "http://status.mojang.com/check"
+12540.275 D "Status JSON" succeeded.
+12540.275 D Task succeeded
+12540.275 D Finished loading status JSON.
+12540.275 D Status loading succeeded.
+12600.032 D "Status JSON"  started.
+12600.032 D Downloading  "http://status.mojang.com/check"
+12600.273 D "Status JSON" succeeded.
+12600.273 D Task succeeded
+12600.273 D Finished loading status JSON.
+12600.273 D Status loading succeeded.
+12660.044 D "Status JSON"  started.
+12660.044 D Downloading  "http://status.mojang.com/check"
+12660.310 D "Status JSON" succeeded.
+12660.310 D Task succeeded
+12660.310 D Finished loading status JSON.
+12660.310 D Status loading succeeded.
+12720.043 D "Status JSON"  started.
+12720.043 D Downloading  "http://status.mojang.com/check"
+12720.281 D "Status JSON" succeeded.
+12720.281 D Task succeeded
+12720.281 D Finished loading status JSON.
+12720.281 D Status loading succeeded.
+12780.033 D "Status JSON"  started.
+12780.033 D Downloading  "http://status.mojang.com/check"
+12780.141 D "Status JSON" succeeded.
+12780.141 D Task succeeded
+12780.141 D Finished loading status JSON.
+12780.141 D Status loading succeeded.
+12840.033 D "Status JSON"  started.
+12840.033 D Downloading  "http://status.mojang.com/check"
+12840.562 D "Status JSON" succeeded.
+12840.562 D Task succeeded
+12840.562 D Finished loading status JSON.
+12840.562 D Status loading succeeded.
+12900.047 D "Status JSON"  started.
+12900.047 D Downloading  "http://status.mojang.com/check"
+12900.129 D "Status JSON" succeeded.
+12900.129 D Task succeeded
+12900.129 D Finished loading status JSON.
+12900.129 D Status loading succeeded.
+12960.047 D "Status JSON"  started.
+12960.047 D Downloading  "http://status.mojang.com/check"
+12960.132 D "Status JSON" succeeded.
+12960.132 D Task succeeded
+12960.132 D Finished loading status JSON.
+12960.132 D Status loading succeeded.
+13020.047 D "Status JSON"  started.
+13020.047 D Downloading  "http://status.mojang.com/check"
+13020.224 D "Status JSON" succeeded.
+13020.224 D Task succeeded
+13020.224 D Finished loading status JSON.
+13020.224 D Status loading succeeded.
+13080.047 D "Status JSON"  started.
+13080.047 D Downloading  "http://status.mojang.com/check"
+13080.131 D "Status JSON" succeeded.
+13080.131 D Task succeeded
+13080.131 D Finished loading status JSON.
+13080.131 D Status loading succeeded.
+13140.051 D "Status JSON"  started.
+13140.051 D Downloading  "http://status.mojang.com/check"
+13140.133 D "Status JSON" succeeded.
+13140.133 D Task succeeded
+13140.133 D Finished loading status JSON.
+13140.133 D Status loading succeeded.
+13200.053 D "Status JSON"  started.
+13200.053 D Downloading  "http://status.mojang.com/check"
+13200.141 D "Status JSON" succeeded.
+13200.141 D Task succeeded
+13200.141 D Finished loading status JSON.
+13200.141 D Status loading succeeded.
+13260.049 D "Status JSON"  started.
+13260.049 D Downloading  "http://status.mojang.com/check"
+13260.158 D "Status JSON" succeeded.
+13260.158 D Task succeeded
+13260.158 D Finished loading status JSON.
+13260.158 D Status loading succeeded.
+13320.047 D "Status JSON"  started.
+13320.047 D Downloading  "http://status.mojang.com/check"
+13320.153 D "Status JSON" succeeded.
+13320.153 D Task succeeded
+13320.153 D Finished loading status JSON.
+13320.153 D Status loading succeeded.
+13380.047 D "Status JSON"  started.
+13380.047 D Downloading  "http://status.mojang.com/check"
+13380.162 D "Status JSON" succeeded.
+13380.162 D Task succeeded
+13380.162 D Finished loading status JSON.
+13380.162 D Status loading succeeded.
+13440.047 D "Status JSON"  started.
+13440.047 D Downloading  "http://status.mojang.com/check"
+13440.537 D "Status JSON" succeeded.
+13440.538 D Task succeeded
+13440.538 D Finished loading status JSON.
+13440.538 D Status loading succeeded.
+13500.050 D "Status JSON"  started.
+13500.050 D Downloading  "http://status.mojang.com/check"
+13501.033 D "Status JSON" succeeded.
+13501.033 D Task succeeded
+13501.033 D Finished loading status JSON.
+13501.033 D Status loading succeeded.
+13560.046 D "Status JSON"  started.
+13560.046 D Downloading  "http://status.mojang.com/check"
+13560.279 D "Status JSON" succeeded.
+13560.279 D Task succeeded
+13560.279 D Finished loading status JSON.
+13560.279 D Status loading succeeded.
+13620.050 D "Status JSON"  started.
+13620.050 D Downloading  "http://status.mojang.com/check"
+13620.568 D "Status JSON" succeeded.
+13620.568 D Task succeeded
+13620.569 D Finished loading status JSON.
+13620.569 D Status loading succeeded.
+13680.050 D "Status JSON"  started.
+13680.050 D Downloading  "http://status.mojang.com/check"
+13680.279 D "Status JSON" succeeded.
+13680.279 D Task succeeded
+13680.279 D Finished loading status JSON.
+13680.279 D Status loading succeeded.
+13740.048 D "Status JSON"  started.
+13740.048 D Downloading  "http://status.mojang.com/check"
+13740.275 D "Status JSON" succeeded.
+13740.275 D Task succeeded
+13740.275 D Finished loading status JSON.
+13740.275 D Status loading succeeded.
+13800.047 D "Status JSON"  started.
+13800.047 D Downloading  "http://status.mojang.com/check"
+13800.271 D "Status JSON" succeeded.
+13800.271 D Task succeeded
+13800.271 D Finished loading status JSON.
+13800.271 D Status loading succeeded.
+13860.048 D "Status JSON"  started.
+13860.048 D Downloading  "http://status.mojang.com/check"
+13860.150 D "Status JSON" succeeded.
+13860.150 D Task succeeded
+13860.150 D Finished loading status JSON.
+13860.150 D Status loading succeeded.
+13920.053 D "Status JSON"  started.
+13920.053 D Downloading  "http://status.mojang.com/check"
+13920.182 D "Status JSON" succeeded.
+13920.182 D Task succeeded
+13920.182 D Finished loading status JSON.
+13920.182 D Status loading succeeded.
+13980.051 D "Status JSON"  started.
+13980.051 D Downloading  "http://status.mojang.com/check"
+13980.490 D "Status JSON" succeeded.
+13980.490 D Task succeeded
+13980.490 D Finished loading status JSON.
+13980.490 D Status loading succeeded.
+14040.051 D "Status JSON"  started.
+14040.051 D Downloading  "http://status.mojang.com/check"
+14040.811 D "Status JSON" succeeded.
+14040.812 D Task succeeded
+14040.812 D Finished loading status JSON.
+14040.812 D Status loading succeeded.
+14100.050 D "Status JSON"  started.
+14100.050 D Downloading  "http://status.mojang.com/check"
+14100.185 D "Status JSON" succeeded.
+14100.185 D Task succeeded
+14100.185 D Finished loading status JSON.
+14100.185 D Status loading succeeded.
+14160.048 D "Status JSON"  started.
+14160.048 D Downloading  "http://status.mojang.com/check"
+14160.142 D "Status JSON" succeeded.
+14160.142 D Task succeeded
+14160.142 D Finished loading status JSON.
+14160.142 D Status loading succeeded.
+14220.047 D "Status JSON"  started.
+14220.047 D Downloading  "http://status.mojang.com/check"
+14220.189 D "Status JSON" succeeded.
+14220.189 D Task succeeded
+14220.189 D Finished loading status JSON.
+14220.190 D Status loading succeeded.
+14280.049 D "Status JSON"  started.
+14280.049 D Downloading  "http://status.mojang.com/check"
+14280.504 D "Status JSON" succeeded.
+14280.504 D Task succeeded
+14280.504 D Finished loading status JSON.
+14280.504 D Status loading succeeded.
+14340.053 D "Status JSON"  started.
+14340.053 D Downloading  "http://status.mojang.com/check"
+14340.305 D "Status JSON" succeeded.
+14340.305 D Task succeeded
+14340.306 D Finished loading status JSON.
+14340.306 D Status loading succeeded.
+14400.048 D "Status JSON"  started.
+14400.048 D Downloading  "http://status.mojang.com/check"
+14400.132 D "Status JSON" succeeded.
+14400.132 D Task succeeded
+14400.132 D Finished loading status JSON.
+14400.132 D Status loading succeeded.
+14460.047 D "Status JSON"  started.
+14460.047 D Downloading  "http://status.mojang.com/check"
+14460.134 D "Status JSON" succeeded.
+14460.134 D Task succeeded
+14460.134 D Finished loading status JSON.
+14460.134 D Status loading succeeded.
+14520.053 D "Status JSON"  started.
+14520.053 D Downloading  "http://status.mojang.com/check"
+14520.141 D "Status JSON" succeeded.
+14520.141 D Task succeeded
+14520.141 D Finished loading status JSON.
+14520.141 D Status loading succeeded.
+14580.050 D "Status JSON"  started.
+14580.050 D Downloading  "http://status.mojang.com/check"
+14580.134 D "Status JSON" succeeded.
+14580.134 D Task succeeded
+14580.134 D Finished loading status JSON.
+14580.134 D Status loading succeeded.
+14640.046 D "Status JSON"  started.
+14640.046 D Downloading  "http://status.mojang.com/check"
+14640.134 D "Status JSON" succeeded.
+14640.134 D Task succeeded
+14640.134 D Finished loading status JSON.
+14640.134 D Status loading succeeded.
+14700.050 D "Status JSON"  started.
+14700.051 D Downloading  "http://status.mojang.com/check"
+14700.136 D "Status JSON" succeeded.
+14700.136 D Task succeeded
+14700.136 D Finished loading status JSON.
+14700.136 D Status loading succeeded.
+14760.046 D "Status JSON"  started.
+14760.047 D Downloading  "http://status.mojang.com/check"
+14760.131 D "Status JSON" succeeded.
+14760.131 D Task succeeded
+14760.131 D Finished loading status JSON.
+14760.131 D Status loading succeeded.
+14820.046 D "Status JSON"  started.
+14820.046 D Downloading  "http://status.mojang.com/check"
+14820.134 D "Status JSON" succeeded.
+14820.135 D Task succeeded
+14820.135 D Finished loading status JSON.
+14820.135 D Status loading succeeded.
+14880.052 D "Status JSON"  started.
+14880.052 D Downloading  "http://status.mojang.com/check"
+14880.140 D "Status JSON" succeeded.
+14880.141 D Task succeeded
+14880.141 D Finished loading status JSON.
+14880.141 D Status loading succeeded.
+14940.051 D "Status JSON"  started.
+14940.051 D Downloading  "http://status.mojang.com/check"
+14940.135 D "Status JSON" succeeded.
+14940.135 D Task succeeded
+14940.135 D Finished loading status JSON.
+14940.135 D Status loading succeeded.
+15000.047 D "Status JSON"  started.
+15000.047 D Downloading  "http://status.mojang.com/check"
+15000.149 D "Status JSON" succeeded.
+15000.150 D Task succeeded
+15000.150 D Finished loading status JSON.
+15000.150 D Status loading succeeded.
+15060.046 D "Status JSON"  started.
+15060.047 D Downloading  "http://status.mojang.com/check"
+15060.134 D "Status JSON" succeeded.
+15060.134 D Task succeeded
+15060.134 D Finished loading status JSON.
+15060.134 D Status loading succeeded.
+15120.049 D "Status JSON"  started.
+15120.049 D Downloading  "http://status.mojang.com/check"
+15120.138 D "Status JSON" succeeded.
+15120.138 D Task succeeded
+15120.138 D Finished loading status JSON.
+15120.138 D Status loading succeeded.
+15180.046 D "Status JSON"  started.
+15180.046 D Downloading  "http://status.mojang.com/check"
+15180.135 D "Status JSON" succeeded.
+15180.135 D Task succeeded
+15180.135 D Finished loading status JSON.
+15180.135 D Status loading succeeded.
+15240.046 D "Status JSON"  started.
+15240.046 D Downloading  "http://status.mojang.com/check"
+15240.130 D "Status JSON" succeeded.
+15240.130 D Task succeeded
+15240.130 D Finished loading status JSON.
+15240.130 D Status loading succeeded.
+15300.047 D "Status JSON"  started.
+15300.047 D Downloading  "http://status.mojang.com/check"
+15300.134 D "Status JSON" succeeded.
+15300.134 D Task succeeded
+15300.134 D Finished loading status JSON.
+15300.134 D Status loading succeeded.
+15360.046 D "Status JSON"  started.
+15360.046 D Downloading  "http://status.mojang.com/check"
+15360.133 D "Status JSON" succeeded.
+15360.133 D Task succeeded
+15360.133 D Finished loading status JSON.
+15360.134 D Status loading succeeded.
+15413.046 C Task failed:  "Game crashed."
+15413.090 C Task failed:  "Game crashed."
+15420.048 D "Status JSON"  started.
+15420.048 D Downloading  "http://status.mojang.com/check"
+15420.136 D "Status JSON" succeeded.
+15420.136 D Task succeeded
+15420.136 D Finished loading status JSON.
+15420.136 D Status loading succeeded.
+15440.861 D Task succeeded
+15440.872 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/saves"
+15440.872 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/texturepacks"
+15440.872 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/resourcepacks"
+15440.873 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/coremods"
+15440.873 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods"
+15443.125 D Processing authentication response.
+15443.125 D Getting new access token.
+15443.125 D Finished reading refresh response.
+15443.125 D Task succeeded
+15443.125 D Writing account list to "accounts.json"
+15443.125 D Building JSON data structure.
+15443.125 D Building account array.
+15443.125 D Writing account list to file.
+15443.127 D Saved account list to "accounts.json"
+15443.926 W Order file doesn't exist. Ignoring.
+15443.926 D Reading "net.minecraftforge.json"
+15443.931 W Order file doesn't exist. Ignoring.
+15443.932 D Reading "net.minecraftforge.json"
+15443.949 C BAD stuff happened to mod json:
+15443.949 C "{
+  "modListVersion": 5,
+  "modList": [{
+    "modid": "aether",
+    "name": "Aether II",
+    "description": "In development by Gilded Games, the Aether II is an extensive mod for Minecraft which implements a remarkable world in the skies. Adventure, danger, and mystery awaits in the depths of the Aether.",
+    "version": "1.7.10-1.6",
+    "mcversion": "1.7.10",
+    "url": "http://www.AetherII.com",
+    "updateUrl": "",
+    "authorList": [ "Brandon Pearce", "Emile van Krieken", "Oscar Payn", "Hugo Payn", "Brandon Potts", "Brendan Freeman", "Collin Soares", "Kino", "Jon Lachney" ],
+    "credits": "Gilded Games, The Aether Team",
+    "logoFile": "/assets/aether/logo.png",
+    "requiredMods": [ "Forge", "gilded-games-util" ],
+    "dependencies": [ "gilded-games-util" ],
+    "useDependencyInformation": true
+  }]
+}
+"
+15444.356 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+15444.382 D Task succeeded
+15444.382 D Task succeeded
+15444.383 D Task succeeded
+15444.383 D Instance either provides a version file or doesn't need an update.
+15444.383 D "Project Ozone 2" : downloading libraries
+15444.383 W Order file doesn't exist. Ignoring.
+15444.383 D Reading "net.minecraftforge.json"
+15444.387 D "Libraries for instance Project Ozone 2"  started.
+15444.402 D "Libraries for instance Project Ozone 2" succeeded.
+15444.402 D Task succeeded
+15444.402 D "Project Ozone 2" : Starting asset index download
+15444.402 D "Asset index for Project Ozone 2"  started.
+15444.420 D Downloading  "http://s3.amazonaws.com/Minecraft.Download/indexes/1.7.10.json"
+15444.628 D "Asset index for Project Ozone 2" succeeded.
+15444.628 D Task succeeded
+15444.628 D "Project Ozone 2" : Finished asset index download
+15444.641 D Task succeeded
+15444.641 D Task succeeded
+15444.661 C BAD stuff happened to mod json:
+15444.662 C "{
+  "modListVersion": 5,
+  "modList": [{
+    "modid": "aether",
+    "name": "Aether II",
+    "description": "In development by Gilded Games, the Aether II is an extensive mod for Minecraft which implements a remarkable world in the skies. Adventure, danger, and mystery awaits in the depths of the Aether.",
+    "version": "1.7.10-1.6",
+    "mcversion": "1.7.10",
+    "url": "http://www.AetherII.com",
+    "updateUrl": "",
+    "authorList": [ "Brandon Pearce", "Emile van Krieken", "Oscar Payn", "Hugo Payn", "Brandon Potts", "Brendan Freeman", "Collin Soares", "Kino", "Jon Lachney" ],
+    "credits": "Gilded Games, The Aether Team",
+    "logoFile": "/assets/aether/logo.png",
+    "requiredMods": [ "Forge", "gilded-games-util" ],
+    "dependencies": [ "gilded-games-util" ],
+    "useDependencyInformation": true
+  }]
+}
+"
+15444.987 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+15444.990 D Env:  "PSModulePath" "C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\"
+15444.990 D Env:  "CommonProgramW6432" "C:\Program Files\Common Files"
+15444.990 D Env:  "OS" "Windows_NT"
+15444.990 D Env:  "PROCESSOR_REVISION" "5e03"
+15444.990 D Env:  "=::" "::\"
+15444.990 D Env:  "USERDOMAIN_ROAMINGPROFILE" "DESKTOP-E0HRGE1"
+15444.990 D Env:  "ProgramFiles" "C:\Program Files (x86)"
+15444.990 D Env:  "TMP" "C:\Users\MATTHE~1\AppData\Local\Temp"
+15444.990 D Env:  "APPDATA" "C:\Users\Matt Hermes\AppData\Roaming"
+15444.990 D Env:  "SystemDrive" "C:"
+15444.990 D Env:  "Path" "C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Nmap"
+15444.990 D Env:  "COMPUTERNAME" "DESKTOP-E0HRGE1"
+15444.990 D Env:  "USERDOMAIN" "DESKTOP-E0HRGE1"
+15444.990 D Env:  "HOMEDRIVE" "C:"
+15444.990 D Env:  "ProgramData" "C:\ProgramData"
+15444.990 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel"
+15444.990 D Env:  "windir" "C:\Windows"
+15444.990 D Env:  "PUBLIC" "C:\Users\Public"
+15444.990 D Env:  "HOMEPATH" "\Users\Matt Hermes"
+15444.990 D Env:  "SESSIONNAME" "Console"
+15444.990 D Env:  "SystemRoot" "C:\Windows"
+15444.990 D Env:  "USERNAME" "Matt Hermes"
+15444.990 D Env:  "ALLUSERSPROFILE" "C:\ProgramData"
+15444.990 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+15444.990 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+15444.990 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+15444.990 D Env:  "LOGONSERVER" "\\DESKTOP-E0HRGE1"
+15444.990 D Env:  "ComSpec" "C:\Windows\system32\cmd.exe"
+15444.990 D Env:  "CommonProgramFiles(x86)" "C:\Program Files (x86)\Common Files"
+15444.990 D Env:  "CommonProgramFiles" "C:\Program Files (x86)\Common Files"
+15444.990 D Env:  "ProgramW6432" "C:\Program Files"
+15444.991 D Env:  "TEMP" "C:\Users\MATTHE~1\AppData\Local\Temp"
+15444.991 D Env:  "LOCALAPPDATA" "C:\Users\Matt Hermes\AppData\Local"
+15444.991 D Env:  "PROCESSOR_LEVEL" "6"
+15444.991 D Env:  "USERPROFILE" "C:\Users\Matt Hermes"
+15444.991 D Env:  "NUMBER_OF_PROCESSORS" "4"
+15444.991 D Env:  "ProgramFiles(x86)" "C:\Program Files (x86)"
+15447.202 C Task failed:  "Game crashed."
+15447.293 C Task failed:  "Game crashed."
+15448.320 D Task succeeded
+15448.332 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/saves"
+15448.333 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/texturepacks"
+15448.333 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/resourcepacks"
+15448.333 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/coremods"
+15448.333 D Failed to stop watching  "C:/Users/Matt Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods"

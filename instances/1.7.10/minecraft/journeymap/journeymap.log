@@ -156,3 +156,7 @@ CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimal
 [20:29:26] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Matt Hermes\Desktop\Ozone-Modified\MultiMC\instances\1.7.10\minecraft\journeymap\data\sp\Playtime\waypoints
 [20:29:26] [Client thread/INFO] [ColorManager] Blocks and textures are current
 [20:29:26] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Matt Hermes\Desktop\Ozone-Modified\MultiMC\instances\1.7.10\minecraft\journeymap\data\sp\Playtime\DIM0. Memory: 5311MB total, 3743MB free 
+[21:26:20] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[21:26:20] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[21:53:31] [Client thread/WARN] [FileHandler] Icon Set asset not found: /assets/journeymap/icon/entity/2D/randomthings/textures/entitys/spirit.png
+[22:55:45] [Server thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Matt Hermes\Desktop\Ozone-Modified\MultiMC\instances\1.7.10\minecraft\journeymap\data\sp\Playtime\DIM0
