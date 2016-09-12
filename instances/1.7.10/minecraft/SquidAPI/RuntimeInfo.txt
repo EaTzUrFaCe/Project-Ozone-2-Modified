@@ -187,6 +187,7 @@ Mod list:
 - Ender IO Addons 0.10.11
 - EnderCore 1.7.10-0.2.0.38_beta
 - EnderStorage 1.4.7.37
+- Epic Siege Mod 10.0.148
 - Erebus 0.4.7
 - Ex Astris Rebirth MC1.7.10-1.01-45
 - Ex Compressum 1.1.143
@@ -475,6 +476,7 @@ Classpath files:
 - file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Waila-1.5.10_1.7.10.jar
 - file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/EnderIO-1.7.10-2.3.0.429_beta.jar
 - file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/EnderIOAddons-1.7.10-2.3.0.427_beta-0.10.11.54_beta.jar
+- file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/EpicSiegeMod-10.0.148.jar
 - file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/Ex-Nihilo-1.38-53.jar
 - file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/RedstoneArsenal-%5B1.7.10%5D1.1.2-92.jar
 - file:/C:/Users/Matt%20Hermes/Desktop/Ozone-Modified/MultiMC/instances/1.7.10/minecraft/mods/extrautilities-1.2.12.jar
