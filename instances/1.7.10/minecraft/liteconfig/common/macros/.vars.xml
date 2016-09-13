@@ -5,5 +5,9 @@
         <template id="72">
             <boolean key="autousing">0</boolean>
         </template>
+        <!-- KEY_NUMPAD9 -->
+        <template id="73">
+            <boolean key="automine">0</boolean>
+        </template>
     </config>
 </variables>
