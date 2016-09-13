@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <variables>
     <config name="@default">
-        <!-- KEY_NUMPAD7 -->
-        <template id="71">
-            <boolean key="autosneak">0</boolean>
-        </template>
         <!-- KEY_NUMPAD8 -->
         <template id="72">
             <boolean key="autousing">0</boolean>

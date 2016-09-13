@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Mon Sep 12 22:54:30 CDT 2016",
+  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Tue Sep 13 12:03:45 CDT 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -30072,7 +30072,7 @@ var colorpalette={
       "color": "#95895e"
     },
     {
-      "name": "QED (Quacky Ender Device)",
+      "name": "QED (Quantum Ender Diviner)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
