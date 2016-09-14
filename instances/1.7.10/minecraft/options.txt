@@ -1,7 +1,7 @@
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:1.0
+gamma:15.0
 saturation:0.0
 renderDistance:4
 guiScale:2
@@ -115,7 +115,7 @@ key_[GC] Toggle Sensor Goggles Mode:37
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
-key_key.placeItem:25
+key_key.placeItem:74
 key_key.toolConfig:46
 key_key.toolProfileChange:43
 key_key.toggleFlight:0
