@@ -1,19 +1,19 @@
-[22:35:17][SquidAPI][WARN]: Source file name doesn't match the normal file naming pattern! This is commonly done by repost sites to hide outdated versions. See http://stopmodreposts.com.
-[22:35:17][SquidAPI][INFO]: Registering BaseMod SquidAPI.
-[22:35:17][SquidAPI][INFO]: Copyright (C) CoolSquid, 2015. Do not distribute without explicit, written permission from the copyright holder.
-[22:35:18][SquidAPI][INFO]: Loading SquidAPI.cfg.
-[22:35:18][SquidAPI][INFO]: Finished loading SquidAPI.cfg.
-[22:35:18][SquidAPI][WARN]: Source file name doesn't match the normal file naming pattern! This is commonly done by repost sites to hide outdated versions. See http://stopmodreposts.com.
-[22:35:18][SquidAPI][INFO]: Registering BaseMod PackGuard.
-[22:35:18][SquidAPI][INFO]: Copyright (C) , 2015. Do not distribute without explicit, written permission from the copyright holder.
-[22:35:43][SquidAPI][INFO]: Preinitializing.
-[22:35:43][SquidAPI][INFO]: Finished preinitialization.
-[22:35:43][SquidAPI][INFO]: Loading PackGuard.cfg.
-[22:35:43][SquidAPI][INFO]: Finished loading PackGuard.cfg.
-[22:36:18][SquidAPI][INFO]: Initializing.
-[22:36:18][SquidAPI][INFO]: Finished initialization.
-[22:37:03][SquidAPI][INFO]: Postinitializing.
-[22:37:03][SquidAPI][INFO]: Finished postinitialization.
-[22:37:04][SquidAPI][WARN]: The version of BOTANIA loaded is newer than the version SquidAPI was made with. Problems may occur. Please contact CoolSquid.
-[22:37:06][SquidAPI][INFO]: Registering clientside command about.
-[22:37:06][SquidAPI][INFO]: Registering clientside command SquidAPI.
+[11:26:39][SquidAPI][WARN]: Source file name doesn't match the normal file naming pattern! This is commonly done by repost sites to hide outdated versions. See http://stopmodreposts.com.
+[11:26:39][SquidAPI][INFO]: Registering BaseMod SquidAPI.
+[11:26:39][SquidAPI][INFO]: Copyright (C) CoolSquid, 2015. Do not distribute without explicit, written permission from the copyright holder.
+[11:26:39][SquidAPI][INFO]: Loading SquidAPI.cfg.
+[11:26:39][SquidAPI][INFO]: Finished loading SquidAPI.cfg.
+[11:26:39][SquidAPI][WARN]: Source file name doesn't match the normal file naming pattern! This is commonly done by repost sites to hide outdated versions. See http://stopmodreposts.com.
+[11:26:39][SquidAPI][INFO]: Registering BaseMod PackGuard.
+[11:26:39][SquidAPI][INFO]: Copyright (C) , 2015. Do not distribute without explicit, written permission from the copyright holder.
+[11:27:11][SquidAPI][INFO]: Preinitializing.
+[11:27:11][SquidAPI][INFO]: Finished preinitialization.
+[11:27:11][SquidAPI][INFO]: Loading PackGuard.cfg.
+[11:27:11][SquidAPI][INFO]: Finished loading PackGuard.cfg.
+[11:27:37][SquidAPI][INFO]: Initializing.
+[11:27:37][SquidAPI][INFO]: Finished initialization.
+[11:27:52][SquidAPI][INFO]: Postinitializing.
+[11:27:52][SquidAPI][INFO]: Finished postinitialization.
+[11:27:52][SquidAPI][WARN]: The version of BOTANIA loaded is newer than the version SquidAPI was made with. Problems may occur. Please contact CoolSquid.
+[11:27:56][SquidAPI][INFO]: Registering clientside command about.
+[11:27:56][SquidAPI][INFO]: Registering clientside command SquidAPI.

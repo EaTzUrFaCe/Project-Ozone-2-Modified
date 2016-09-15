@@ -51,6 +51,32 @@
 			"lightLevel": 0,
 			"maxStackSize": 64,
 			"drops": []
-		}		
+		},
+		{
+			"name": "compressedNetherGravel",
+			"type": "rock",
+			"shape": "normal",
+			"hardness": 0.3,
+			"resistance": 0.3,
+			"harvestLevel": 2,
+			"toolType": "pickaxe",
+			"isOpaque": true,
+			"lightLevel": 0,
+			"maxStackSize": 64,
+			"drops": []
+		},
+		{
+			"name": "compressedNetherrack",
+			"type": "rock",
+			"shape": "normal",
+			"hardness": 0.3,
+			"resistance": 0.3,
+			"harvestLevel": 2,
+			"toolType": "pickaxe",
+			"isOpaque": true,
+			"lightLevel": 0,
+			"maxStackSize": 64,
+			"drops": []
+		}
 	]
 }

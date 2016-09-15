@@ -7,6 +7,8 @@ item.record.customthings.Titan.desc=DJQuads - OG Titans Remix
 #blocks
 tile.customthings.temperioessenceblock.name= Temperio Essence Block
 tile.customthings.compresseddust.name= Compressed Dust
+tile.customthings.compressedNetherNravel.name= Compressed Crushed Netherrack
+tile.customthings.compressedNetherrack.name= Compressed Netherrack
 tile.customthings.ogaSexy.name= Sexy
 tile.customthings.Gaia Block.name= Compressed Gaia
 

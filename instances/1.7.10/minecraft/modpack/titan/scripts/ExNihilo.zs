@@ -68,6 +68,7 @@ mods.exnihilo.Sieve.addRecipe(<aether:icestone>, [<ProjRed|Core:projectred.core.
 mods.exnihilo.Hammer.addRecipe(<ExtraUtilities:cobblestone_compressed>, <ExtraUtilities:cobblestone_compressed:12>, 1.0, 0.0);
 mods.exnihilo.Hammer.addRecipe(<ExtraUtilities:cobblestone_compressed:12>, <ExtraUtilities:cobblestone_compressed:14>, 1.0, 0.0);
 mods.exnihilo.Hammer.addRecipe(<ExtraUtilities:cobblestone_compressed:14>, <customthings:block0:1>, 1.0, 0.0);
+mods.exnihilo.Hammer.addRecipe(<customthings:block0:5>, <customthings:block0:4>, 1.0, 0.0);
 
 #Crucible
 mods.exnihilo.Crucible.addHeatSource(<BigReactors:BRMetalBlock>, 5.0);
