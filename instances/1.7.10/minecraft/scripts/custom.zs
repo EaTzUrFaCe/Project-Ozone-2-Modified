@@ -15,6 +15,14 @@ recipes.addShapeless(rubberSapling, [<MineFactoryReloaded:rubberwood.sapling:1>]
 recipes.addShapeless(rubberSapling, [<MineFactoryReloaded:rubberwood.sapling:2>]);
 recipes.addShapeless(rubberSapling, [<MineFactoryReloaded:rubberwood.sapling:3>]);
 
+//Easy Seed Breeding
+
+for item in <ore:listAllseed>.items {
+	recipes.addShapeless(item, [item.marked("seed")], function(output, inputs, crafting) {
+		return inputs.seed.updateTag({strength: 10 as short, analyzed: 1 as byte, growth: 10 as short, gain: 10 as short}).quantity(1);
+	});
+}
+
 //Stackable Safari Nets
 
 safariNetSingle.maxStackSize = 3;
