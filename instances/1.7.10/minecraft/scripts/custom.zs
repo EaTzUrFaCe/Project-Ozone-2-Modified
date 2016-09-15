@@ -19,7 +19,7 @@ recipes.addShapeless(rubberSapling, [<MineFactoryReloaded:rubberwood.sapling:3>]
 
 for item in <ore:listAllseed>.items {
 	recipes.addShapeless(item, [item.marked("seed")], function(output, inputs, crafting) {
-		return inputs.seed.updateTag({strength: 10 as short, analyzed: 1 as byte, growth: 10 as short, gain: 10 as short}).quantity(1);
+		return inputs.seed.updateTag({strength: 10 as short, analyzed: 1 as byte, growth: 10 as short, gain: 10 as short}).amount(1);
 	});
 }
 
