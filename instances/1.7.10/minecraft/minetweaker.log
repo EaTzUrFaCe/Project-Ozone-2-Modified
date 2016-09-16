@@ -24,6 +24,10 @@ INFO: Adding minetweaker command mfr
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -426,6 +430,10 @@ INFO: Removing recipe for Dandelion Seeds
 INFO: Removing recipe for Sugarcane Seeds
 INFO: Removing recipe for Carrot Seeds
 INFO: Removing recipe for Potato Seeds
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
 INFO: Removing recipe for Rubber Sapling
 INFO: Removing recipe for Rubber Sapling
 INFO: Removing recipe for Rubber Sapling
@@ -471,6 +479,10 @@ INFO:
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -868,24 +880,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7184ae1a
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7d41cfe1
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@74d554ee
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4c737578
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5b8ea6d7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@28c35480
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@76ef0752
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@21e06442
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@f76d6b7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3d23f48d
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@33f8a1ec
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@119801a5
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2862ae4f
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a47b052
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7cc69737
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2d823423
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10aff70a
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27dd106d
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@63a1c19
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@50e5b3d6
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2284907e
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@39688463
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@55027bfd
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@28040988
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2e856b96
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@53b3a9b9
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1528fda1
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1d68eec5
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1834ff25
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@568463fb
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@493597f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e5791ee
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@612580d6
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@14cbbcb2
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a8d57f5
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@68b77fab
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -1027,10 +1039,10 @@ INFO: Changing material stats field : + attack for avaritia_infinitymetal
 INFO: Changing material stats field : + drawspeed for avaritia_infinitymetal
 INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:constantan.molten> * 288
 INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for <liquid:fire_water>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>, <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>, <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>, <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>, <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>
@@ -2515,10 +2527,10 @@ INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:pick
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>, <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>, <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>, <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>, <ThermalFoundation:material:132>
 INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for <liquid:fire_water>
 INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:constantan.molten> * 288
 INFO: Undoing change of material stats field : + drawspeed for avaritia_infinitymetal
@@ -2660,24 +2672,24 @@ INFO: Re-Adding Metal Press Recipes for Electrum Gear
 INFO: Removing Refinery Recipe for Gasoline
 INFO: Removing Refinery Recipe for Tectonic Petrotheum
 INFO: Removing furnace recipe for <ExtraUtilities:cobblestone_compressed>
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27dd106d
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10aff70a
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2d823423
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7cc69737
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a47b052
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2862ae4f
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@119801a5
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@33f8a1ec
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3d23f48d
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@f76d6b7
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@21e06442
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@76ef0752
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@28c35480
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5b8ea6d7
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4c737578
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@74d554ee
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7d41cfe1
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7184ae1a
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@68b77fab
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a8d57f5
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@14cbbcb2
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@612580d6
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e5791ee
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@493597f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@568463fb
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1834ff25
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1d68eec5
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1528fda1
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@53b3a9b9
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2e856b96
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@28040988
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@55027bfd
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@39688463
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2284907e
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@50e5b3d6
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@63a1c19
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
@@ -3073,6 +3085,10 @@ INFO: Removing recipe for Dandelion Seeds
 INFO: Removing recipe for Sugarcane Seeds
 INFO: Removing recipe for Carrot Seeds
 INFO: Removing recipe for Potato Seeds
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
 INFO: Removing recipe for Rubber Sapling
 INFO: Removing recipe for Rubber Sapling
 INFO: Removing recipe for Rubber Sapling
@@ -3117,6 +3133,10 @@ INFO:
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -3514,24 +3534,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3d0520bd
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2b94b287
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7d901a7a
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6dc33566
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@79d7e0ab
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@77d9759c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@ae7e2d7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7e7b9ee8
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@38effb34
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4a61c20
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@31e2b739
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@13ccf333
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@54bd9c25
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@60cecd8e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4431e5d1
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3010c30f
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@8f43d9c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1e4023b1
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2826aa0d
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1056919f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@33cb979c
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@46ce2ced
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5ba580fb
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7f5b2879
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10c33779
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27ddd8c8
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@50883690
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@76b6c418
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7fc74d48
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3695c1e0
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27b84d14
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@67eedbff
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@22066747
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3a042826
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5f31129f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4e911ba5
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -3673,10 +3693,10 @@ INFO: Changing material stats field : + attack for avaritia_infinitymetal
 INFO: Changing material stats field : + drawspeed for avaritia_infinitymetal
 INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:constantan.molten> * 288
 INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for <liquid:fire_water>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>, <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>, <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>, <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>, <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>
@@ -5125,10 +5145,10 @@ INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:pick
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
-INFO: [ModTweaker2] Restoring 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>, <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>, <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>, <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Restoring 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>, <ThermalFoundation:material:132>
 INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Fuel Recipe(s) for <liquid:fire_water>
 INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:constantan.molten> * 288
 INFO: Undoing change of material stats field : + drawspeed for avaritia_infinitymetal
@@ -5270,24 +5290,24 @@ INFO: Re-Adding Metal Press Recipes for Electrum Gear
 INFO: Removing Refinery Recipe for Gasoline
 INFO: Removing Refinery Recipe for Tectonic Petrotheum
 INFO: Removing furnace recipe for <ExtraUtilities:cobblestone_compressed>
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1e4023b1
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@8f43d9c
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3010c30f
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4431e5d1
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@60cecd8e
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@54bd9c25
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@13ccf333
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@31e2b739
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4a61c20
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@38effb34
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7e7b9ee8
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@ae7e2d7
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@77d9759c
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@79d7e0ab
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6dc33566
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7d901a7a
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2b94b287
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3d0520bd
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4e911ba5
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5f31129f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3a042826
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@22066747
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@67eedbff
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27b84d14
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3695c1e0
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7fc74d48
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@76b6c418
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@50883690
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27ddd8c8
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10c33779
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7f5b2879
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5ba580fb
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@46ce2ced
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@33cb979c
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1056919f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2826aa0d
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
@@ -5683,6 +5703,10 @@ INFO: Removing recipe for Dandelion Seeds
 INFO: Removing recipe for Sugarcane Seeds
 INFO: Removing recipe for Carrot Seeds
 INFO: Removing recipe for Potato Seeds
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
 INFO: Removing recipe for Rubber Sapling
 INFO: Removing recipe for Rubber Sapling
 INFO: Removing recipe for Rubber Sapling
@@ -5727,6 +5751,10 @@ INFO:
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
 INFO: Adding recipe for Rubber Sapling
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -6124,24 +6152,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5945d814
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@18f85169
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@65dac28c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5c9b3658
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2b69d0a7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7140afba
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@42bdddbc
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@47911a45
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@229806f8
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5651406e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7a2d3725
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@35215917
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@576c268d
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@b624e3e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1865c468
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2733df92
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@115dcdb7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@857621c
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@48c179a0
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4629a8e5
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4da20bc0
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@531cbb3b
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10d3c481
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1bb638fe
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4617dc43
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@706462d9
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7e9d5798
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@54c6e17d
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c4bda62
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7f6a0798
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6bdfbe7a
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@8716775
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7a9b24d3
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@55e2aadf
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@43d8f277
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@40916fb6
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -6283,10 +6311,10 @@ INFO: Changing material stats field : + attack for avaritia_infinitymetal
 INFO: Changing material stats field : + drawspeed for avaritia_infinitymetal
 INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:constantan.molten> * 288
 INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Fuel Recipe(s) for <liquid:fire_water>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>
-INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>, <ThermalFoundation:material:132>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>, <ThermalFoundation:material:139>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:129>, <ThermalFoundation:material:129>
+INFO: [ModTweaker2] Removing 2 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>, <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>

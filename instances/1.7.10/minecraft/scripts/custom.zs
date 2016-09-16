@@ -15,6 +15,13 @@ recipes.addShapeless(rubberSapling, [<MineFactoryReloaded:rubberwood.sapling:1>]
 recipes.addShapeless(rubberSapling, [<MineFactoryReloaded:rubberwood.sapling:2>]);
 recipes.addShapeless(rubberSapling, [<MineFactoryReloaded:rubberwood.sapling:3>]);
 
+//Gear Casting Fix
+
+mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:material:129>, <liquid:tin.molten>, <TConstruct:gearCast>, false, 50);
+mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:material:132>, <liquid:nickel.molten>, <TConstruct:gearCast>, false, 50);
+mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:material:134>, <liquid:mithril.molten>, <TConstruct:gearCast>, false, 50);
+mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:material:139>, <liquid:lumium.molten>, <TConstruct:gearCast>, false, 50);
+
 //Easy Seed Breeding
 
 for item in <ore:listAllseed>.items {
