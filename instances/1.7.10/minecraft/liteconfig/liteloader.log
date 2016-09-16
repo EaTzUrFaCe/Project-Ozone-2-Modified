@@ -1,287 +1,287 @@
-[16:53:03] [main/INFO]: LiteLoader 1.7.10_04 starting up...
-[16:53:03] [main/INFO]: Java reports OS="windows 7"
-[16:53:03] [main/INFO]: Enumerating class path...
-[16:53:03] [main/INFO]: Class path separator=";"
-[16:53:03] [main/INFO]: Class path entries=(
-   classpathEntry=C:/Users/msh160130/Desktop/Project-Ozone-2-Modified/jars/NewLaunch.jar
+[20:34:52] [main/INFO]: LiteLoader 1.7.10_04 starting up...
+[20:34:52] [main/INFO]: Java reports OS="windows 7"
+[20:34:52] [main/INFO]: Enumerating class path...
+[20:34:52] [main/INFO]: Class path separator=";"
+[20:34:52] [main/INFO]: Class path entries=(
+   classpathEntry=C:/Users/msh160130/Desktop/PO2-Portable/jars/NewLaunch.jar
 )
-[16:53:03] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
-[16:53:03] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods]
-[16:53:03] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10]
-[16:53:03] [main/INFO]: Adding supported mod class prefix 'LiteMod'
-[16:53:03] [main/INFO]: Discovering tweaks on class path...
-[16:53:03] [main/INFO]: Discovering valid mod files in folder C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods
-[16:53:03] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod
-[16:53:03] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod
-[16:53:03] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod
-[16:53:03] [main/WARN]: Mod in C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod has an invalid revision number reading litemod.json
-[16:53:03] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod
-[16:53:03] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar
-[16:53:03] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod' at revision 28.0000
-[16:53:03] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod' at revision 1012.0000
-[16:53:03] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod' at revision 0.0000
-[16:53:03] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod' at revision 1001.0000
-[16:53:03] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar' at revision 184.0000
-[16:53:03] [main/INFO]: Discovering valid mod files in folder C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10
-[16:53:03] [main/INFO]: Searching for tweaks in 'CodeChickenLib-1.7.10-1.1.3.138-universal.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\CodeChickenLib-1.7.10-1.1.3.138-universal.jar'
-[16:53:03] [main/INFO]: Searching for tweaks in 'commons-codec-1.9.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\commons-codec-1.9.jar'
-[16:53:03] [main/INFO]: Searching for tweaks in 'commons-compress-1.8.1.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\commons-compress-1.8.1.jar'
-[16:53:03] [main/INFO]: Searching for tweaks in 'ForgeMultipart-1.7.10-1.2.0.345-universal.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\ForgeMultipart-1.7.10-1.2.0.345-universal.jar'
-[16:53:03] [main/INFO]: Searching for tweaks in 'ForgeRelocation-1.7.10-0.0.1.4-universal.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\ForgeRelocation-1.7.10-0.0.1.4-universal.jar'
-[16:53:03] [main/INFO]: Searching for tweaks in 'ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar'
-[16:53:03] [main/INFO]: Searching for tweaks in 'MrTJPCore-1.1.0.33-universal.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\MrTJPCore-1.1.0.33-universal.jar'
-[16:53:03] [main/INFO]: Searching for tweaks in '[1.7.10]bspkrsCore-universal-6.16.jar'
-[16:53:03] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\1.7.10\[1.7.10]bspkrsCore-universal-6.16.jar'
-[16:53:03] [main/INFO]: Mod file 'mod_macros_0.10.12_for_1.7.10.litemod' provides classTransformer 'net.eq2online.macros.transformers.CollectionPacketTransformer', adding to class loader
-[16:53:03] [main/INFO]: classTransformer 'net.eq2online.macros.transformers.CollectionPacketTransformer' was successfully added
-[16:53:03] [main/INFO]: Mod file 'mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod' provides classTransformer 'com.uyjulian.minecraft.XrayMod.XrayModEventTransformer', adding to class loader
-[16:53:03] [main/INFO]: classTransformer 'com.uyjulian.minecraft.XrayMod.XrayModEventTransformer' was successfully added
-[16:53:03] [main/INFO]: Mod file 'mod_betterClouds-1.0.1_for_1.7.10.litemod' provides classTransformer 'com.mamiyaotaru.betterclouds.BetterCloudsTransformer', adding to class loader
-[16:53:03] [main/INFO]: classTransformer 'com.mamiyaotaru.betterclouds.BetterCloudsTransformer' was successfully added
-[16:53:03] [main/INFO]: LiteLoader PREINIT complete
-[16:53:04] [main/INFO]: Injecting onstartupcomplete[x1] in func_71384_a in Minecraft
-[16:53:04] [main/INFO]: Injecting prerenderfbo[x1] in func_71411_J in Minecraft
-[16:53:04] [main/INFO]: Injecting postrenderfbo[x1] in func_71411_J in Minecraft
-[16:53:04] [main/INFO]: Injecting ontimerupdate[x1] in func_71411_J in Minecraft
-[16:53:04] [main/INFO]: Injecting onrender[x1] in func_71411_J in Minecraft
-[16:53:04] [main/INFO]: Injecting ontick[x1] in func_71411_J in Minecraft
-[16:53:04] [main/INFO]: Injecting updateframebuffersize[x1] in func_147119_ah in Minecraft
-[16:53:04] [main/INFO]: Injecting newtick[x1] in func_71407_l in Minecraft
-[16:53:04] [main/INFO]: Applying overlay com.mumfrey.liteloader.client.overlays.MinecraftOverlay to net.minecraft.client.Minecraft
-[16:53:04] [main/INFO]: MinecraftOverlayTransformer found INIT injection point, this is good.
-[16:53:04] [main/INFO]: Injecting onc00handshake[x1] in func_148833_a in C00Handshake
-[16:53:04] [main/INFO]: Injecting onc00packetloginstart[x1] in func_148833_a in C00PacketLoginStart
-[16:53:04] [main/INFO]: Injecting onoutboundchat[x1] in func_71165_d in EntityClientPlayerMP
-[16:53:04] [main/INFO]: Injecting onc16packetclientstatus[x1] in func_148833_a in C16PacketClientStatus
-[16:53:05] [main/INFO]: Injecting onrenderchat[x1] in func_73830_a in GuiIngame
-[16:53:05] [main/INFO]: Injecting postrenderchat[x1] in func_73830_a in GuiIngame
-[16:53:05] [main/INFO]: Injecting ons03packettimeupdate[x1] in func_148833_a in S03PacketTimeUpdate
-[16:53:06] [main/INFO]: Injecting ons34packetmaps[x1] in func_148833_a in S34PacketMaps
-[16:53:07] [Client thread/INFO]: Injecting onc15packetclientsettings[x1] in func_148833_a in C15PacketClientSettings
-[16:53:07] [Client thread/INFO]: Injecting renderfbo[x1] in func_147615_c in Framebuffer
-[16:53:08] [Client thread/INFO]: Injecting uyjuliansxraymod_renderblocks_renderblockbyrendertype[x1] in func_147805_b in RenderBlocks
-[16:53:08] [Client thread/INFO]: Injecting oncreateintegratedserver[x1] in <init> in IntegratedServer
-[16:53:08] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
-[16:53:08] [Client thread/INFO]: Successfully generated event handler proxy class with 20 handlers(s) and 20 total invokations
-[16:53:24] [Client thread/INFO]: Injecting prerendergui[x1] in func_78480_b in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting onrenderhud[x1] in func_78480_b in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting postrenderhud[x1] in func_78480_b in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting prerenderhand[x1] in func_78471_a in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting onrenderworld[x1] in func_78471_a in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting onsetupcameratransform[x1] in func_78471_a in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting postrenderentities[x1] in func_78471_a in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting postrender[x1] in func_78471_a in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting postrender[x1] in func_78471_a in EntityRenderer
-[16:53:24] [Client thread/INFO]: Injecting renderclouds[x1] in func_82829_a in EntityRenderer
-[16:53:26] [Client thread/INFO]: Injecting onplayerlogin[x1] in func_72377_c in ServerConfigurationManager
-[16:53:26] [Client thread/INFO]: Injecting onplayerlogout[x1] in func_72367_e in ServerConfigurationManager
-[16:53:26] [Client thread/INFO]: Injecting onspawnplayer[x1] in func_148545_a in ServerConfigurationManager
-[16:53:26] [Client thread/INFO]: Injecting onrespawnplayer[x1] in func_72368_a in ServerConfigurationManager
-[16:53:27] [Client thread/INFO]: Injecting ons2cpacketspawnglobalentity[x1] in func_148833_a in S2CPacketSpawnGlobalEntity
-[16:53:27] [Client thread/INFO]: Injecting ons27packetexplosion[x1] in func_148833_a in S27PacketExplosion
-[16:53:27] [Client thread/INFO]: Injecting ons2bpacketchangegamestate[x1] in func_148833_a in S2BPacketChangeGameState
-[16:53:27] [Client thread/INFO]: Injecting ons24packetblockaction[x1] in func_148833_a in S24PacketBlockAction
-[16:53:27] [Client thread/INFO]: Injecting ons2apacketparticles[x1] in func_148833_a in S2APacketParticles
-[16:53:27] [Client thread/INFO]: Injecting ons19packetentitystatus[x1] in func_148833_a in S19PacketEntityStatus
-[16:53:27] [Client thread/INFO]: Injecting ons23packetblockchange[x1] in func_148833_a in S23PacketBlockChange
-[16:53:29] [Client thread/INFO]: Injecting ons21packetchunkdata[x1] in func_148833_a in S21PacketChunkData
-[16:53:29] [Client thread/INFO]: Injecting onc08packetplayerblockplacement[x1] in func_148833_a in C08PacketPlayerBlockPlacement
-[16:53:36] [Client thread/INFO]: Injecting ons35packetupdatetileentity[x1] in func_148833_a in S35PacketUpdateTileEntity
-[16:53:37] [Client thread/INFO]: Injecting onc0dpacketclosewindow[x1] in func_148833_a in C0DPacketCloseWindow
-[16:53:37] [Client thread/INFO]: Injecting ons02packetchat[x1] in func_148833_a in S02PacketChat
-[16:53:40] [Client thread/INFO]: Injecting ons1fpacketsetexperience[x1] in func_148833_a in S1FPacketSetExperience
-[16:53:42] [Client thread/INFO]: Injecting ons04packetentityequipment[x1] in func_148833_a in S04PacketEntityEquipment
-[16:53:42] [Client thread/INFO]: Injecting ons0bpacketanimation[x1] in func_148833_a in S0BPacketAnimation
-[16:53:42] [Client thread/INFO]: Injecting ons0dpacketcollectitem[x1] in func_148833_a in S0DPacketCollectItem
-[16:53:42] [Client thread/INFO]: PacketTransformer: Running transformer net.eq2online.macros.transformers.CollectionPacketTransformer for ij
-[16:53:42] [Client thread/INFO]: Injecting ons1bpacketentityattach[x1] in func_148833_a in S1BPacketEntityAttach
-[16:53:44] [Client thread/INFO]: Injecting onc07packetplayerdigging[x1] in func_148833_a in C07PacketPlayerDigging
-[16:53:48] [Client thread/INFO]: Injecting ons07packetrespawn[x1] in func_148833_a in S07PacketRespawn
-[16:53:49] [Client thread/INFO]: Injecting ons2fpacketsetslot[x1] in func_148833_a in S2FPacketSetSlot
-[16:53:49] [Client thread/INFO]: Injecting ons30packetwindowitems[x1] in func_148833_a in S30PacketWindowItems
-[16:53:49] [Client thread/INFO]: Injecting ons31packetwindowproperty[x1] in func_148833_a in S31PacketWindowProperty
-[16:53:49] [Client thread/INFO]: Injecting ons3fpacketcustompayload[x1] in func_148833_a in S3FPacketCustomPayload
-[16:53:49] [Client thread/INFO]: Injecting ons13packetdestroyentities[x1] in func_148833_a in S13PacketDestroyEntities
-[16:53:49] [Client thread/INFO]: Injecting ons2dpacketopenwindow[x1] in func_148833_a in S2DPacketOpenWindow
-[16:53:49] [Client thread/INFO]: Injecting ons1epacketremoveentityeffect[x1] in func_148833_a in S1EPacketRemoveEntityEffect
-[16:53:49] [Client thread/INFO]: Injecting ons1dpacketentityeffect[x1] in func_148833_a in S1DPacketEntityEffect
-[16:53:49] [Client thread/INFO]: Injecting ons2epacketclosewindow[x1] in func_148833_a in S2EPacketCloseWindow
-[16:53:49] [Client thread/INFO]: Injecting ons36packetsigneditoropen[x1] in func_148833_a in S36PacketSignEditorOpen
-[16:53:49] [Client thread/INFO]: Injecting ons0apacketusebed[x1] in func_148833_a in S0APacketUseBed
-[16:53:49] [Client thread/INFO]: Injecting ons39packetplayerabilities[x1] in func_148833_a in S39PacketPlayerAbilities
-[16:53:49] [Client thread/INFO]: Injecting ons26packetmapchunkbulk[x1] in func_148833_a in S26PacketMapChunkBulk
-[16:53:49] [Client thread/INFO]: Injecting ons06packetupdatehealth[x1] in func_148833_a in S06PacketUpdateHealth
-[16:53:50] [Client thread/INFO]: Injecting ons18packetentityteleport[x1] in func_148833_a in S18PacketEntityTeleport
-[16:53:51] [Client thread/INFO]: Injecting ons12packetentityvelocity[x1] in func_148833_a in S12PacketEntityVelocity
-[16:54:10] [Client thread/INFO]: Injecting onc09packethelditemchange[x1] in func_148833_a in C09PacketHeldItemChange
-[16:54:10] [Client thread/INFO]: Injecting onc0epacketclickwindow[x1] in func_148833_a in C0EPacketClickWindow
-[16:54:10] [Client thread/INFO]: Injecting onc11packetenchantitem[x1] in func_148833_a in C11PacketEnchantItem
-[16:54:10] [Client thread/INFO]: Injecting onc10packetcreativeinventoryaction[x1] in func_148833_a in C10PacketCreativeInventoryAction
-[16:54:10] [Client thread/INFO]: Injecting onc02packetuseentity[x1] in func_148833_a in C02PacketUseEntity
-[16:54:12] [Client thread/INFO]: JInput Component Registry is initialising...
-[16:54:12] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
-[16:54:12] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
-[16:54:12] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
-[16:54:12] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
-[16:54:12] [Client thread/INFO]: JInput Component Registry initialised, found 4 controller(s) 148 component(s)
-[16:54:12] [Client thread/INFO]: Injecting onc17packetcustompayload[x1] in func_148833_a in C17PacketCustomPayload
-[16:54:13] [Client thread/INFO]: LiteLoader begin INIT...
-[16:54:13] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
-[16:54:13] [Client thread/INFO]: Injecting external mods into class path...
-[16:54:13] [Client thread/INFO]: Successfully injected mod file 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod' into classpath
-[16:54:13] [Client thread/INFO]: Successfully injected mod file 'C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar' into classpath
-[16:54:13] [Client thread/INFO]: Injecting external mods into class path...
-[16:54:13] [Client thread/INFO]: Discovering mods on class path...
-[16:54:13] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\jars\NewLaunch.jar...
-[16:54:13] [Client thread/INFO]: Discovering mods in valid mod files...
-[16:54:13] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod...
-[16:54:13] [Client thread/INFO]: Found 1 potential matches
-[16:54:13] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod...
-[16:54:13] [Client thread/INFO]: Found 1 potential matches
-[16:54:13] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod...
-[16:54:13] [Client thread/INFO]: Found 1 potential matches
-[16:54:13] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod...
-[16:54:13] [Client thread/INFO]: Found 1 potential matches
-[16:54:13] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar...
-[16:54:13] [Client thread/INFO]: Found 1 potential matches
-[16:54:13] [Client thread/INFO]: Discovering mods in valid mod files...
-[16:54:13] [Client thread/INFO]: Mod class discovery completed
-[16:54:13] [Client thread/INFO]: LiteLoader begin POSTINIT...
-[16:54:13] [Client thread/INFO]: Inhibiting sound handler reload
-[16:54:13] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientEvents for API LiteLoader core API
-[16:54:13] [Client thread/INFO]: Injecting onc01packetchatmessage[x1] in func_148833_a in C01PacketChatMessage
-[16:54:13] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
-[16:54:13] [Client thread/INFO]: Injecting ons02packetloginsuccess[x1] in func_148833_a in S02PacketLoginSuccess
-[16:54:13] [Client thread/INFO]: Injecting ons01packetjoingame[x1] in func_148833_a in S01PacketJoinGame
-[16:54:13] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
-[16:54:13] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
-[16:54:13] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
-[16:54:13] [Client thread/INFO]: Discovered 5 total mod(s), injected 0 tweak(s)
-[16:54:13] [Client thread/INFO]: Loading mod from com.kymaster.gammabright.LiteModGammabright
-[16:54:13] [Client thread/INFO]: Baking listener list for ModLoadObserver with 0 listeners
-[16:54:13] [Client thread/INFO]: Successfully added mod Gammabright version 3.2.1
-[16:54:13] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Setting up "Gammabright v3.2.1 [MC 1.7.10].litemod" as mod resource pack with identifier "Gammabright"
-[16:54:13] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Loading mod from net.eq2online.macros.LiteModMacros
-[16:54:13] [Client thread/INFO]: Successfully added mod Macro / Keybind Mod version 0.10.12
-[16:54:13] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Setting up "mod_macros_0.10.12_for_1.7.10.litemod" as mod resource pack with identifier "Macro / Keybind Mod"
-[16:54:13] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Loading mod from com.uyjulian.minecraft.XrayMod.LiteModUyjuliansXrayMod
-[16:54:13] [Client thread/INFO]: Successfully added mod Uyjulian's X-ray Mod version 9
-[16:54:13] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Setting up "mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod" as mod resource pack with identifier "Uyjulian's X-ray Mod"
-[16:54:13] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Loading mod from com.mamiyaotaru.betterclouds.LiteModBetterClouds
-[16:54:13] [Client thread/INFO]: Successfully added mod BetterClouds version 1.0.1
-[16:54:13] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Setting up "mod_betterClouds-1.0.1_for_1.7.10.litemod" as mod resource pack with identifier "BetterClouds"
-[16:54:13] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod" to active resource pack set
-[16:54:13] [Client thread/INFO]: Loading mod from yalter.mousetweaks.loaders.LiteModMouseTweaks
-[16:54:13] [Client thread/INFO]: Successfully added mod Mouse Tweaks version 2.4.4
-[16:54:13] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar" to active resource pack set
-[16:54:13] [Client thread/INFO]: Setting up "MouseTweaks-2.4.4-mc1.7.10.jar" as mod resource pack with identifier "Mouse Tweaks"
-[16:54:13] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\Project-Ozone-2-Modified\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar" to active resource pack set
-[16:54:13] [Client thread/INFO]: Initialising mod Gammabright version 3.2.1
-[16:54:13] [Client thread/INFO]: Initialising mod Macro / Keybind Mod version 0.10.12
-[16:54:14] [Client thread/INFO]: Loading macro templates...
-[16:54:14] [Client thread/INFO]: Using config dir /liteconfig/common/macros/
-[16:54:14] [Client thread/INFO]: Script engine initialised, registered 114 script action(s)
-[16:54:14] [Client thread/INFO]: Script engine initialised, registered 62 script action(s)
-[16:54:14] [Client thread/INFO]: Loading chat filter templates...
-[16:54:14] [Client thread/INFO]: Initialising mod Uyjulian's X-ray Mod version 9
-[16:54:14] [Client thread/INFO]: Initialising mod BetterClouds version 1.0.1
-[16:54:14] [Client thread/INFO]: Initialising mod Mouse Tweaks version 2.4.4
-[16:54:14] [Client thread/INFO]: Baking listener list for InterfaceObserver with 0 listeners
-[16:54:20] [Client thread/INFO]: Injecting ons00packetkeepalive[x1] in func_148833_a in S00PacketKeepAlive
-[16:54:20] [Client thread/INFO]: Injecting ons05packetspawnposition[x1] in func_148833_a in S05PacketSpawnPosition
-[16:54:20] [Client thread/INFO]: Injecting ons08packetplayerposlook[x1] in func_148833_a in S08PacketPlayerPosLook
-[16:54:20] [Client thread/INFO]: Injecting ons09packethelditemchange[x1] in func_148833_a in S09PacketHeldItemChange
-[16:54:20] [Client thread/INFO]: Injecting ons0cpacketspawnplayer[x1] in func_148833_a in S0CPacketSpawnPlayer
-[16:54:20] [Client thread/INFO]: Injecting ons0epacketspawnobject[x1] in func_148833_a in S0EPacketSpawnObject
-[16:54:20] [Client thread/INFO]: Injecting ons0fpacketspawnmob[x1] in func_148833_a in S0FPacketSpawnMob
-[16:54:20] [Client thread/INFO]: Injecting ons10packetspawnpainting[x1] in func_148833_a in S10PacketSpawnPainting
-[16:54:20] [Client thread/INFO]: Injecting ons11packetspawnexperienceorb[x1] in func_148833_a in S11PacketSpawnExperienceOrb
-[16:54:20] [Client thread/INFO]: Injecting ons14packetentity[x1] in func_148833_a in S14PacketEntity
-[16:54:20] [Client thread/INFO]: Injecting ons15packetentityrelmove[x1] in func_148833_a in S14PacketEntity$S15PacketEntityRelMove
-[16:54:20] [Client thread/INFO]: Injecting ons16packetentitylook[x1] in func_148833_a in S14PacketEntity$S16PacketEntityLook
-[16:54:20] [Client thread/INFO]: Injecting ons17packetentitylookmove[x1] in func_148833_a in S14PacketEntity$S17PacketEntityLookMove
-[16:54:20] [Client thread/INFO]: Injecting ons19packetentityheadlook[x1] in func_148833_a in S19PacketEntityHeadLook
-[16:54:20] [Client thread/INFO]: Injecting ons1cpacketentitymetadata[x1] in func_148833_a in S1CPacketEntityMetadata
-[16:54:20] [Client thread/INFO]: Injecting ons20packetentityproperties[x1] in func_148833_a in S20PacketEntityProperties
-[16:54:20] [Client thread/INFO]: Injecting ons22packetmultiblockchange[x1] in func_148833_a in S22PacketMultiBlockChange
-[16:54:20] [Client thread/INFO]: Injecting ons25packetblockbreakanim[x1] in func_148833_a in S25PacketBlockBreakAnim
-[16:54:20] [Client thread/INFO]: Injecting ons28packeteffect[x1] in func_148833_a in S28PacketEffect
-[16:54:20] [Client thread/INFO]: Injecting ons29packetsoundeffect[x1] in func_148833_a in S29PacketSoundEffect
-[16:54:20] [Client thread/INFO]: Injecting ons32packetconfirmtransaction[x1] in func_148833_a in S32PacketConfirmTransaction
-[16:54:20] [Client thread/INFO]: Injecting ons33packetupdatesign[x1] in func_148833_a in S33PacketUpdateSign
-[16:54:20] [Client thread/INFO]: Injecting ons37packetstatistics[x1] in func_148833_a in S37PacketStatistics
-[16:54:20] [Client thread/INFO]: Injecting ons38packetplayerlistitem[x1] in func_148833_a in S38PacketPlayerListItem
-[16:54:20] [Client thread/INFO]: Injecting ons3apackettabcomplete[x1] in func_148833_a in S3APacketTabComplete
-[16:54:20] [Client thread/INFO]: Injecting ons3bpacketscoreboardobjective[x1] in func_148833_a in S3BPacketScoreboardObjective
-[16:54:20] [Client thread/INFO]: Injecting ons3cpacketupdatescore[x1] in func_148833_a in S3CPacketUpdateScore
-[16:54:20] [Client thread/INFO]: Injecting ons3dpacketdisplayscoreboard[x1] in func_148833_a in S3DPacketDisplayScoreboard
-[16:54:20] [Client thread/INFO]: Injecting ons3epacketteams[x1] in func_148833_a in S3EPacketTeams
-[16:54:20] [Client thread/INFO]: Injecting ons40packetdisconnect[x1] in func_148833_a in S40PacketDisconnect
-[16:54:20] [Client thread/INFO]: Injecting onc00packetkeepalive[x1] in func_148833_a in C00PacketKeepAlive
-[16:54:20] [Client thread/INFO]: Injecting onc03packetplayer[x1] in func_148833_a in C03PacketPlayer
-[16:54:20] [Client thread/INFO]: Injecting onc04packetplayerposition[x1] in func_148833_a in C03PacketPlayer$C04PacketPlayerPosition
-[16:54:20] [Client thread/INFO]: Injecting onc05packetplayerlook[x1] in func_148833_a in C03PacketPlayer$C05PacketPlayerLook
-[16:54:20] [Client thread/INFO]: Injecting onc06packetplayerposlook[x1] in func_148833_a in C03PacketPlayer$C06PacketPlayerPosLook
-[16:54:20] [Client thread/INFO]: Injecting onc0apacketanimation[x1] in func_148833_a in C0APacketAnimation
-[16:54:20] [Client thread/INFO]: Injecting onc0bpacketentityaction[x1] in func_148833_a in C0BPacketEntityAction
-[16:54:20] [Client thread/INFO]: Injecting onc0cpacketinput[x1] in func_148833_a in C0CPacketInput
-[16:54:20] [Client thread/INFO]: Injecting onc0fpacketconfirmtransaction[x1] in func_148833_a in C0FPacketConfirmTransaction
-[16:54:20] [Client thread/INFO]: Injecting onc12packetupdatesign[x1] in func_148833_a in C12PacketUpdateSign
-[16:54:20] [Client thread/INFO]: Injecting onc13packetplayerabilities[x1] in func_148833_a in C13PacketPlayerAbilities
-[16:54:20] [Client thread/INFO]: Injecting onc14packettabcomplete[x1] in func_148833_a in C14PacketTabComplete
-[16:54:20] [Client thread/INFO]: Injecting ons00packetserverinfo[x1] in func_148833_a in S00PacketServerInfo
-[16:54:20] [Client thread/INFO]: Injecting ons01packetpong[x1] in func_148833_a in S01PacketPong
-[16:54:20] [Client thread/INFO]: Injecting ons00packetdisconnect[x1] in func_148833_a in S00PacketDisconnect
-[16:54:20] [Client thread/INFO]: Injecting ons01packetencryptionrequest[x1] in func_148833_a in S01PacketEncryptionRequest
-[16:54:20] [Client thread/INFO]: Injecting onc01packetencryptionresponse[x1] in func_148833_a in C01PacketEncryptionResponse
-[16:55:15] [Client thread/INFO]: Baking listener list for ViewportListener with 1 listeners
-[16:55:15] [Client thread/INFO]: Calling late init for mod Macro / Keybind Mod
-[16:55:15] [Client thread/INFO]: Calling late init for mod Uyjulian's X-ray Mod
-[16:55:15] [Client thread/INFO]: Calling late init for mod BetterClouds
-[16:55:15] [Client thread/INFO]: Sound handler reload inhibit removed
-[16:55:15] [Client thread/INFO]: Reloading sound handler
-[16:55:16] [Client thread/INFO]: Baking listener list for GameLoopListener with 1 listeners
-[16:55:16] [Client thread/INFO]: Baking listener list for RenderListener with 2 listeners
-[16:55:16] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy$2
-[16:55:16] [Client thread/INFO]: Successfully generated event handler proxy class with 105 handlers(s) and 105 total invokations
-[16:55:16] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
-[16:55:16] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
-[16:55:16] [Client thread/INFO]: Baking listener list for Tickable with 4 listeners
-[16:55:16] [Client thread/INFO]: JInput Component Registry is initialising...
-[16:55:16] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
-[16:55:16] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
-[16:55:16] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
-[16:55:16] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
-[16:55:16] [Client thread/INFO]: JInput Component Registry initialised, found 4 controller(s) 148 component(s)
-[16:55:16] [Client thread/INFO]: Hooking jinput:mouse/HID-compliant mouse/Unknown/0/3/0 as ID 253 via JInput
-[16:55:16] [Client thread/INFO]: Hooking jinput:mouse/HID-compliant mouse/Unknown/0/4/0 as ID 254 via JInput
-[16:55:16] [Client thread/INFO]: Baking listener list for WorldObserver with 2 listeners
-[16:55:16] [Client thread/INFO]: Baking listener list for FrameBufferListener with 0 listeners
-[16:55:23] [Client thread/INFO]: Baking listener list for ServerCommandProvider with 0 listeners
-[16:55:39] [Netty Client IO #0/INFO]: Baking listener list for PostLoginListener with 0 listeners
-[16:55:39] [Server thread/INFO]: Baking listener list for ServerPlayerListener with 0 listeners
-[16:55:39] [Client thread/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
-[16:55:41] [Client thread/INFO]: Baking listener list for JoinGameListener with 1 listeners
-[16:55:41] [Client thread/INFO]: Forge ClientCommandHandler was found, outbound commands will be processed by Forge
-[16:55:41] [Client thread/INFO]: Baking listener list for ChatListener with 1 listeners
-[16:55:54] [Client thread/INFO]: Baking listener list for PostRenderListener with 0 listeners
-[16:55:54] [Client thread/INFO]: Baking listener list for HUDRenderListener with 0 listeners
-[16:55:55] [Client thread/INFO]: Forge ClientCommandHandler was found, outbound commands will be processed by Forge
-[17:02:15] [Client thread/INFO]: Baking listener list for OutboundChatFilter with 1 listeners
-[17:02:15] [Server thread/INFO]: Baking listener list for ServerChatFilter with 0 listeners
-[17:49:23] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
-[17:49:23] [Client thread/INFO]: Baking listener list for ShutdownObserver with 2 listeners
+[20:34:52] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[20:34:52] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods]
+[20:34:52] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10]
+[20:34:52] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[20:34:52] [main/INFO]: Discovering tweaks on class path...
+[20:34:52] [main/INFO]: Discovering valid mod files in folder C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods
+[20:34:52] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod
+[20:34:52] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod
+[20:34:52] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod
+[20:34:52] [main/WARN]: Mod in C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod has an invalid revision number reading litemod.json
+[20:34:52] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod
+[20:34:52] [main/INFO]: Considering valid mod file: C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar
+[20:34:52] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod' at revision 28.0000
+[20:34:52] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod' at revision 1012.0000
+[20:34:52] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod' at revision 0.0000
+[20:34:52] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod' at revision 1001.0000
+[20:34:52] [main/INFO]: Adding newest valid mod file 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar' at revision 184.0000
+[20:34:52] [main/INFO]: Discovering valid mod files in folder C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10
+[20:34:52] [main/INFO]: Searching for tweaks in 'CodeChickenLib-1.7.10-1.1.3.138-universal.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\CodeChickenLib-1.7.10-1.1.3.138-universal.jar'
+[20:34:52] [main/INFO]: Searching for tweaks in 'commons-codec-1.9.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\commons-codec-1.9.jar'
+[20:34:52] [main/INFO]: Searching for tweaks in 'commons-compress-1.8.1.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\commons-compress-1.8.1.jar'
+[20:34:52] [main/INFO]: Searching for tweaks in 'ForgeMultipart-1.7.10-1.2.0.345-universal.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\ForgeMultipart-1.7.10-1.2.0.345-universal.jar'
+[20:34:52] [main/INFO]: Searching for tweaks in 'ForgeRelocation-1.7.10-0.0.1.4-universal.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\ForgeRelocation-1.7.10-0.0.1.4-universal.jar'
+[20:34:52] [main/INFO]: Searching for tweaks in 'ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar'
+[20:34:52] [main/INFO]: Searching for tweaks in 'MrTJPCore-1.1.0.33-universal.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\MrTJPCore-1.1.0.33-universal.jar'
+[20:34:52] [main/INFO]: Searching for tweaks in '[1.7.10]bspkrsCore-universal-6.16.jar'
+[20:34:52] [main/WARN]: Error parsing manifest entries in 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\1.7.10\[1.7.10]bspkrsCore-universal-6.16.jar'
+[20:34:52] [main/INFO]: Mod file 'mod_macros_0.10.12_for_1.7.10.litemod' provides classTransformer 'net.eq2online.macros.transformers.CollectionPacketTransformer', adding to class loader
+[20:34:52] [main/INFO]: classTransformer 'net.eq2online.macros.transformers.CollectionPacketTransformer' was successfully added
+[20:34:52] [main/INFO]: Mod file 'mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod' provides classTransformer 'com.uyjulian.minecraft.XrayMod.XrayModEventTransformer', adding to class loader
+[20:34:52] [main/INFO]: classTransformer 'com.uyjulian.minecraft.XrayMod.XrayModEventTransformer' was successfully added
+[20:34:52] [main/INFO]: Mod file 'mod_betterClouds-1.0.1_for_1.7.10.litemod' provides classTransformer 'com.mamiyaotaru.betterclouds.BetterCloudsTransformer', adding to class loader
+[20:34:52] [main/INFO]: classTransformer 'com.mamiyaotaru.betterclouds.BetterCloudsTransformer' was successfully added
+[20:34:52] [main/INFO]: LiteLoader PREINIT complete
+[20:34:53] [main/INFO]: Injecting onstartupcomplete[x1] in func_71384_a in Minecraft
+[20:34:53] [main/INFO]: Injecting prerenderfbo[x1] in func_71411_J in Minecraft
+[20:34:53] [main/INFO]: Injecting postrenderfbo[x1] in func_71411_J in Minecraft
+[20:34:53] [main/INFO]: Injecting ontimerupdate[x1] in func_71411_J in Minecraft
+[20:34:53] [main/INFO]: Injecting onrender[x1] in func_71411_J in Minecraft
+[20:34:53] [main/INFO]: Injecting ontick[x1] in func_71411_J in Minecraft
+[20:34:53] [main/INFO]: Injecting updateframebuffersize[x1] in func_147119_ah in Minecraft
+[20:34:53] [main/INFO]: Injecting newtick[x1] in func_71407_l in Minecraft
+[20:34:53] [main/INFO]: Applying overlay com.mumfrey.liteloader.client.overlays.MinecraftOverlay to net.minecraft.client.Minecraft
+[20:34:53] [main/INFO]: MinecraftOverlayTransformer found INIT injection point, this is good.
+[20:34:53] [main/INFO]: Injecting onoutboundchat[x1] in func_71165_d in EntityClientPlayerMP
+[20:34:53] [main/INFO]: Injecting onc16packetclientstatus[x1] in func_148833_a in C16PacketClientStatus
+[20:34:53] [main/INFO]: Injecting onrenderchat[x1] in func_73830_a in GuiIngame
+[20:34:53] [main/INFO]: Injecting postrenderchat[x1] in func_73830_a in GuiIngame
+[20:34:53] [main/INFO]: Injecting onc00handshake[x1] in func_148833_a in C00Handshake
+[20:34:53] [main/INFO]: Injecting onc00packetloginstart[x1] in func_148833_a in C00PacketLoginStart
+[20:34:54] [main/INFO]: Injecting ons03packettimeupdate[x1] in func_148833_a in S03PacketTimeUpdate
+[20:34:54] [main/INFO]: Injecting ons34packetmaps[x1] in func_148833_a in S34PacketMaps
+[20:34:55] [Client thread/INFO]: Injecting onc15packetclientsettings[x1] in func_148833_a in C15PacketClientSettings
+[20:34:55] [Client thread/INFO]: Injecting renderfbo[x1] in func_147615_c in Framebuffer
+[20:34:55] [Client thread/INFO]: Injecting uyjuliansxraymod_renderblocks_renderblockbyrendertype[x1] in func_147805_b in RenderBlocks
+[20:34:55] [Client thread/INFO]: Injecting oncreateintegratedserver[x1] in <init> in IntegratedServer
+[20:34:55] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[20:34:55] [Client thread/INFO]: Successfully generated event handler proxy class with 20 handlers(s) and 20 total invokations
+[20:35:08] [Client thread/INFO]: Injecting prerendergui[x1] in func_78480_b in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting onrenderhud[x1] in func_78480_b in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting postrenderhud[x1] in func_78480_b in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting prerenderhand[x1] in func_78471_a in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting onrenderworld[x1] in func_78471_a in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting onsetupcameratransform[x1] in func_78471_a in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting postrenderentities[x1] in func_78471_a in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting postrender[x1] in func_78471_a in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting postrender[x1] in func_78471_a in EntityRenderer
+[20:35:08] [Client thread/INFO]: Injecting renderclouds[x1] in func_82829_a in EntityRenderer
+[20:35:09] [Client thread/INFO]: Injecting onplayerlogin[x1] in func_72377_c in ServerConfigurationManager
+[20:35:09] [Client thread/INFO]: Injecting onplayerlogout[x1] in func_72367_e in ServerConfigurationManager
+[20:35:09] [Client thread/INFO]: Injecting onspawnplayer[x1] in func_148545_a in ServerConfigurationManager
+[20:35:09] [Client thread/INFO]: Injecting onrespawnplayer[x1] in func_72368_a in ServerConfigurationManager
+[20:35:09] [Client thread/INFO]: Injecting ons2cpacketspawnglobalentity[x1] in func_148833_a in S2CPacketSpawnGlobalEntity
+[20:35:09] [Client thread/INFO]: Injecting ons27packetexplosion[x1] in func_148833_a in S27PacketExplosion
+[20:35:09] [Client thread/INFO]: Injecting ons2bpacketchangegamestate[x1] in func_148833_a in S2BPacketChangeGameState
+[20:35:09] [Client thread/INFO]: Injecting ons24packetblockaction[x1] in func_148833_a in S24PacketBlockAction
+[20:35:09] [Client thread/INFO]: Injecting ons2apacketparticles[x1] in func_148833_a in S2APacketParticles
+[20:35:09] [Client thread/INFO]: Injecting ons19packetentitystatus[x1] in func_148833_a in S19PacketEntityStatus
+[20:35:09] [Client thread/INFO]: Injecting ons23packetblockchange[x1] in func_148833_a in S23PacketBlockChange
+[20:35:10] [Client thread/INFO]: Injecting ons21packetchunkdata[x1] in func_148833_a in S21PacketChunkData
+[20:35:11] [Client thread/INFO]: Injecting onc08packetplayerblockplacement[x1] in func_148833_a in C08PacketPlayerBlockPlacement
+[20:35:15] [Client thread/INFO]: Injecting ons35packetupdatetileentity[x1] in func_148833_a in S35PacketUpdateTileEntity
+[20:35:16] [Client thread/INFO]: Injecting onc0dpacketclosewindow[x1] in func_148833_a in C0DPacketCloseWindow
+[20:35:16] [Client thread/INFO]: Injecting ons02packetchat[x1] in func_148833_a in S02PacketChat
+[20:35:18] [Client thread/INFO]: Injecting ons1fpacketsetexperience[x1] in func_148833_a in S1FPacketSetExperience
+[20:35:19] [Client thread/INFO]: Injecting ons04packetentityequipment[x1] in func_148833_a in S04PacketEntityEquipment
+[20:35:19] [Client thread/INFO]: Injecting ons0dpacketcollectitem[x1] in func_148833_a in S0DPacketCollectItem
+[20:35:19] [Client thread/INFO]: PacketTransformer: Running transformer net.eq2online.macros.transformers.CollectionPacketTransformer for ij
+[20:35:19] [Client thread/INFO]: Injecting ons0bpacketanimation[x1] in func_148833_a in S0BPacketAnimation
+[20:35:19] [Client thread/INFO]: Injecting ons1bpacketentityattach[x1] in func_148833_a in S1BPacketEntityAttach
+[20:35:21] [Client thread/INFO]: Injecting onc07packetplayerdigging[x1] in func_148833_a in C07PacketPlayerDigging
+[20:35:24] [Client thread/INFO]: Injecting ons07packetrespawn[x1] in func_148833_a in S07PacketRespawn
+[20:35:24] [Client thread/INFO]: Injecting ons2epacketclosewindow[x1] in func_148833_a in S2EPacketCloseWindow
+[20:35:24] [Client thread/INFO]: Injecting ons2dpacketopenwindow[x1] in func_148833_a in S2DPacketOpenWindow
+[20:35:24] [Client thread/INFO]: Injecting ons36packetsigneditoropen[x1] in func_148833_a in S36PacketSignEditorOpen
+[20:35:24] [Client thread/INFO]: Injecting ons3fpacketcustompayload[x1] in func_148833_a in S3FPacketCustomPayload
+[20:35:24] [Client thread/INFO]: Injecting ons0apacketusebed[x1] in func_148833_a in S0APacketUseBed
+[20:35:24] [Client thread/INFO]: Injecting ons39packetplayerabilities[x1] in func_148833_a in S39PacketPlayerAbilities
+[20:35:24] [Client thread/INFO]: Injecting ons13packetdestroyentities[x1] in func_148833_a in S13PacketDestroyEntities
+[20:35:24] [Client thread/INFO]: Injecting ons26packetmapchunkbulk[x1] in func_148833_a in S26PacketMapChunkBulk
+[20:35:24] [Client thread/INFO]: Injecting ons2fpacketsetslot[x1] in func_148833_a in S2FPacketSetSlot
+[20:35:24] [Client thread/INFO]: Injecting ons30packetwindowitems[x1] in func_148833_a in S30PacketWindowItems
+[20:35:24] [Client thread/INFO]: Injecting ons31packetwindowproperty[x1] in func_148833_a in S31PacketWindowProperty
+[20:35:24] [Client thread/INFO]: Injecting ons06packetupdatehealth[x1] in func_148833_a in S06PacketUpdateHealth
+[20:35:24] [Client thread/INFO]: Injecting ons1epacketremoveentityeffect[x1] in func_148833_a in S1EPacketRemoveEntityEffect
+[20:35:24] [Client thread/INFO]: Injecting ons1dpacketentityeffect[x1] in func_148833_a in S1DPacketEntityEffect
+[20:35:25] [Client thread/INFO]: Injecting ons18packetentityteleport[x1] in func_148833_a in S18PacketEntityTeleport
+[20:35:26] [Client thread/INFO]: Injecting ons12packetentityvelocity[x1] in func_148833_a in S12PacketEntityVelocity
+[20:35:38] [Client thread/INFO]: Injecting onc10packetcreativeinventoryaction[x1] in func_148833_a in C10PacketCreativeInventoryAction
+[20:35:38] [Client thread/INFO]: Injecting onc09packethelditemchange[x1] in func_148833_a in C09PacketHeldItemChange
+[20:35:38] [Client thread/INFO]: Injecting onc0epacketclickwindow[x1] in func_148833_a in C0EPacketClickWindow
+[20:35:38] [Client thread/INFO]: Injecting onc11packetenchantitem[x1] in func_148833_a in C11PacketEnchantItem
+[20:35:38] [Client thread/INFO]: Injecting onc02packetuseentity[x1] in func_148833_a in C02PacketUseEntity
+[20:35:39] [Client thread/INFO]: JInput Component Registry is initialising...
+[20:35:39] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[20:35:39] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[20:35:39] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
+[20:35:39] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
+[20:35:39] [Client thread/INFO]: JInput Component Registry initialised, found 4 controller(s) 148 component(s)
+[20:35:39] [Client thread/INFO]: Injecting onc17packetcustompayload[x1] in func_148833_a in C17PacketCustomPayload
+[20:35:39] [Client thread/INFO]: LiteLoader begin INIT...
+[20:35:39] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
+[20:35:39] [Client thread/INFO]: Injecting external mods into class path...
+[20:35:39] [Client thread/INFO]: Successfully injected mod file 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod' into classpath
+[20:35:39] [Client thread/INFO]: Successfully injected mod file 'C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar' into classpath
+[20:35:39] [Client thread/INFO]: Injecting external mods into class path...
+[20:35:39] [Client thread/INFO]: Discovering mods on class path...
+[20:35:39] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\PO2-Portable\jars\NewLaunch.jar...
+[20:35:39] [Client thread/INFO]: Discovering mods in valid mod files...
+[20:35:39] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod...
+[20:35:39] [Client thread/INFO]: Found 1 potential matches
+[20:35:39] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod...
+[20:35:39] [Client thread/INFO]: Found 1 potential matches
+[20:35:39] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod...
+[20:35:39] [Client thread/INFO]: Found 1 potential matches
+[20:35:39] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod...
+[20:35:39] [Client thread/INFO]: Found 1 potential matches
+[20:35:39] [Client thread/INFO]: Searching C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar...
+[20:35:39] [Client thread/INFO]: Found 1 potential matches
+[20:35:39] [Client thread/INFO]: Discovering mods in valid mod files...
+[20:35:39] [Client thread/INFO]: Mod class discovery completed
+[20:35:39] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[20:35:39] [Client thread/INFO]: Inhibiting sound handler reload
+[20:35:39] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientEvents for API LiteLoader core API
+[20:35:39] [Client thread/INFO]: Injecting onc01packetchatmessage[x1] in func_148833_a in C01PacketChatMessage
+[20:35:39] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[20:35:39] [Client thread/INFO]: Injecting ons01packetjoingame[x1] in func_148833_a in S01PacketJoinGame
+[20:35:39] [Client thread/INFO]: Injecting ons02packetloginsuccess[x1] in func_148833_a in S02PacketLoginSuccess
+[20:35:39] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[20:35:39] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[20:35:39] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[20:35:39] [Client thread/INFO]: Discovered 5 total mod(s), injected 0 tweak(s)
+[20:35:39] [Client thread/INFO]: Loading mod from com.kymaster.gammabright.LiteModGammabright
+[20:35:39] [Client thread/INFO]: Baking listener list for ModLoadObserver with 0 listeners
+[20:35:39] [Client thread/INFO]: Successfully added mod Gammabright version 3.2.1
+[20:35:39] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Setting up "Gammabright v3.2.1 [MC 1.7.10].litemod" as mod resource pack with identifier "Gammabright"
+[20:35:39] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\Gammabright v3.2.1 [MC 1.7.10].litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Loading mod from net.eq2online.macros.LiteModMacros
+[20:35:39] [Client thread/INFO]: Successfully added mod Macro / Keybind Mod version 0.10.12
+[20:35:39] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Setting up "mod_macros_0.10.12_for_1.7.10.litemod" as mod resource pack with identifier "Macro / Keybind Mod"
+[20:35:39] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_macros_0.10.12_for_1.7.10.litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Loading mod from com.uyjulian.minecraft.XrayMod.LiteModUyjuliansXrayMod
+[20:35:39] [Client thread/INFO]: Successfully added mod Uyjulian's X-ray Mod version 9
+[20:35:39] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Setting up "mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod" as mod resource pack with identifier "Uyjulian's X-ray Mod"
+[20:35:39] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_uyjulianXrayMod_d6c940d3b58edb51fc42f507dbe09eae798418d1_mc1.7.10.litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Loading mod from com.mamiyaotaru.betterclouds.LiteModBetterClouds
+[20:35:39] [Client thread/INFO]: Successfully added mod BetterClouds version 1.0.1
+[20:35:39] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Setting up "mod_betterClouds-1.0.1_for_1.7.10.litemod" as mod resource pack with identifier "BetterClouds"
+[20:35:39] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\mod_betterClouds-1.0.1_for_1.7.10.litemod" to active resource pack set
+[20:35:39] [Client thread/INFO]: Loading mod from yalter.mousetweaks.loaders.LiteModMouseTweaks
+[20:35:39] [Client thread/INFO]: Successfully added mod Mouse Tweaks version 2.4.4
+[20:35:39] [Client thread/INFO]: Adding "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar" to active resource pack set
+[20:35:39] [Client thread/INFO]: Setting up "MouseTweaks-2.4.4-mc1.7.10.jar" as mod resource pack with identifier "Mouse Tweaks"
+[20:35:39] [Client thread/INFO]: Successfully added "C:\Users\msh160130\Desktop\PO2-Portable\instances\1.7.10\minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar" to active resource pack set
+[20:35:39] [Client thread/INFO]: Initialising mod Gammabright version 3.2.1
+[20:35:39] [Client thread/INFO]: Initialising mod Macro / Keybind Mod version 0.10.12
+[20:35:40] [Client thread/INFO]: Loading macro templates...
+[20:35:40] [Client thread/INFO]: Using config dir /liteconfig/common/macros/
+[20:35:40] [Client thread/INFO]: Script engine initialised, registered 114 script action(s)
+[20:35:40] [Client thread/INFO]: Script engine initialised, registered 62 script action(s)
+[20:35:40] [Client thread/INFO]: Loading chat filter templates...
+[20:35:40] [Client thread/INFO]: Initialising mod Uyjulian's X-ray Mod version 9
+[20:35:40] [Client thread/INFO]: Initialising mod BetterClouds version 1.0.1
+[20:35:40] [Client thread/INFO]: Initialising mod Mouse Tweaks version 2.4.4
+[20:35:40] [Client thread/INFO]: Baking listener list for InterfaceObserver with 0 listeners
+[20:35:44] [Client thread/INFO]: Injecting ons00packetkeepalive[x1] in func_148833_a in S00PacketKeepAlive
+[20:35:44] [Client thread/INFO]: Injecting ons05packetspawnposition[x1] in func_148833_a in S05PacketSpawnPosition
+[20:35:44] [Client thread/INFO]: Injecting ons08packetplayerposlook[x1] in func_148833_a in S08PacketPlayerPosLook
+[20:35:44] [Client thread/INFO]: Injecting ons09packethelditemchange[x1] in func_148833_a in S09PacketHeldItemChange
+[20:35:44] [Client thread/INFO]: Injecting ons0cpacketspawnplayer[x1] in func_148833_a in S0CPacketSpawnPlayer
+[20:35:44] [Client thread/INFO]: Injecting ons0epacketspawnobject[x1] in func_148833_a in S0EPacketSpawnObject
+[20:35:44] [Client thread/INFO]: Injecting ons0fpacketspawnmob[x1] in func_148833_a in S0FPacketSpawnMob
+[20:35:44] [Client thread/INFO]: Injecting ons10packetspawnpainting[x1] in func_148833_a in S10PacketSpawnPainting
+[20:35:44] [Client thread/INFO]: Injecting ons11packetspawnexperienceorb[x1] in func_148833_a in S11PacketSpawnExperienceOrb
+[20:35:44] [Client thread/INFO]: Injecting ons14packetentity[x1] in func_148833_a in S14PacketEntity
+[20:35:44] [Client thread/INFO]: Injecting ons15packetentityrelmove[x1] in func_148833_a in S14PacketEntity$S15PacketEntityRelMove
+[20:35:44] [Client thread/INFO]: Injecting ons16packetentitylook[x1] in func_148833_a in S14PacketEntity$S16PacketEntityLook
+[20:35:44] [Client thread/INFO]: Injecting ons17packetentitylookmove[x1] in func_148833_a in S14PacketEntity$S17PacketEntityLookMove
+[20:35:44] [Client thread/INFO]: Injecting ons19packetentityheadlook[x1] in func_148833_a in S19PacketEntityHeadLook
+[20:35:44] [Client thread/INFO]: Injecting ons1cpacketentitymetadata[x1] in func_148833_a in S1CPacketEntityMetadata
+[20:35:44] [Client thread/INFO]: Injecting ons20packetentityproperties[x1] in func_148833_a in S20PacketEntityProperties
+[20:35:44] [Client thread/INFO]: Injecting ons22packetmultiblockchange[x1] in func_148833_a in S22PacketMultiBlockChange
+[20:35:44] [Client thread/INFO]: Injecting ons25packetblockbreakanim[x1] in func_148833_a in S25PacketBlockBreakAnim
+[20:35:44] [Client thread/INFO]: Injecting ons28packeteffect[x1] in func_148833_a in S28PacketEffect
+[20:35:44] [Client thread/INFO]: Injecting ons29packetsoundeffect[x1] in func_148833_a in S29PacketSoundEffect
+[20:35:44] [Client thread/INFO]: Injecting ons32packetconfirmtransaction[x1] in func_148833_a in S32PacketConfirmTransaction
+[20:35:44] [Client thread/INFO]: Injecting ons33packetupdatesign[x1] in func_148833_a in S33PacketUpdateSign
+[20:35:44] [Client thread/INFO]: Injecting ons37packetstatistics[x1] in func_148833_a in S37PacketStatistics
+[20:35:44] [Client thread/INFO]: Injecting ons38packetplayerlistitem[x1] in func_148833_a in S38PacketPlayerListItem
+[20:35:44] [Client thread/INFO]: Injecting ons3apackettabcomplete[x1] in func_148833_a in S3APacketTabComplete
+[20:35:44] [Client thread/INFO]: Injecting ons3bpacketscoreboardobjective[x1] in func_148833_a in S3BPacketScoreboardObjective
+[20:35:44] [Client thread/INFO]: Injecting ons3cpacketupdatescore[x1] in func_148833_a in S3CPacketUpdateScore
+[20:35:44] [Client thread/INFO]: Injecting ons3dpacketdisplayscoreboard[x1] in func_148833_a in S3DPacketDisplayScoreboard
+[20:35:44] [Client thread/INFO]: Injecting ons3epacketteams[x1] in func_148833_a in S3EPacketTeams
+[20:35:44] [Client thread/INFO]: Injecting ons40packetdisconnect[x1] in func_148833_a in S40PacketDisconnect
+[20:35:44] [Client thread/INFO]: Injecting onc00packetkeepalive[x1] in func_148833_a in C00PacketKeepAlive
+[20:35:44] [Client thread/INFO]: Injecting onc03packetplayer[x1] in func_148833_a in C03PacketPlayer
+[20:35:44] [Client thread/INFO]: Injecting onc04packetplayerposition[x1] in func_148833_a in C03PacketPlayer$C04PacketPlayerPosition
+[20:35:44] [Client thread/INFO]: Injecting onc05packetplayerlook[x1] in func_148833_a in C03PacketPlayer$C05PacketPlayerLook
+[20:35:44] [Client thread/INFO]: Injecting onc06packetplayerposlook[x1] in func_148833_a in C03PacketPlayer$C06PacketPlayerPosLook
+[20:35:44] [Client thread/INFO]: Injecting onc0apacketanimation[x1] in func_148833_a in C0APacketAnimation
+[20:35:44] [Client thread/INFO]: Injecting onc0bpacketentityaction[x1] in func_148833_a in C0BPacketEntityAction
+[20:35:44] [Client thread/INFO]: Injecting onc0cpacketinput[x1] in func_148833_a in C0CPacketInput
+[20:35:44] [Client thread/INFO]: Injecting onc0fpacketconfirmtransaction[x1] in func_148833_a in C0FPacketConfirmTransaction
+[20:35:44] [Client thread/INFO]: Injecting onc12packetupdatesign[x1] in func_148833_a in C12PacketUpdateSign
+[20:35:44] [Client thread/INFO]: Injecting onc13packetplayerabilities[x1] in func_148833_a in C13PacketPlayerAbilities
+[20:35:44] [Client thread/INFO]: Injecting onc14packettabcomplete[x1] in func_148833_a in C14PacketTabComplete
+[20:35:44] [Client thread/INFO]: Injecting ons00packetserverinfo[x1] in func_148833_a in S00PacketServerInfo
+[20:35:44] [Client thread/INFO]: Injecting ons01packetpong[x1] in func_148833_a in S01PacketPong
+[20:35:44] [Client thread/INFO]: Injecting ons00packetdisconnect[x1] in func_148833_a in S00PacketDisconnect
+[20:35:44] [Client thread/INFO]: Injecting ons01packetencryptionrequest[x1] in func_148833_a in S01PacketEncryptionRequest
+[20:35:44] [Client thread/INFO]: Injecting onc01packetencryptionresponse[x1] in func_148833_a in C01PacketEncryptionResponse
+[20:36:21] [Client thread/INFO]: Calling late init for mod Macro / Keybind Mod
+[20:36:22] [Client thread/INFO]: Calling late init for mod Uyjulian's X-ray Mod
+[20:36:22] [Client thread/INFO]: Calling late init for mod BetterClouds
+[20:36:22] [Client thread/INFO]: Baking listener list for ViewportListener with 1 listeners
+[20:36:22] [Client thread/INFO]: Sound handler reload inhibit removed
+[20:36:22] [Client thread/INFO]: Reloading sound handler
+[20:36:22] [Client thread/INFO]: Baking listener list for GameLoopListener with 1 listeners
+[20:36:22] [Client thread/INFO]: Baking listener list for RenderListener with 2 listeners
+[20:36:22] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy$2
+[20:36:22] [Client thread/INFO]: Successfully generated event handler proxy class with 105 handlers(s) and 105 total invokations
+[20:36:22] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
+[20:36:22] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[20:36:22] [Client thread/INFO]: Baking listener list for Tickable with 4 listeners
+[20:36:22] [Client thread/INFO]: JInput Component Registry is initialising...
+[20:36:22] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[20:36:22] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[20:36:22] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
+[20:36:22] [Client thread/INFO]: Inspecting Unknown controller Dell KB216 Wired Keyboard on Unknown...
+[20:36:22] [Client thread/INFO]: JInput Component Registry initialised, found 4 controller(s) 148 component(s)
+[20:36:22] [Client thread/INFO]: Hooking jinput:mouse/HID-compliant mouse/Unknown/0/3/0 as ID 253 via JInput
+[20:36:22] [Client thread/INFO]: Hooking jinput:mouse/HID-compliant mouse/Unknown/0/4/0 as ID 254 via JInput
+[20:36:22] [Client thread/INFO]: Baking listener list for WorldObserver with 2 listeners
+[20:36:22] [Client thread/INFO]: Baking listener list for FrameBufferListener with 0 listeners
+[20:36:34] [Client thread/INFO]: Baking listener list for ServerCommandProvider with 0 listeners
+[20:36:45] [Netty Client IO #0/INFO]: Baking listener list for PostLoginListener with 0 listeners
+[20:36:45] [Server thread/INFO]: Baking listener list for ServerPlayerListener with 0 listeners
+[20:36:45] [Client thread/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
+[20:37:07] [Client thread/INFO]: Baking listener list for JoinGameListener with 1 listeners
+[20:37:07] [Client thread/INFO]: Forge ClientCommandHandler was found, outbound commands will be processed by Forge
+[20:37:07] [Client thread/INFO]: Baking listener list for ChatListener with 1 listeners
+[20:37:16] [Client thread/INFO]: Baking listener list for PostRenderListener with 0 listeners
+[20:37:17] [Client thread/INFO]: Baking listener list for HUDRenderListener with 0 listeners
+[20:37:17] [Client thread/INFO]: Forge ClientCommandHandler was found, outbound commands will be processed by Forge
+[20:40:29] [Client thread/INFO]: Baking listener list for OutboundChatFilter with 1 listeners
+[20:40:29] [Server thread/INFO]: Baking listener list for ServerChatFilter with 0 listeners
+[21:08:30] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
+[21:08:30] [Client thread/INFO]: Baking listener list for ShutdownObserver with 2 listeners
