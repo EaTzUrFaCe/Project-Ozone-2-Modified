@@ -880,24 +880,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@e52d247
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6bcd0115
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@38bb80f7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e3b8051
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c3a8414
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2ffced2f
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4b246c1f
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@491f5422
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@31fd6331
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@79a075b4
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@118caa0b
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2281525c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@783f49d6
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2488eb0
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@76e0b000
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e5b0f32
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5c288cd6
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1ad3b4ed
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2d9e0342
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7ae7ae44
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6d835a0d
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4552a567
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7df99bfa
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3a2b9f8f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4d0fe9f5
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1d2614ae
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c316abb
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4a004f55
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@78f247a1
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@55dcbf75
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@729f63c7
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3aadf026
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5008779d
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@609f4dfe
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@69978b71
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3cee6aa5
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -2672,24 +2672,24 @@ INFO: Re-Adding Metal Press Recipes for Electrum Gear
 INFO: Removing Refinery Recipe for Gasoline
 INFO: Removing Refinery Recipe for Tectonic Petrotheum
 INFO: Removing furnace recipe for <ExtraUtilities:cobblestone_compressed>
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1ad3b4ed
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5c288cd6
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e5b0f32
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@76e0b000
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2488eb0
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@783f49d6
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2281525c
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@118caa0b
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@79a075b4
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@31fd6331
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@491f5422
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4b246c1f
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2ffced2f
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c3a8414
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e3b8051
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@38bb80f7
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6bcd0115
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@e52d247
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3cee6aa5
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@69978b71
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@609f4dfe
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5008779d
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3aadf026
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@729f63c7
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@55dcbf75
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@78f247a1
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4a004f55
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c316abb
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1d2614ae
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4d0fe9f5
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3a2b9f8f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7df99bfa
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4552a567
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6d835a0d
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7ae7ae44
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2d9e0342
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
@@ -3534,24 +3534,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@45a6a6d2
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@38bae28c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7bb82db8
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3ee5f877
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4e85494f
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@21446c91
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1b2b50ec
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a9c25be
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6e37da93
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6c151320
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2d78827e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4622f3ba
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@16115aaf
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5259d75e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3b5bc419
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6ab55feb
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@766db430
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6a127e84
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@68289411
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@168caf93
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e172bf1
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c07fc3a
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@236db7
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7320ba17
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@140f5f21
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7fa97b6
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1c2f0c2b
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6aa9edbb
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4315198
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@57a5218f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@330f3104
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@166ed6eb
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@18ddf82f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@660a0be2
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c479136
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4cfed3db
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -5290,24 +5290,24 @@ INFO: Re-Adding Metal Press Recipes for Electrum Gear
 INFO: Removing Refinery Recipe for Gasoline
 INFO: Removing Refinery Recipe for Tectonic Petrotheum
 INFO: Removing furnace recipe for <ExtraUtilities:cobblestone_compressed>
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6a127e84
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@766db430
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6ab55feb
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3b5bc419
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5259d75e
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@16115aaf
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4622f3ba
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2d78827e
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6c151320
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6e37da93
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a9c25be
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1b2b50ec
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@21446c91
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4e85494f
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3ee5f877
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7bb82db8
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@38bae28c
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@45a6a6d2
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4cfed3db
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c479136
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@660a0be2
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@18ddf82f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@166ed6eb
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@330f3104
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@57a5218f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4315198
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6aa9edbb
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1c2f0c2b
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7fa97b6
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@140f5f21
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7320ba17
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@236db7
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2c07fc3a
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e172bf1
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@168caf93
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@68289411
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
@@ -6152,24 +6152,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@51af96fa
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@45aaff7c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@20799f99
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27fa9857
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a4fd214
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@180c9d3e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@74e54cf1
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7ae5a1a
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7305f789
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@f9c71ba
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5140367c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@244bc8c4
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@78aeca7b
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@14537575
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@44f04255
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3e87bfe7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3074475e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3f8374f8
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6420d710
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@544aa9de
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3e6fd8d7
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@ce6cc57
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6e9c128c
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6f9942d8
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2ff0869c
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@15ce6341
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1b481b06
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3e620535
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@158da003
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@733f1d98
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2874a8d2
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6115b44
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7ee47e3d
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@75bc6fa4
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@78836bf9
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7444d4d6
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
