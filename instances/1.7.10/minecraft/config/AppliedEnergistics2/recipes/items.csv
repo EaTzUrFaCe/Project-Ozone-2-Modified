@@ -4399,7 +4399,7 @@ RedstoneArsenal:Storage:1, Flux Crystal Block, tile.redstonearsenal.storage.crys
 ExtraUtilities:chestMini, Mini-Chest, tile.extrautils:chestMini, true, net.minecraft.item.ItemBlock
 ExtraUtilities:chestFull, Slightly Larger Chest, tile.extrautils:chestFull, true, net.minecraft.item.ItemBlock
 ExtraUtilities:enderCollector, Ender Collector, tile.extrautils:enderCollector, true, net.minecraft.item.ItemBlock
-ExtraUtilities:endConstructor:0, QED (Quacky Ender Device), tile.extrautils:endConstructor.0, true, net.minecraft.item.ItemStack
+ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration), tile.extrautils:endConstructor.0, true, net.minecraft.item.ItemStack
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal, tile.extrautils:endConstructor.2, true, net.minecraft.item.ItemStack
 ExtraUtilities:endMarker, Ender-Marker, tile.extrautils:endMarker, true, net.minecraft.item.ItemBlock
 ExtraUtilities:curtains, Blackout Curtains, tile.extrautils:curtains, true, net.minecraft.item.ItemBlock
@@ -10575,59 +10575,59 @@ Aroma1997sDimension:portalIgniter, Mining Multitool, item.aroma1997sdimension:po
 Aroma1997sDimension:dimensionChanger, DimensionChanger, item.aroma1997sdimension:dimensionChanger, false, aroma1997.world.DimensionChanger
 Baubles:Ring:0, Miner's Ring, item.Ring.0, false, net.minecraft.item.ItemStack
 Artifacts:artifact:0, Artifact, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Valuable Diamond Wand of Light, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Sighted Gold Figurine of Armor, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Efficiency Digging Iron Amulet of the Sun, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Breathy Wood Dagger of Pain, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Healing Iron Wand of Mining, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Breathy Diamond Figurine of Emeralds, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Sensing Stone Belt of Leaping, item.artifact, false, net.minecraft.item.ItemStack
-Artifacts:artifact:0, Excavator's Gold Amulet of Hermes, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Jumpy Iron Ring of Light, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Bright Gold Trinket, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Gold Ring of Lightness, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Emerald Studded Stone Sword, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Confectioner's Gold Figurine, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Confectioner's Gold Dagger of Rending, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Aerated Diamond Figurine of Lightness, item.artifact, false, net.minecraft.item.ItemStack
+Artifacts:artifact:0, Quick Gold Amulet of Rejuvenation, item.artifact, false, net.minecraft.item.ItemStack
 Artifacts:artifact_leather_chestplate:0, Artifact Leather Armor, item.artifact_leather_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Bright Leather Helm of Breathing, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Protection Reinvigorating Leather Pants, item.artifact_leather_leggings, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Leather Boots of Hermes, item.artifact_leather_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Leather Helm of Light, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Bulky Leather Pants, item.artifact_leather_leggings, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Heavy Leather Boots, item.artifact_leather_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Oxygenated Leather Helm, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_leather_chestplate:0, Healing Leather Chestplate of Stability, item.artifact_leather_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Leather Helm of Seeing, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Quick Leather Chestplate of Seeing, item.artifact_leather_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Bright Leather Helm of Fresh Air, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Leather Chestplate of Stability, item.artifact_leather_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Rejuvenating Leather Helm of Swiftness, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Healing Leather Helm of Seeing, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Swift Leather Boots of Stability, item.artifact_leather_boots, false, net.minecraft.item.ItemStack
+Artifacts:artifact_leather_chestplate:0, Bright Leather Helm of Leaping, item.artifact_leather_helmet, false, net.minecraft.item.ItemStack
 Artifacts:artifact_chainmail_chestplate:0, Artifact Chainmail Armor, item.artifact_chainmail_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_chainmail_chestplate:0, Unbreaking Chain Pants of Speed, item.artifact_chainmail_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_chainmail_chestplate:0, Chain Helm of Stability, item.artifact_chainmail_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_chainmail_chestplate:0, Healing Chain Boots of Breathing, item.artifact_chainmail_boots, false, net.minecraft.item.ItemStack
 Artifacts:artifact_chainmail_chestplate:0, Illuminating Chain Helm, item.artifact_chainmail_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_chainmail_chestplate:0, Guarding Chain Chestplate of Health, item.artifact_chainmail_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_chainmail_chestplate:0, Guarding Chain Pants of Healing, item.artifact_chainmail_leggings, false, net.minecraft.item.ItemStack
-Artifacts:artifact_chainmail_chestplate:0, Sighted Chain Pants of Hermes, item.artifact_chainmail_leggings, false, net.minecraft.item.ItemStack
-Artifacts:artifact_chainmail_chestplate:0, Breathy Chain Chestplate, item.artifact_chainmail_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_chainmail_chestplate:0, Chain Helm of Breathing, item.artifact_chainmail_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_chainmail_chestplate:0, Bright Chain Helm of Healing, item.artifact_chainmail_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_chainmail_chestplate:0, Hardy Chain Chestplate, item.artifact_chainmail_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_chainmail_chestplate:0, Jumpy Chain Helm of Seeing, item.artifact_chainmail_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_chainmail_chestplate:0, Jumpy Chain Pants of Toughness, item.artifact_chainmail_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_chainmail_chestplate:0, Reinvigorating Chain Helm of Armor, item.artifact_chainmail_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_chainmail_chestplate:0, Swift Chain Boots, item.artifact_chainmail_boots, false, net.minecraft.item.ItemStack
 Artifacts:artifact_iron_chestplate:0, Artifact Iron Armor, item.artifact_iron_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Sighted Iron Chestplate, item.artifact_iron_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Healing Iron Pants of Health, item.artifact_iron_leggings, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Bright Iron Chestplate of Healing, item.artifact_iron_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Quick Iron Boots of Flight, item.artifact_iron_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Iron Pants of Lightness, item.artifact_iron_leggings, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Iron Helm of Stability, item.artifact_iron_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Stable Iron Boots of Armor, item.artifact_iron_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_iron_chestplate:0, Iron Chestplate of Darkvision, item.artifact_iron_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Reinvigorating Iron Pants of Leaping, item.artifact_iron_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Bright Iron Boots of Flight, item.artifact_iron_boots, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Iron Boots of Leaping, item.artifact_iron_boots, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Iron Pants of Hermes, item.artifact_iron_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Iron Boots of Stability, item.artifact_iron_boots, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Unbreaking Healing Iron Helm of Breathing, item.artifact_iron_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Iron Chestplate of Healing, item.artifact_iron_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_iron_chestplate:0, Floating Iron Pants of Healing, item.artifact_iron_leggings, false, net.minecraft.item.ItemStack
 Artifacts:artifact_golden_chestplate:0, Artifact Golden Armor, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Healing Gold Helm, item.artifact_golden_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Heavy Gold Helm of Darkvision, item.artifact_golden_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Projectile Protection Gold Boots of Lightness, item.artifact_golden_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Guarding Gold Boots of Health, item.artifact_golden_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Stable Gold Chestplate of Fresh Air, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Floating Gold Chestplate of Fresh Air, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Heavy Gold Chestplate of Rejuvenation, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_golden_chestplate:0, Fire Protection Stable Gold Pants, item.artifact_golden_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Sensing Gold Helm of Fresh Air, item.artifact_golden_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Illuminating Gold Helm of Stability, item.artifact_golden_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Healing Gold Pants of Toughness, item.artifact_golden_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Oxygenated Gold Chestplate of Toughness, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Projectile Protection Swift Gold Chestplate of Healing, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Aerated Gold Chestplate, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Reinvigorating Gold Chestplate, item.artifact_golden_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_golden_chestplate:0, Floating Gold Pants of Lightness, item.artifact_golden_leggings, false, net.minecraft.item.ItemStack
 Artifacts:artifact_diamond_chestplate:0, Artifact Diamond Armor, item.artifact_diamond_chestplate, false, net.minecraft.item.ItemStack
-Artifacts:artifact_diamond_chestplate:0, Healing Diamond Helm, item.artifact_diamond_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_diamond_chestplate:0, Diamond Helm of Protection, item.artifact_diamond_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_diamond_chestplate:0, Stable Diamond Pants of Leaping, item.artifact_diamond_leggings, false, net.minecraft.item.ItemStack
-Artifacts:artifact_diamond_chestplate:0, Jumpy Diamond Boots of Stability, item.artifact_diamond_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_diamond_chestplate:0, Rejuvenating Diamond Chestplate of Health, item.artifact_diamond_chestplate, false, net.minecraft.item.ItemStack
 Artifacts:artifact_diamond_chestplate:0, Diamond Helm of Stability, item.artifact_diamond_helmet, false, net.minecraft.item.ItemStack
-Artifacts:artifact_diamond_chestplate:0, Diamond Boots of Lightness, item.artifact_diamond_boots, false, net.minecraft.item.ItemStack
-Artifacts:artifact_diamond_chestplate:0, Healing Diamond Chestplate, item.artifact_diamond_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_diamond_chestplate:0, Hardy Diamond Chestplate of Swiftness, item.artifact_diamond_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_diamond_chestplate:0, Diamond Pants of Lightness, item.artifact_diamond_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_diamond_chestplate:0, Sturdy Diamond Pants, item.artifact_diamond_leggings, false, net.minecraft.item.ItemStack
+Artifacts:artifact_diamond_chestplate:0, Diamond Chestplate of Speed, item.artifact_diamond_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_diamond_chestplate:0, Stable Diamond Chestplate of Flight, item.artifact_diamond_chestplate, false, net.minecraft.item.ItemStack
+Artifacts:artifact_diamond_chestplate:0, Diamond Helm of Healing, item.artifact_diamond_helmet, false, net.minecraft.item.ItemStack
+Artifacts:artifact_diamond_chestplate:0, Diamond Boots of Protection, item.artifact_diamond_boots, false, net.minecraft.item.ItemStack
 Artifacts:dust_orichalcum:0, Raw Manaesence, item.dust_orichalcum, false, net.minecraft.item.ItemStack
 Artifacts:dust_orichalcum:1, Wood infused Manaesence, item.dust_orichalcum, false, net.minecraft.item.ItemStack
 Artifacts:dust_orichalcum:2, Stone infused Manaesence, item.dust_orichalcum, false, net.minecraft.item.ItemStack
@@ -11917,33 +11917,33 @@ DefenseTech:poisonPowder, Poison Powder, item.poisonPowder, false, defense.commo
 DefenseTech:antidote, Antidote, item.antidote, false, defense.common.item.ItemAntidote
 DefenseTech:signalDisrupter, Signal Disrupter, item.signalDisrupter, false, defense.common.item.ItemSignalDisrupter
 DefenseTech:tracker, Tracker, item.tracker, false, defense.common.item.ItemTracker
-DefenseTech:missile:23, Missile Module, missile.missileModule, false, net.minecraft.item.ItemStack
-DefenseTech:missile:19, Anti-Gravitational Missile, missile.antiGravitational, false, net.minecraft.item.ItemStack
-DefenseTech:missile:21, Antimatter Missile, missile.antimatter, false, net.minecraft.item.ItemStack
-DefenseTech:missile:0, Conventional Missile, missile.condensed, false, net.minecraft.item.ItemStack
-DefenseTech:missile:24, Homing Missile, missile.homing, false, net.minecraft.item.ItemStack
-DefenseTech:missile:25, Anti-Ballistic Missile, missile.antiBallistic, false, net.minecraft.item.ItemStack
+DefenseTech:missile:4, Chemical Missile, missile.chemical, false, net.minecraft.item.ItemStack
 DefenseTech:missile:5, Anvil Missile, missile.anvil, false, net.minecraft.item.ItemStack
-DefenseTech:missile:10, Sonic Missile, missile.sonic, false, net.minecraft.item.ItemStack
-DefenseTech:missile:20, Hypersonic Missile, missile.hypersonic, false, net.minecraft.item.ItemStack
-DefenseTech:missile:1, Shrapnel Missile, missile.shrapnel, false, net.minecraft.item.ItemStack
-DefenseTech:missile:26, Cluster Missile, missile.cluster, false, net.minecraft.item.ItemStack
-DefenseTech:missile:7, Attractive Missile, missile.attractive, false, net.minecraft.item.ItemStack
-DefenseTech:missile:3, Debilitation Missile, missile.debilitation, false, net.minecraft.item.ItemStack
-DefenseTech:missile:9, Contagious Missile, missile.contagious, false, net.minecraft.item.ItemStack
-DefenseTech:missile:13, Thermobaric Missile, missile.thermobaric, false, net.minecraft.item.ItemStack
 DefenseTech:missile:16, EMP Missile, missile.emp, false, net.minecraft.item.ItemStack
 DefenseTech:missile:11, Breaching Missile, missile.breaching, false, net.minecraft.item.ItemStack
-DefenseTech:missile:2, Incendiary Missile, missile.incendiary, false, net.minecraft.item.ItemStack
-DefenseTech:missile:18, Endothermic Missile, missile.endothermic, false, net.minecraft.item.ItemStack
-DefenseTech:missile:12, Rejuvenation Missile, missile.rejuvenation, false, net.minecraft.item.ItemStack
-DefenseTech:missile:8, Fragmentation Missile, missile.fragmentation, false, net.minecraft.item.ItemStack
-DefenseTech:missile:4, Chemical Missile, missile.chemical, false, net.minecraft.item.ItemStack
-DefenseTech:missile:15, Nuclear Missile, missile.nuclear, false, net.minecraft.item.ItemStack
 DefenseTech:missile:22, Red Matter Missile, missile.redMatter, false, net.minecraft.item.ItemStack
-DefenseTech:missile:27, Nuclear Cluster Missile, missile.nuclearCluster, false, net.minecraft.item.ItemStack
+DefenseTech:missile:3, Debilitation Missile, missile.debilitation, false, net.minecraft.item.ItemStack
+DefenseTech:missile:10, Sonic Missile, missile.sonic, false, net.minecraft.item.ItemStack
+DefenseTech:missile:19, Anti-Gravitational Missile, missile.antiGravitational, false, net.minecraft.item.ItemStack
+DefenseTech:missile:1, Shrapnel Missile, missile.shrapnel, false, net.minecraft.item.ItemStack
+DefenseTech:missile:7, Attractive Missile, missile.attractive, false, net.minecraft.item.ItemStack
+DefenseTech:missile:9, Contagious Missile, missile.contagious, false, net.minecraft.item.ItemStack
+DefenseTech:missile:12, Rejuvenation Missile, missile.rejuvenation, false, net.minecraft.item.ItemStack
+DefenseTech:missile:2, Incendiary Missile, missile.incendiary, false, net.minecraft.item.ItemStack
+DefenseTech:missile:15, Nuclear Missile, missile.nuclear, false, net.minecraft.item.ItemStack
+DefenseTech:missile:0, Conventional Missile, missile.condensed, false, net.minecraft.item.ItemStack
+DefenseTech:missile:24, Homing Missile, missile.homing, false, net.minecraft.item.ItemStack
+DefenseTech:missile:13, Thermobaric Missile, missile.thermobaric, false, net.minecraft.item.ItemStack
 DefenseTech:missile:17, Exothermic Missile, missile.exothermic, false, net.minecraft.item.ItemStack
 DefenseTech:missile:6, Repulsive Missile, missile.repulsive, false, net.minecraft.item.ItemStack
+DefenseTech:missile:25, Anti-Ballistic Missile, missile.antiBallistic, false, net.minecraft.item.ItemStack
+DefenseTech:missile:26, Cluster Missile, missile.cluster, false, net.minecraft.item.ItemStack
+DefenseTech:missile:20, Hypersonic Missile, missile.hypersonic, false, net.minecraft.item.ItemStack
+DefenseTech:missile:21, Antimatter Missile, missile.antimatter, false, net.minecraft.item.ItemStack
+DefenseTech:missile:23, Missile Module, missile.missileModule, false, net.minecraft.item.ItemStack
+DefenseTech:missile:8, Fragmentation Missile, missile.fragmentation, false, net.minecraft.item.ItemStack
+DefenseTech:missile:27, Nuclear Cluster Missile, missile.nuclearCluster, false, net.minecraft.item.ItemStack
+DefenseTech:missile:18, Endothermic Missile, missile.endothermic, false, net.minecraft.item.ItemStack
 DefenseTech:defuser, Defuser, item.defuser, false, defense.common.item.ItemDefuser
 DefenseTech:radarGun, Radar Gun, item.radarGun, false, defense.common.item.ItemRadarGun
 DefenseTech:remoteDetonator, Remote Detonator, item.remoteDetonator, false, defense.common.item.ItemRemoteDetonator
@@ -12226,7 +12226,7 @@ EnderIO:bucketFire_water, Fire Water Bucket, item.bucketFire_water, false, crazy
 EnderIO:bucketLiquid_sunshine, Liquid Sunshine Bucket, item.bucketLiquid_sunshine, false, crazypants.enderio.fluid.ItemBucketEio
 EnderIO:bucketCloud_seed, Cloud Seed Bucket, item.bucketCloud_seed, false, crazypants.enderio.fluid.ItemBucketEio
 EnderIO:bucketCloud_seed_concentrated, Concentrated Cloud Seed Bucket, item.bucketCloud_seed_concentrated, false, crazypants.enderio.fluid.ItemBucketEio
-EnderIO:itemYetaWrench, Yeta Wrench, item.itemYetaWrench, false, crazypants.enderio.item.ItemYetaWrench$$EnhancerByCGLIB$$bc52bc44
+EnderIO:itemYetaWrench, Yeta Wrench, item.itemYetaWrench, false, crazypants.enderio.item.ItemYetaWrench$$EnhancerByCGLIB$$b8c94bcf
 EnderIO:itemEnderface, Enderface, item.enderio.itemEnderface, false, crazypants.enderio.enderface.ItemEnderface
 EnderIO:itemTravelStaff:0, Staff of Traveling, item.itemTravelStaff, false, net.minecraft.item.ItemStack
 EnderIO:itemTravelStaff:16, Staff of Traveling, item.itemTravelStaff, false, net.minecraft.item.ItemStack
