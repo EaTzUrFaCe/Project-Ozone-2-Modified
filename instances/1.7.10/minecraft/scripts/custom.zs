@@ -22,14 +22,6 @@ mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:material:132>, <liquid
 mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:material:134>, <liquid:mithril.molten>, <TConstruct:gearCast>, false, 50);
 mods.tconstruct.Casting.addTableRecipe(<ThermalFoundation:material:139>, <liquid:lumium.molten>, <TConstruct:gearCast>, false, 50);
 
-//Easy Seed Breeding
-
-for item in <ore:listAllseed>.items {
-	recipes.addShapeless(item, [item.marked("seed")], function(output, inputs, crafting) {
-		return inputs.seed.updateTag({strength: 10 as short, analyzed: 1 as byte, growth: 10 as short, gain: 10 as short}).withAmount(2);
-	});
-}
-
 //Stackable Safari Nets
 
 safariNetSingle.maxStackSize = 3;
@@ -39,12 +31,88 @@ safariNetReusable.maxStackSize = 3;
 
 //OreDictionary Unification
 
+<ore:listAllseed>.add(<magicalcrops:AluminiumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:AlumiteSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ArditeSeeds>);
+<ore:listAllseed>.add(<magicalcrops:BlazeSeeds>);
+<ore:listAllseed>.add(<magicalcrops:BlizzSeeds>);
+<ore:listAllseed>.add(<magicalcrops:BronzeSeeds>);
+<ore:listAllseed>.add(<magicalcrops:CertusQuartzSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ChickenSeeds>);
+<ore:listAllseed>.add(<magicalcrops:CoalSeeds>);
+<ore:listAllseed>.add(<magicalcrops:CobaltSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ConductiveIronSeeds>);
+<ore:listAllseed>.add(<magicalcrops:CopperSeeds>);
+<ore:listAllseed>.add(<magicalcrops:CowSeeds>);
+<ore:listAllseed>.add(<magicalcrops:CreeperSeeds>);
+<ore:listAllseed>.add(<magicalcrops:DarkSteelSeeds>);
+<ore:listAllseed>.add(<magicalcrops:DiamondSeeds>);
+<ore:listAllseed>.add(<magicalcrops:DraconiumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:DyeSeeds>);
+<ore:listAllseed>.add(<magicalcrops:EarthSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ElectricalSteelSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ElectrumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:EmeraldSeeds>);
+<ore:listAllseed>.add(<magicalcrops:EnderiumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:EndermanSeeds>);
+<ore:listAllseed>.add(<magicalcrops:EnergeticAlloySeeds>);
+<ore:listAllseed>.add(<magicalcrops:ExperienceSeeds>);
+<ore:listAllseed>.add(<magicalcrops:FireSeeds>);
+<ore:listAllseed>.add(<magicalcrops:FluixSeeds>);
+<ore:listAllseed>.add(<magicalcrops:GhastSeeds>);
+<ore:listAllseed>.add(<magicalcrops:GlowstoneSeeds>);
+<ore:listAllseed>.add(<magicalcrops:GoldSeeds>);
+<ore:listAllseed>.add(<magicalcrops:InvarSeeds>);
+<ore:listAllseed>.add(<magicalcrops:IronSeeds>);
+<ore:listAllseed>.add(<magicalcrops:LapisSeeds>);
+<ore:listAllseed>.add(<magicalcrops:LeadSeeds>);
+<ore:listAllseed>.add(<magicalcrops:LumiumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ManasteelSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ManyullynSeeds>);
+<ore:listAllseed>.add(<magicalcrops:MinicioSeeds>);
+<ore:listAllseed>.add(<magicalcrops:NatureSeeds>);
+<ore:listAllseed>.add(<magicalcrops:NetherSeeds>);
+<ore:listAllseed>.add(<magicalcrops:NickelSeeds>);
+<ore:listAllseed>.add(<magicalcrops:ObsidianSeeds>);
+<ore:listAllseed>.add(<magicalcrops:OsmiumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:PigSeeds>);
+<ore:listAllseed>.add(<magicalcrops:PlatinumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:PulsatingIronSeeds>);
+<ore:listAllseed>.add(<magicalcrops:QuartzSeeds>);
+<ore:listAllseed>.add(<magicalcrops:RedstoneAlloySeeds>);
+<ore:listAllseed>.add(<magicalcrops:RedstoneSeeds>);
+<ore:listAllseed>.add(<magicalcrops:RubberSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SaltpeterSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SheepSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SignalumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SilverSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SkeletonSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SlimeSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SoulariumSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SpiderSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SteelSeeds>);
+<ore:listAllseed>.add(<magicalcrops:SulfurSeeds>);
+<ore:listAllseed>.add(<magicalcrops:TerrasteelSeeds>);
+<ore:listAllseed>.add(<magicalcrops:TinSeeds>);
+<ore:listAllseed>.add(<magicalcrops:VibrantAlloySeeds>);
+<ore:listAllseed>.add(<magicalcrops:WaterSeeds>);
+<ore:listAllseed>.add(<magicalcrops:WitherSeeds>);
+<ore:listAllseed>.add(<magicalcrops:YelloriteSeeds>);
+
 <ore:pebble>.add(<exnihilo:stone>);
+
 recipes.addShapeless(<Botania:manaResource:21>, [<exnihilo:stone>]);
 recipes.addShapeless(<exnihilo:stone>, [<Botania:manaResource:21>]);
 
-//Compressed Sieving
+//Easy Seed Breeding
 
+for item in <ore:listAllseed>.items {
+	recipes.addShapeless(item, [item.marked("seed")], function(output, inputs, crafting) {
+		return inputs.seed.updateTag({strength: 10 as short, analyzed: 1 as byte, growth: 10 as short, gain: 10 as short}).withAmount(2);
+	});
+}
+
+//Compressed Sieving
 
 recipes.addShapeless(<customthings:block0:5>, [<minecraft:netherrack>, <minecraft:netherrack>, <minecraft:netherrack>, <minecraft:netherrack>, <minecraft:netherrack>, <minecraft:netherrack>, <minecraft:netherrack>, <minecraft:netherrack>, <minecraft:netherrack>]);
 recipes.addShapeless(<minecraft:netherrack> * 9, [<customthings:block0:5>]);
@@ -130,3 +198,7 @@ mods.exnihilo.Sieve.addRecipe(compressedDust, [<exnihilo:exnihilo.aluminum_powde
 mods.exnihilo.Sieve.addRecipe(compressedDust, [<exnihilo:exnihilo.osmium_powdered>, <exnihilo:exnihilo.osmium_powdered>, <exnihilo:exnihilo.osmium_powdered>, <exnihilo:exnihilo.osmium_powdered>, <exnihilo:exnihilo.osmium_powdered>, <exnihilo:exnihilo.osmium_powdered>], [10, 10, 10, 10, 10, 10]);
 mods.exnihilo.Sieve.addRecipe(compressedDust, [<appliedenergistics2:item.ItemMultiMaterial:2>, <appliedenergistics2:item.ItemMultiMaterial:2>, <appliedenergistics2:item.ItemMultiMaterial:2>, <appliedenergistics2:item.ItemMultiMaterial:2>, <appliedenergistics2:item.ItemMultiMaterial:2>, <appliedenergistics2:item.ItemMultiMaterial:2>], [6, 6, 6, 6, 6, 6]);
 mods.exnihilo.Sieve.addRecipe(compressedDust, [<appliedenergistics2:item.ItemMultiMaterial:45>, <appliedenergistics2:item.ItemMultiMaterial:45>, <appliedenergistics2:item.ItemMultiMaterial:45>, <appliedenergistics2:item.ItemMultiMaterial:45>, <appliedenergistics2:item.ItemMultiMaterial:45>, <appliedenergistics2:item.ItemMultiMaterial:45>], [8, 8, 8, 8, 8, 8]);
+
+// Add Mana Infused Alloying
+
+mods.tconstruct.Smeltery.addAlloy(<liquid:mithril.molten> * 64, [<liquid:enderium.molten> * 48, <liquid:lumium.molten> * 16]);

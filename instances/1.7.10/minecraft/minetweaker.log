@@ -28,6 +28,80 @@ INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
+INFO: Setting max stack size of  Safari Net (Single-Use) to 3
+INFO: Setting max stack size of  Jailer's Safari Net to 3
+INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
+INFO: Setting max stack size of  Safari Net (Reusable) to 3
+INFO: Adding Aluminium Seeds to ore dictionary entry listAllseed
+INFO: Adding Alumite Seeds to ore dictionary entry listAllseed
+INFO: Adding Ardite Seeds to ore dictionary entry listAllseed
+INFO: Adding Blaze Seeds to ore dictionary entry listAllseed
+INFO: Adding Blizz Seeds to ore dictionary entry listAllseed
+INFO: Adding Bronze Seeds to ore dictionary entry listAllseed
+INFO: Adding Certus Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Chicken Seeds to ore dictionary entry listAllseed
+INFO: Adding Coal Seeds to ore dictionary entry listAllseed
+INFO: Adding Cobalt Seeds to ore dictionary entry listAllseed
+INFO: Adding Conductive Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Copper Seeds to ore dictionary entry listAllseed
+INFO: Adding Cow Seeds to ore dictionary entry listAllseed
+INFO: Adding Creeper Seeds to ore dictionary entry listAllseed
+INFO: Adding Dark Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Diamond Seeds to ore dictionary entry listAllseed
+INFO: Adding Draconium Seeds to ore dictionary entry listAllseed
+INFO: Adding Dye Seeds to ore dictionary entry listAllseed
+INFO: Adding Earth Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrical Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrum Seeds to ore dictionary entry listAllseed
+INFO: Adding Emerald Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderium Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderman Seeds to ore dictionary entry listAllseed
+INFO: Adding Energetic Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Experience Seeds to ore dictionary entry listAllseed
+INFO: Adding Fire Seeds to ore dictionary entry listAllseed
+INFO: Adding Fluix Seeds to ore dictionary entry listAllseed
+INFO: Adding Ghast Seeds to ore dictionary entry listAllseed
+INFO: Adding Glowstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Gold Seeds to ore dictionary entry listAllseed
+INFO: Adding Invar Seeds to ore dictionary entry listAllseed
+INFO: Adding Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Lapis Lazuli Seeds to ore dictionary entry listAllseed
+INFO: Adding Lead Seeds to ore dictionary entry listAllseed
+INFO: Adding Lumium Seeds to ore dictionary entry listAllseed
+INFO: Adding Manasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Manyullyn Seeds to ore dictionary entry listAllseed
+INFO: Adding Minicio Seeds to ore dictionary entry listAllseed
+INFO: Adding Nature Seeds to ore dictionary entry listAllseed
+INFO: Adding Nether Seeds to ore dictionary entry listAllseed
+INFO: Adding Nickel Seeds to ore dictionary entry listAllseed
+INFO: Adding Obsidian Seeds to ore dictionary entry listAllseed
+INFO: Adding Osmium Seeds to ore dictionary entry listAllseed
+INFO: Adding Pig Seeds to ore dictionary entry listAllseed
+INFO: Adding Platinum Seeds to ore dictionary entry listAllseed
+INFO: Adding Pulsating Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Rubber Seeds to ore dictionary entry listAllseed
+INFO: Adding Saltpeter Seeds to ore dictionary entry listAllseed
+INFO: Adding Sheep Seeds to ore dictionary entry listAllseed
+INFO: Adding Signalum Seeds to ore dictionary entry listAllseed
+INFO: Adding Silver Seeds to ore dictionary entry listAllseed
+INFO: Adding Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Slime Seeds to ore dictionary entry listAllseed
+INFO: Adding Soularium Seeds to ore dictionary entry listAllseed
+INFO: Adding Spider Seeds to ore dictionary entry listAllseed
+INFO: Adding Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Sulfur Seeds to ore dictionary entry listAllseed
+INFO: Adding Terrasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Tin Seeds to ore dictionary entry listAllseed
+INFO: Adding Vibrant Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Water Seeds to ore dictionary entry listAllseed
+INFO: Adding Wither Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Yellorite Seeds to ore dictionary entry listAllseed
+INFO: Adding Stone to ore dictionary entry pebble
+INFO: Adding recipe for Pebble
+INFO: Adding recipe for Stone
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -137,13 +211,73 @@ INFO: Adding recipe for Mystical Brown Flower Seeds
 INFO: Adding recipe for Mystical Green Flower Seeds
 INFO: Adding recipe for Mystical Red Flower Seeds
 INFO: Adding recipe for Mystical Black Flower Seeds
-INFO: Setting max stack size of  Safari Net (Single-Use) to 3
-INFO: Setting max stack size of  Jailer's Safari Net to 3
-INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
-INFO: Setting max stack size of  Safari Net (Reusable) to 3
-INFO: Adding Stone to ore dictionary entry pebble
-INFO: Adding recipe for Pebble
-INFO: Adding recipe for Stone
+INFO: Adding recipe for Aluminium Seeds
+INFO: Adding recipe for Alumite Seeds
+INFO: Adding recipe for Ardite Seeds
+INFO: Adding recipe for Blaze Seeds
+INFO: Adding recipe for Blizz Seeds
+INFO: Adding recipe for Bronze Seeds
+INFO: Adding recipe for Certus Quartz Seeds
+INFO: Adding recipe for Chicken Seeds
+INFO: Adding recipe for Coal Seeds
+INFO: Adding recipe for Cobalt Seeds
+INFO: Adding recipe for Conductive Iron Seeds
+INFO: Adding recipe for Copper Seeds
+INFO: Adding recipe for Cow Seeds
+INFO: Adding recipe for Creeper Seeds
+INFO: Adding recipe for Dark Steel Seeds
+INFO: Adding recipe for Diamond Seeds
+INFO: Adding recipe for Draconium Seeds
+INFO: Adding recipe for Dye Seeds
+INFO: Adding recipe for Earth Seeds
+INFO: Adding recipe for Electrical Steel Seeds
+INFO: Adding recipe for Electrum Seeds
+INFO: Adding recipe for Emerald Seeds
+INFO: Adding recipe for Enderium Seeds
+INFO: Adding recipe for Enderman Seeds
+INFO: Adding recipe for Energetic Alloy Seeds
+INFO: Adding recipe for Experience Seeds
+INFO: Adding recipe for Fire Seeds
+INFO: Adding recipe for Fluix Seeds
+INFO: Adding recipe for Ghast Seeds
+INFO: Adding recipe for Glowstone Seeds
+INFO: Adding recipe for Gold Seeds
+INFO: Adding recipe for Invar Seeds
+INFO: Adding recipe for Iron Seeds
+INFO: Adding recipe for Lapis Lazuli Seeds
+INFO: Adding recipe for Lead Seeds
+INFO: Adding recipe for Lumium Seeds
+INFO: Adding recipe for Manasteel Seeds
+INFO: Adding recipe for Manyullyn Seeds
+INFO: Adding recipe for Minicio Seeds
+INFO: Adding recipe for Nature Seeds
+INFO: Adding recipe for Nether Seeds
+INFO: Adding recipe for Nickel Seeds
+INFO: Adding recipe for Obsidian Seeds
+INFO: Adding recipe for Osmium Seeds
+INFO: Adding recipe for Pig Seeds
+INFO: Adding recipe for Platinum Seeds
+INFO: Adding recipe for Pulsating Iron Seeds
+INFO: Adding recipe for Quartz Seeds
+INFO: Adding recipe for Redstone Alloy Seeds
+INFO: Adding recipe for Redstone Seeds
+INFO: Adding recipe for Rubber Seeds
+INFO: Adding recipe for Saltpeter Seeds
+INFO: Adding recipe for Sheep Seeds
+INFO: Adding recipe for Signalum Seeds
+INFO: Adding recipe for Silver Seeds
+INFO: Adding recipe for Skeleton Seeds
+INFO: Adding recipe for Slime Seeds
+INFO: Adding recipe for Soularium Seeds
+INFO: Adding recipe for Spider Seeds
+INFO: Adding recipe for Steel Seeds
+INFO: Adding recipe for Sulfur Seeds
+INFO: Adding recipe for Terrasteel Seeds
+INFO: Adding recipe for Tin Seeds
+INFO: Adding recipe for Vibrant Alloy Seeds
+INFO: Adding recipe for Water Seeds
+INFO: Adding recipe for Wither Skeleton Seeds
+INFO: Adding recipe for Yellorite Seeds
 INFO: Adding recipe for Compressed Netherrack
 INFO: Adding recipe for Netherrack
 INFO: Adding recipe for Compressed Crushed Netherrack
@@ -229,6 +363,8 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:mithril.molten> * 64
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:mithril.molten> * 64
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
@@ -314,13 +450,73 @@ INFO: Removing recipe for Crushed Netherrack
 INFO: Removing recipe for Compressed Crushed Netherrack
 INFO: Removing recipe for Netherrack
 INFO: Removing recipe for Compressed Netherrack
-INFO: Removing recipe for Stone
-INFO: Removing recipe for Pebble
-INFO: Removing Stone from ore dictionary entry pebble
-INFO: Reverting max stack size of Safari Net (Reusable) to 1
-INFO: Reverting max stack size of Golden Jailer's Safari Net to 1
-INFO: Reverting max stack size of Jailer's Safari Net to 1
-INFO: Reverting max stack size of Safari Net (Single-Use) to 1
+INFO: Removing recipe for Yellorite Seeds
+INFO: Removing recipe for Wither Skeleton Seeds
+INFO: Removing recipe for Water Seeds
+INFO: Removing recipe for Vibrant Alloy Seeds
+INFO: Removing recipe for Tin Seeds
+INFO: Removing recipe for Terrasteel Seeds
+INFO: Removing recipe for Sulfur Seeds
+INFO: Removing recipe for Steel Seeds
+INFO: Removing recipe for Spider Seeds
+INFO: Removing recipe for Soularium Seeds
+INFO: Removing recipe for Slime Seeds
+INFO: Removing recipe for Skeleton Seeds
+INFO: Removing recipe for Silver Seeds
+INFO: Removing recipe for Signalum Seeds
+INFO: Removing recipe for Sheep Seeds
+INFO: Removing recipe for Saltpeter Seeds
+INFO: Removing recipe for Rubber Seeds
+INFO: Removing recipe for Redstone Seeds
+INFO: Removing recipe for Redstone Alloy Seeds
+INFO: Removing recipe for Quartz Seeds
+INFO: Removing recipe for Pulsating Iron Seeds
+INFO: Removing recipe for Platinum Seeds
+INFO: Removing recipe for Pig Seeds
+INFO: Removing recipe for Osmium Seeds
+INFO: Removing recipe for Obsidian Seeds
+INFO: Removing recipe for Nickel Seeds
+INFO: Removing recipe for Nether Seeds
+INFO: Removing recipe for Nature Seeds
+INFO: Removing recipe for Minicio Seeds
+INFO: Removing recipe for Manyullyn Seeds
+INFO: Removing recipe for Manasteel Seeds
+INFO: Removing recipe for Lumium Seeds
+INFO: Removing recipe for Lead Seeds
+INFO: Removing recipe for Lapis Lazuli Seeds
+INFO: Removing recipe for Iron Seeds
+INFO: Removing recipe for Invar Seeds
+INFO: Removing recipe for Gold Seeds
+INFO: Removing recipe for Glowstone Seeds
+INFO: Removing recipe for Ghast Seeds
+INFO: Removing recipe for Fluix Seeds
+INFO: Removing recipe for Fire Seeds
+INFO: Removing recipe for Experience Seeds
+INFO: Removing recipe for Energetic Alloy Seeds
+INFO: Removing recipe for Enderman Seeds
+INFO: Removing recipe for Enderium Seeds
+INFO: Removing recipe for Emerald Seeds
+INFO: Removing recipe for Electrum Seeds
+INFO: Removing recipe for Electrical Steel Seeds
+INFO: Removing recipe for Earth Seeds
+INFO: Removing recipe for Dye Seeds
+INFO: Removing recipe for Draconium Seeds
+INFO: Removing recipe for Diamond Seeds
+INFO: Removing recipe for Dark Steel Seeds
+INFO: Removing recipe for Creeper Seeds
+INFO: Removing recipe for Cow Seeds
+INFO: Removing recipe for Copper Seeds
+INFO: Removing recipe for Conductive Iron Seeds
+INFO: Removing recipe for Cobalt Seeds
+INFO: Removing recipe for Coal Seeds
+INFO: Removing recipe for Chicken Seeds
+INFO: Removing recipe for Certus Quartz Seeds
+INFO: Removing recipe for Bronze Seeds
+INFO: Removing recipe for Blizz Seeds
+INFO: Removing recipe for Blaze Seeds
+INFO: Removing recipe for Ardite Seeds
+INFO: Removing recipe for Alumite Seeds
+INFO: Removing recipe for Aluminium Seeds
 INFO: Removing recipe for Mystical Black Flower Seeds
 INFO: Removing recipe for Mystical Red Flower Seeds
 INFO: Removing recipe for Mystical Green Flower Seeds
@@ -430,6 +626,80 @@ INFO: Removing recipe for Dandelion Seeds
 INFO: Removing recipe for Sugarcane Seeds
 INFO: Removing recipe for Carrot Seeds
 INFO: Removing recipe for Potato Seeds
+INFO: Removing recipe for Stone
+INFO: Removing recipe for Pebble
+INFO: Removing Stone from ore dictionary entry pebble
+INFO: Removing Yellorite Seeds from ore dictionary entry listAllseed
+INFO: Removing Wither Skeleton Seeds from ore dictionary entry listAllseed
+INFO: Removing Water Seeds from ore dictionary entry listAllseed
+INFO: Removing Vibrant Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Tin Seeds from ore dictionary entry listAllseed
+INFO: Removing Terrasteel Seeds from ore dictionary entry listAllseed
+INFO: Removing Sulfur Seeds from ore dictionary entry listAllseed
+INFO: Removing Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Spider Seeds from ore dictionary entry listAllseed
+INFO: Removing Soularium Seeds from ore dictionary entry listAllseed
+INFO: Removing Slime Seeds from ore dictionary entry listAllseed
+INFO: Removing Skeleton Seeds from ore dictionary entry listAllseed
+INFO: Removing Silver Seeds from ore dictionary entry listAllseed
+INFO: Removing Signalum Seeds from ore dictionary entry listAllseed
+INFO: Removing Sheep Seeds from ore dictionary entry listAllseed
+INFO: Removing Saltpeter Seeds from ore dictionary entry listAllseed
+INFO: Removing Rubber Seeds from ore dictionary entry listAllseed
+INFO: Removing Redstone Seeds from ore dictionary entry listAllseed
+INFO: Removing Redstone Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Quartz Seeds from ore dictionary entry listAllseed
+INFO: Removing Pulsating Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Platinum Seeds from ore dictionary entry listAllseed
+INFO: Removing Pig Seeds from ore dictionary entry listAllseed
+INFO: Removing Osmium Seeds from ore dictionary entry listAllseed
+INFO: Removing Obsidian Seeds from ore dictionary entry listAllseed
+INFO: Removing Nickel Seeds from ore dictionary entry listAllseed
+INFO: Removing Nether Seeds from ore dictionary entry listAllseed
+INFO: Removing Nature Seeds from ore dictionary entry listAllseed
+INFO: Removing Minicio Seeds from ore dictionary entry listAllseed
+INFO: Removing Manyullyn Seeds from ore dictionary entry listAllseed
+INFO: Removing Manasteel Seeds from ore dictionary entry listAllseed
+INFO: Removing Lumium Seeds from ore dictionary entry listAllseed
+INFO: Removing Lead Seeds from ore dictionary entry listAllseed
+INFO: Removing Lapis Lazuli Seeds from ore dictionary entry listAllseed
+INFO: Removing Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Invar Seeds from ore dictionary entry listAllseed
+INFO: Removing Gold Seeds from ore dictionary entry listAllseed
+INFO: Removing Glowstone Seeds from ore dictionary entry listAllseed
+INFO: Removing Ghast Seeds from ore dictionary entry listAllseed
+INFO: Removing Fluix Seeds from ore dictionary entry listAllseed
+INFO: Removing Fire Seeds from ore dictionary entry listAllseed
+INFO: Removing Experience Seeds from ore dictionary entry listAllseed
+INFO: Removing Energetic Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Enderman Seeds from ore dictionary entry listAllseed
+INFO: Removing Enderium Seeds from ore dictionary entry listAllseed
+INFO: Removing Emerald Seeds from ore dictionary entry listAllseed
+INFO: Removing Electrum Seeds from ore dictionary entry listAllseed
+INFO: Removing Electrical Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Earth Seeds from ore dictionary entry listAllseed
+INFO: Removing Dye Seeds from ore dictionary entry listAllseed
+INFO: Removing Draconium Seeds from ore dictionary entry listAllseed
+INFO: Removing Diamond Seeds from ore dictionary entry listAllseed
+INFO: Removing Dark Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Creeper Seeds from ore dictionary entry listAllseed
+INFO: Removing Cow Seeds from ore dictionary entry listAllseed
+INFO: Removing Copper Seeds from ore dictionary entry listAllseed
+INFO: Removing Conductive Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Cobalt Seeds from ore dictionary entry listAllseed
+INFO: Removing Coal Seeds from ore dictionary entry listAllseed
+INFO: Removing Chicken Seeds from ore dictionary entry listAllseed
+INFO: Removing Certus Quartz Seeds from ore dictionary entry listAllseed
+INFO: Removing Bronze Seeds from ore dictionary entry listAllseed
+INFO: Removing Blizz Seeds from ore dictionary entry listAllseed
+INFO: Removing Blaze Seeds from ore dictionary entry listAllseed
+INFO: Removing Ardite Seeds from ore dictionary entry listAllseed
+INFO: Removing Alumite Seeds from ore dictionary entry listAllseed
+INFO: Removing Aluminium Seeds from ore dictionary entry listAllseed
+INFO: Reverting max stack size of Safari Net (Reusable) to 1
+INFO: Reverting max stack size of Golden Jailer's Safari Net to 1
+INFO: Reverting max stack size of Jailer's Safari Net to 1
+INFO: Reverting max stack size of Safari Net (Single-Use) to 1
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
@@ -483,6 +753,80 @@ INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
+INFO: Setting max stack size of  Safari Net (Single-Use) to 3
+INFO: Setting max stack size of  Jailer's Safari Net to 3
+INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
+INFO: Setting max stack size of  Safari Net (Reusable) to 3
+INFO: Adding Aluminium Seeds to ore dictionary entry listAllseed
+INFO: Adding Alumite Seeds to ore dictionary entry listAllseed
+INFO: Adding Ardite Seeds to ore dictionary entry listAllseed
+INFO: Adding Blaze Seeds to ore dictionary entry listAllseed
+INFO: Adding Blizz Seeds to ore dictionary entry listAllseed
+INFO: Adding Bronze Seeds to ore dictionary entry listAllseed
+INFO: Adding Certus Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Chicken Seeds to ore dictionary entry listAllseed
+INFO: Adding Coal Seeds to ore dictionary entry listAllseed
+INFO: Adding Cobalt Seeds to ore dictionary entry listAllseed
+INFO: Adding Conductive Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Copper Seeds to ore dictionary entry listAllseed
+INFO: Adding Cow Seeds to ore dictionary entry listAllseed
+INFO: Adding Creeper Seeds to ore dictionary entry listAllseed
+INFO: Adding Dark Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Diamond Seeds to ore dictionary entry listAllseed
+INFO: Adding Draconium Seeds to ore dictionary entry listAllseed
+INFO: Adding Dye Seeds to ore dictionary entry listAllseed
+INFO: Adding Earth Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrical Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrum Seeds to ore dictionary entry listAllseed
+INFO: Adding Emerald Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderium Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderman Seeds to ore dictionary entry listAllseed
+INFO: Adding Energetic Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Experience Seeds to ore dictionary entry listAllseed
+INFO: Adding Fire Seeds to ore dictionary entry listAllseed
+INFO: Adding Fluix Seeds to ore dictionary entry listAllseed
+INFO: Adding Ghast Seeds to ore dictionary entry listAllseed
+INFO: Adding Glowstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Gold Seeds to ore dictionary entry listAllseed
+INFO: Adding Invar Seeds to ore dictionary entry listAllseed
+INFO: Adding Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Lapis Lazuli Seeds to ore dictionary entry listAllseed
+INFO: Adding Lead Seeds to ore dictionary entry listAllseed
+INFO: Adding Lumium Seeds to ore dictionary entry listAllseed
+INFO: Adding Manasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Manyullyn Seeds to ore dictionary entry listAllseed
+INFO: Adding Minicio Seeds to ore dictionary entry listAllseed
+INFO: Adding Nature Seeds to ore dictionary entry listAllseed
+INFO: Adding Nether Seeds to ore dictionary entry listAllseed
+INFO: Adding Nickel Seeds to ore dictionary entry listAllseed
+INFO: Adding Obsidian Seeds to ore dictionary entry listAllseed
+INFO: Adding Osmium Seeds to ore dictionary entry listAllseed
+INFO: Adding Pig Seeds to ore dictionary entry listAllseed
+INFO: Adding Platinum Seeds to ore dictionary entry listAllseed
+INFO: Adding Pulsating Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Rubber Seeds to ore dictionary entry listAllseed
+INFO: Adding Saltpeter Seeds to ore dictionary entry listAllseed
+INFO: Adding Sheep Seeds to ore dictionary entry listAllseed
+INFO: Adding Signalum Seeds to ore dictionary entry listAllseed
+INFO: Adding Silver Seeds to ore dictionary entry listAllseed
+INFO: Adding Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Slime Seeds to ore dictionary entry listAllseed
+INFO: Adding Soularium Seeds to ore dictionary entry listAllseed
+INFO: Adding Spider Seeds to ore dictionary entry listAllseed
+INFO: Adding Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Sulfur Seeds to ore dictionary entry listAllseed
+INFO: Adding Terrasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Tin Seeds to ore dictionary entry listAllseed
+INFO: Adding Vibrant Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Water Seeds to ore dictionary entry listAllseed
+INFO: Adding Wither Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Yellorite Seeds to ore dictionary entry listAllseed
+INFO: Adding Stone to ore dictionary entry pebble
+INFO: Adding recipe for Pebble
+INFO: Adding recipe for Stone
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -592,13 +936,73 @@ INFO: Adding recipe for Mystical Brown Flower Seeds
 INFO: Adding recipe for Mystical Green Flower Seeds
 INFO: Adding recipe for Mystical Red Flower Seeds
 INFO: Adding recipe for Mystical Black Flower Seeds
-INFO: Setting max stack size of  Safari Net (Single-Use) to 3
-INFO: Setting max stack size of  Jailer's Safari Net to 3
-INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
-INFO: Setting max stack size of  Safari Net (Reusable) to 3
-INFO: Adding Stone to ore dictionary entry pebble
-INFO: Adding recipe for Pebble
-INFO: Adding recipe for Stone
+INFO: Adding recipe for Aluminium Seeds
+INFO: Adding recipe for Alumite Seeds
+INFO: Adding recipe for Ardite Seeds
+INFO: Adding recipe for Blaze Seeds
+INFO: Adding recipe for Blizz Seeds
+INFO: Adding recipe for Bronze Seeds
+INFO: Adding recipe for Certus Quartz Seeds
+INFO: Adding recipe for Chicken Seeds
+INFO: Adding recipe for Coal Seeds
+INFO: Adding recipe for Cobalt Seeds
+INFO: Adding recipe for Conductive Iron Seeds
+INFO: Adding recipe for Copper Seeds
+INFO: Adding recipe for Cow Seeds
+INFO: Adding recipe for Creeper Seeds
+INFO: Adding recipe for Dark Steel Seeds
+INFO: Adding recipe for Diamond Seeds
+INFO: Adding recipe for Draconium Seeds
+INFO: Adding recipe for Dye Seeds
+INFO: Adding recipe for Earth Seeds
+INFO: Adding recipe for Electrical Steel Seeds
+INFO: Adding recipe for Electrum Seeds
+INFO: Adding recipe for Emerald Seeds
+INFO: Adding recipe for Enderium Seeds
+INFO: Adding recipe for Enderman Seeds
+INFO: Adding recipe for Energetic Alloy Seeds
+INFO: Adding recipe for Experience Seeds
+INFO: Adding recipe for Fire Seeds
+INFO: Adding recipe for Fluix Seeds
+INFO: Adding recipe for Ghast Seeds
+INFO: Adding recipe for Glowstone Seeds
+INFO: Adding recipe for Gold Seeds
+INFO: Adding recipe for Invar Seeds
+INFO: Adding recipe for Iron Seeds
+INFO: Adding recipe for Lapis Lazuli Seeds
+INFO: Adding recipe for Lead Seeds
+INFO: Adding recipe for Lumium Seeds
+INFO: Adding recipe for Manasteel Seeds
+INFO: Adding recipe for Manyullyn Seeds
+INFO: Adding recipe for Minicio Seeds
+INFO: Adding recipe for Nature Seeds
+INFO: Adding recipe for Nether Seeds
+INFO: Adding recipe for Nickel Seeds
+INFO: Adding recipe for Obsidian Seeds
+INFO: Adding recipe for Osmium Seeds
+INFO: Adding recipe for Pig Seeds
+INFO: Adding recipe for Platinum Seeds
+INFO: Adding recipe for Pulsating Iron Seeds
+INFO: Adding recipe for Quartz Seeds
+INFO: Adding recipe for Redstone Alloy Seeds
+INFO: Adding recipe for Redstone Seeds
+INFO: Adding recipe for Rubber Seeds
+INFO: Adding recipe for Saltpeter Seeds
+INFO: Adding recipe for Sheep Seeds
+INFO: Adding recipe for Signalum Seeds
+INFO: Adding recipe for Silver Seeds
+INFO: Adding recipe for Skeleton Seeds
+INFO: Adding recipe for Slime Seeds
+INFO: Adding recipe for Soularium Seeds
+INFO: Adding recipe for Spider Seeds
+INFO: Adding recipe for Steel Seeds
+INFO: Adding recipe for Sulfur Seeds
+INFO: Adding recipe for Terrasteel Seeds
+INFO: Adding recipe for Tin Seeds
+INFO: Adding recipe for Vibrant Alloy Seeds
+INFO: Adding recipe for Water Seeds
+INFO: Adding recipe for Wither Skeleton Seeds
+INFO: Adding recipe for Yellorite Seeds
 INFO: Adding recipe for Compressed Netherrack
 INFO: Adding recipe for Netherrack
 INFO: Adding recipe for Compressed Crushed Netherrack
@@ -684,6 +1088,7 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:mithril.molten> * 64
 INFO: Adding Xtreme Crafting Recipe for Philosopher's Stone
 INFO: Adding Xtreme Crafting Recipe for Swiftwolf's Rending Gale
 INFO: Adding Xtreme Crafting Recipe for Transmutation Table
@@ -880,24 +1285,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3ccf0266
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5fea9542
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1e0c6a7b
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4481a86f
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@31d63503
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3a9df6fe
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@473f1c64
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@eb4163c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@e4a54c4
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5bb579f5
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@645682db
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4a7d6d9b
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@16cdec64
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@66c75599
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@36d753c0
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@17e7e134
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6eb09160
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@32076ab2
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@464c11e5
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1f7955ae
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@e558549
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6371254
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5da71a6a
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@8a6f055
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2a7b43c5
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@14e0416c
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@71716dd0
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4e6a1ff3
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3e7f1890
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2802d512
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@52e7322f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4c6c2a07
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a110082
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3405fe97
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5f18c472
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7209e184
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -1069,14 +1474,14 @@ INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:BowLim
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 2 recipes
@@ -1232,58 +1637,58 @@ INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
 INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
@@ -1414,16 +1819,16 @@ INFO: Removing 1 recipes
 INFO: Removing 2 recipes
 INFO: Removing 0 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 0 recipes
 INFO: Removing 0 recipes
 INFO: Removing 0 recipes
@@ -2146,16 +2551,16 @@ INFO: Restoring 0 recipes
 INFO: Restoring 0 recipes
 INFO: Restoring 0 recipes
 INFO: Restoring 0 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 0 recipes
 INFO: Restoring 2 recipes
@@ -2286,58 +2691,58 @@ INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
@@ -2493,14 +2898,14 @@ INFO: Restoring 1 recipes
 INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
@@ -2672,24 +3077,24 @@ INFO: Re-Adding Metal Press Recipes for Electrum Gear
 INFO: Removing Refinery Recipe for Gasoline
 INFO: Removing Refinery Recipe for Tectonic Petrotheum
 INFO: Removing furnace recipe for <ExtraUtilities:cobblestone_compressed>
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@32076ab2
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6eb09160
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@17e7e134
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@36d753c0
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@66c75599
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@16cdec64
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4a7d6d9b
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@645682db
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5bb579f5
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@e4a54c4
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@eb4163c
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@473f1c64
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3a9df6fe
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@31d63503
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4481a86f
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1e0c6a7b
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5fea9542
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3ccf0266
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7209e184
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5f18c472
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3405fe97
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a110082
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4c6c2a07
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@52e7322f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2802d512
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@3e7f1890
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4e6a1ff3
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@71716dd0
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@14e0416c
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2a7b43c5
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@8a6f055
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5da71a6a
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6371254
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@e558549
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1f7955ae
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@464c11e5
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
@@ -2884,6 +3289,7 @@ INFO: Un-adding Xtreme Crafting Recipe for Transmutation Tablet
 INFO: Un-adding Xtreme Crafting Recipe for Transmutation Table
 INFO: Un-adding Xtreme Crafting Recipe for Swiftwolf's Rending Gale
 INFO: Un-adding Xtreme Crafting Recipe for Philosopher's Stone
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:mithril.molten> * 64
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
@@ -2969,13 +3375,73 @@ INFO: Removing recipe for Crushed Netherrack
 INFO: Removing recipe for Compressed Crushed Netherrack
 INFO: Removing recipe for Netherrack
 INFO: Removing recipe for Compressed Netherrack
-INFO: Removing recipe for Stone
-INFO: Removing recipe for Pebble
-INFO: Removing Stone from ore dictionary entry pebble
-INFO: Reverting max stack size of Safari Net (Reusable) to 1
-INFO: Reverting max stack size of Golden Jailer's Safari Net to 1
-INFO: Reverting max stack size of Jailer's Safari Net to 1
-INFO: Reverting max stack size of Safari Net (Single-Use) to 1
+INFO: Removing recipe for Yellorite Seeds
+INFO: Removing recipe for Wither Skeleton Seeds
+INFO: Removing recipe for Water Seeds
+INFO: Removing recipe for Vibrant Alloy Seeds
+INFO: Removing recipe for Tin Seeds
+INFO: Removing recipe for Terrasteel Seeds
+INFO: Removing recipe for Sulfur Seeds
+INFO: Removing recipe for Steel Seeds
+INFO: Removing recipe for Spider Seeds
+INFO: Removing recipe for Soularium Seeds
+INFO: Removing recipe for Slime Seeds
+INFO: Removing recipe for Skeleton Seeds
+INFO: Removing recipe for Silver Seeds
+INFO: Removing recipe for Signalum Seeds
+INFO: Removing recipe for Sheep Seeds
+INFO: Removing recipe for Saltpeter Seeds
+INFO: Removing recipe for Rubber Seeds
+INFO: Removing recipe for Redstone Seeds
+INFO: Removing recipe for Redstone Alloy Seeds
+INFO: Removing recipe for Quartz Seeds
+INFO: Removing recipe for Pulsating Iron Seeds
+INFO: Removing recipe for Platinum Seeds
+INFO: Removing recipe for Pig Seeds
+INFO: Removing recipe for Osmium Seeds
+INFO: Removing recipe for Obsidian Seeds
+INFO: Removing recipe for Nickel Seeds
+INFO: Removing recipe for Nether Seeds
+INFO: Removing recipe for Nature Seeds
+INFO: Removing recipe for Minicio Seeds
+INFO: Removing recipe for Manyullyn Seeds
+INFO: Removing recipe for Manasteel Seeds
+INFO: Removing recipe for Lumium Seeds
+INFO: Removing recipe for Lead Seeds
+INFO: Removing recipe for Lapis Lazuli Seeds
+INFO: Removing recipe for Iron Seeds
+INFO: Removing recipe for Invar Seeds
+INFO: Removing recipe for Gold Seeds
+INFO: Removing recipe for Glowstone Seeds
+INFO: Removing recipe for Ghast Seeds
+INFO: Removing recipe for Fluix Seeds
+INFO: Removing recipe for Fire Seeds
+INFO: Removing recipe for Experience Seeds
+INFO: Removing recipe for Energetic Alloy Seeds
+INFO: Removing recipe for Enderman Seeds
+INFO: Removing recipe for Enderium Seeds
+INFO: Removing recipe for Emerald Seeds
+INFO: Removing recipe for Electrum Seeds
+INFO: Removing recipe for Electrical Steel Seeds
+INFO: Removing recipe for Earth Seeds
+INFO: Removing recipe for Dye Seeds
+INFO: Removing recipe for Draconium Seeds
+INFO: Removing recipe for Diamond Seeds
+INFO: Removing recipe for Dark Steel Seeds
+INFO: Removing recipe for Creeper Seeds
+INFO: Removing recipe for Cow Seeds
+INFO: Removing recipe for Copper Seeds
+INFO: Removing recipe for Conductive Iron Seeds
+INFO: Removing recipe for Cobalt Seeds
+INFO: Removing recipe for Coal Seeds
+INFO: Removing recipe for Chicken Seeds
+INFO: Removing recipe for Certus Quartz Seeds
+INFO: Removing recipe for Bronze Seeds
+INFO: Removing recipe for Blizz Seeds
+INFO: Removing recipe for Blaze Seeds
+INFO: Removing recipe for Ardite Seeds
+INFO: Removing recipe for Alumite Seeds
+INFO: Removing recipe for Aluminium Seeds
 INFO: Removing recipe for Mystical Black Flower Seeds
 INFO: Removing recipe for Mystical Red Flower Seeds
 INFO: Removing recipe for Mystical Green Flower Seeds
@@ -3085,6 +3551,80 @@ INFO: Removing recipe for Dandelion Seeds
 INFO: Removing recipe for Sugarcane Seeds
 INFO: Removing recipe for Carrot Seeds
 INFO: Removing recipe for Potato Seeds
+INFO: Removing recipe for Stone
+INFO: Removing recipe for Pebble
+INFO: Removing Stone from ore dictionary entry pebble
+INFO: Removing Yellorite Seeds from ore dictionary entry listAllseed
+INFO: Removing Wither Skeleton Seeds from ore dictionary entry listAllseed
+INFO: Removing Water Seeds from ore dictionary entry listAllseed
+INFO: Removing Vibrant Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Tin Seeds from ore dictionary entry listAllseed
+INFO: Removing Terrasteel Seeds from ore dictionary entry listAllseed
+INFO: Removing Sulfur Seeds from ore dictionary entry listAllseed
+INFO: Removing Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Spider Seeds from ore dictionary entry listAllseed
+INFO: Removing Soularium Seeds from ore dictionary entry listAllseed
+INFO: Removing Slime Seeds from ore dictionary entry listAllseed
+INFO: Removing Skeleton Seeds from ore dictionary entry listAllseed
+INFO: Removing Silver Seeds from ore dictionary entry listAllseed
+INFO: Removing Signalum Seeds from ore dictionary entry listAllseed
+INFO: Removing Sheep Seeds from ore dictionary entry listAllseed
+INFO: Removing Saltpeter Seeds from ore dictionary entry listAllseed
+INFO: Removing Rubber Seeds from ore dictionary entry listAllseed
+INFO: Removing Redstone Seeds from ore dictionary entry listAllseed
+INFO: Removing Redstone Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Quartz Seeds from ore dictionary entry listAllseed
+INFO: Removing Pulsating Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Platinum Seeds from ore dictionary entry listAllseed
+INFO: Removing Pig Seeds from ore dictionary entry listAllseed
+INFO: Removing Osmium Seeds from ore dictionary entry listAllseed
+INFO: Removing Obsidian Seeds from ore dictionary entry listAllseed
+INFO: Removing Nickel Seeds from ore dictionary entry listAllseed
+INFO: Removing Nether Seeds from ore dictionary entry listAllseed
+INFO: Removing Nature Seeds from ore dictionary entry listAllseed
+INFO: Removing Minicio Seeds from ore dictionary entry listAllseed
+INFO: Removing Manyullyn Seeds from ore dictionary entry listAllseed
+INFO: Removing Manasteel Seeds from ore dictionary entry listAllseed
+INFO: Removing Lumium Seeds from ore dictionary entry listAllseed
+INFO: Removing Lead Seeds from ore dictionary entry listAllseed
+INFO: Removing Lapis Lazuli Seeds from ore dictionary entry listAllseed
+INFO: Removing Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Invar Seeds from ore dictionary entry listAllseed
+INFO: Removing Gold Seeds from ore dictionary entry listAllseed
+INFO: Removing Glowstone Seeds from ore dictionary entry listAllseed
+INFO: Removing Ghast Seeds from ore dictionary entry listAllseed
+INFO: Removing Fluix Seeds from ore dictionary entry listAllseed
+INFO: Removing Fire Seeds from ore dictionary entry listAllseed
+INFO: Removing Experience Seeds from ore dictionary entry listAllseed
+INFO: Removing Energetic Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Enderman Seeds from ore dictionary entry listAllseed
+INFO: Removing Enderium Seeds from ore dictionary entry listAllseed
+INFO: Removing Emerald Seeds from ore dictionary entry listAllseed
+INFO: Removing Electrum Seeds from ore dictionary entry listAllseed
+INFO: Removing Electrical Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Earth Seeds from ore dictionary entry listAllseed
+INFO: Removing Dye Seeds from ore dictionary entry listAllseed
+INFO: Removing Draconium Seeds from ore dictionary entry listAllseed
+INFO: Removing Diamond Seeds from ore dictionary entry listAllseed
+INFO: Removing Dark Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Creeper Seeds from ore dictionary entry listAllseed
+INFO: Removing Cow Seeds from ore dictionary entry listAllseed
+INFO: Removing Copper Seeds from ore dictionary entry listAllseed
+INFO: Removing Conductive Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Cobalt Seeds from ore dictionary entry listAllseed
+INFO: Removing Coal Seeds from ore dictionary entry listAllseed
+INFO: Removing Chicken Seeds from ore dictionary entry listAllseed
+INFO: Removing Certus Quartz Seeds from ore dictionary entry listAllseed
+INFO: Removing Bronze Seeds from ore dictionary entry listAllseed
+INFO: Removing Blizz Seeds from ore dictionary entry listAllseed
+INFO: Removing Blaze Seeds from ore dictionary entry listAllseed
+INFO: Removing Ardite Seeds from ore dictionary entry listAllseed
+INFO: Removing Alumite Seeds from ore dictionary entry listAllseed
+INFO: Removing Aluminium Seeds from ore dictionary entry listAllseed
+INFO: Reverting max stack size of Safari Net (Reusable) to 1
+INFO: Reverting max stack size of Golden Jailer's Safari Net to 1
+INFO: Reverting max stack size of Jailer's Safari Net to 1
+INFO: Reverting max stack size of Safari Net (Single-Use) to 1
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
@@ -3137,6 +3677,80 @@ INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
+INFO: Setting max stack size of  Safari Net (Single-Use) to 3
+INFO: Setting max stack size of  Jailer's Safari Net to 3
+INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
+INFO: Setting max stack size of  Safari Net (Reusable) to 3
+INFO: Adding Aluminium Seeds to ore dictionary entry listAllseed
+INFO: Adding Alumite Seeds to ore dictionary entry listAllseed
+INFO: Adding Ardite Seeds to ore dictionary entry listAllseed
+INFO: Adding Blaze Seeds to ore dictionary entry listAllseed
+INFO: Adding Blizz Seeds to ore dictionary entry listAllseed
+INFO: Adding Bronze Seeds to ore dictionary entry listAllseed
+INFO: Adding Certus Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Chicken Seeds to ore dictionary entry listAllseed
+INFO: Adding Coal Seeds to ore dictionary entry listAllseed
+INFO: Adding Cobalt Seeds to ore dictionary entry listAllseed
+INFO: Adding Conductive Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Copper Seeds to ore dictionary entry listAllseed
+INFO: Adding Cow Seeds to ore dictionary entry listAllseed
+INFO: Adding Creeper Seeds to ore dictionary entry listAllseed
+INFO: Adding Dark Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Diamond Seeds to ore dictionary entry listAllseed
+INFO: Adding Draconium Seeds to ore dictionary entry listAllseed
+INFO: Adding Dye Seeds to ore dictionary entry listAllseed
+INFO: Adding Earth Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrical Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrum Seeds to ore dictionary entry listAllseed
+INFO: Adding Emerald Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderium Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderman Seeds to ore dictionary entry listAllseed
+INFO: Adding Energetic Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Experience Seeds to ore dictionary entry listAllseed
+INFO: Adding Fire Seeds to ore dictionary entry listAllseed
+INFO: Adding Fluix Seeds to ore dictionary entry listAllseed
+INFO: Adding Ghast Seeds to ore dictionary entry listAllseed
+INFO: Adding Glowstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Gold Seeds to ore dictionary entry listAllseed
+INFO: Adding Invar Seeds to ore dictionary entry listAllseed
+INFO: Adding Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Lapis Lazuli Seeds to ore dictionary entry listAllseed
+INFO: Adding Lead Seeds to ore dictionary entry listAllseed
+INFO: Adding Lumium Seeds to ore dictionary entry listAllseed
+INFO: Adding Manasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Manyullyn Seeds to ore dictionary entry listAllseed
+INFO: Adding Minicio Seeds to ore dictionary entry listAllseed
+INFO: Adding Nature Seeds to ore dictionary entry listAllseed
+INFO: Adding Nether Seeds to ore dictionary entry listAllseed
+INFO: Adding Nickel Seeds to ore dictionary entry listAllseed
+INFO: Adding Obsidian Seeds to ore dictionary entry listAllseed
+INFO: Adding Osmium Seeds to ore dictionary entry listAllseed
+INFO: Adding Pig Seeds to ore dictionary entry listAllseed
+INFO: Adding Platinum Seeds to ore dictionary entry listAllseed
+INFO: Adding Pulsating Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Rubber Seeds to ore dictionary entry listAllseed
+INFO: Adding Saltpeter Seeds to ore dictionary entry listAllseed
+INFO: Adding Sheep Seeds to ore dictionary entry listAllseed
+INFO: Adding Signalum Seeds to ore dictionary entry listAllseed
+INFO: Adding Silver Seeds to ore dictionary entry listAllseed
+INFO: Adding Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Slime Seeds to ore dictionary entry listAllseed
+INFO: Adding Soularium Seeds to ore dictionary entry listAllseed
+INFO: Adding Spider Seeds to ore dictionary entry listAllseed
+INFO: Adding Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Sulfur Seeds to ore dictionary entry listAllseed
+INFO: Adding Terrasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Tin Seeds to ore dictionary entry listAllseed
+INFO: Adding Vibrant Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Water Seeds to ore dictionary entry listAllseed
+INFO: Adding Wither Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Yellorite Seeds to ore dictionary entry listAllseed
+INFO: Adding Stone to ore dictionary entry pebble
+INFO: Adding recipe for Pebble
+INFO: Adding recipe for Stone
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -3246,13 +3860,73 @@ INFO: Adding recipe for Mystical Brown Flower Seeds
 INFO: Adding recipe for Mystical Green Flower Seeds
 INFO: Adding recipe for Mystical Red Flower Seeds
 INFO: Adding recipe for Mystical Black Flower Seeds
-INFO: Setting max stack size of  Safari Net (Single-Use) to 3
-INFO: Setting max stack size of  Jailer's Safari Net to 3
-INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
-INFO: Setting max stack size of  Safari Net (Reusable) to 3
-INFO: Adding Stone to ore dictionary entry pebble
-INFO: Adding recipe for Pebble
-INFO: Adding recipe for Stone
+INFO: Adding recipe for Aluminium Seeds
+INFO: Adding recipe for Alumite Seeds
+INFO: Adding recipe for Ardite Seeds
+INFO: Adding recipe for Blaze Seeds
+INFO: Adding recipe for Blizz Seeds
+INFO: Adding recipe for Bronze Seeds
+INFO: Adding recipe for Certus Quartz Seeds
+INFO: Adding recipe for Chicken Seeds
+INFO: Adding recipe for Coal Seeds
+INFO: Adding recipe for Cobalt Seeds
+INFO: Adding recipe for Conductive Iron Seeds
+INFO: Adding recipe for Copper Seeds
+INFO: Adding recipe for Cow Seeds
+INFO: Adding recipe for Creeper Seeds
+INFO: Adding recipe for Dark Steel Seeds
+INFO: Adding recipe for Diamond Seeds
+INFO: Adding recipe for Draconium Seeds
+INFO: Adding recipe for Dye Seeds
+INFO: Adding recipe for Earth Seeds
+INFO: Adding recipe for Electrical Steel Seeds
+INFO: Adding recipe for Electrum Seeds
+INFO: Adding recipe for Emerald Seeds
+INFO: Adding recipe for Enderium Seeds
+INFO: Adding recipe for Enderman Seeds
+INFO: Adding recipe for Energetic Alloy Seeds
+INFO: Adding recipe for Experience Seeds
+INFO: Adding recipe for Fire Seeds
+INFO: Adding recipe for Fluix Seeds
+INFO: Adding recipe for Ghast Seeds
+INFO: Adding recipe for Glowstone Seeds
+INFO: Adding recipe for Gold Seeds
+INFO: Adding recipe for Invar Seeds
+INFO: Adding recipe for Iron Seeds
+INFO: Adding recipe for Lapis Lazuli Seeds
+INFO: Adding recipe for Lead Seeds
+INFO: Adding recipe for Lumium Seeds
+INFO: Adding recipe for Manasteel Seeds
+INFO: Adding recipe for Manyullyn Seeds
+INFO: Adding recipe for Minicio Seeds
+INFO: Adding recipe for Nature Seeds
+INFO: Adding recipe for Nether Seeds
+INFO: Adding recipe for Nickel Seeds
+INFO: Adding recipe for Obsidian Seeds
+INFO: Adding recipe for Osmium Seeds
+INFO: Adding recipe for Pig Seeds
+INFO: Adding recipe for Platinum Seeds
+INFO: Adding recipe for Pulsating Iron Seeds
+INFO: Adding recipe for Quartz Seeds
+INFO: Adding recipe for Redstone Alloy Seeds
+INFO: Adding recipe for Redstone Seeds
+INFO: Adding recipe for Rubber Seeds
+INFO: Adding recipe for Saltpeter Seeds
+INFO: Adding recipe for Sheep Seeds
+INFO: Adding recipe for Signalum Seeds
+INFO: Adding recipe for Silver Seeds
+INFO: Adding recipe for Skeleton Seeds
+INFO: Adding recipe for Slime Seeds
+INFO: Adding recipe for Soularium Seeds
+INFO: Adding recipe for Spider Seeds
+INFO: Adding recipe for Steel Seeds
+INFO: Adding recipe for Sulfur Seeds
+INFO: Adding recipe for Terrasteel Seeds
+INFO: Adding recipe for Tin Seeds
+INFO: Adding recipe for Vibrant Alloy Seeds
+INFO: Adding recipe for Water Seeds
+INFO: Adding recipe for Wither Skeleton Seeds
+INFO: Adding recipe for Yellorite Seeds
 INFO: Adding recipe for Compressed Netherrack
 INFO: Adding recipe for Netherrack
 INFO: Adding recipe for Compressed Crushed Netherrack
@@ -3338,6 +4012,7 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:mithril.molten> * 64
 INFO: Adding Xtreme Crafting Recipe for Philosopher's Stone
 INFO: Adding Xtreme Crafting Recipe for Swiftwolf's Rending Gale
 INFO: Adding Xtreme Crafting Recipe for Transmutation Table
@@ -3534,24 +4209,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@534bff17
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6bf25291
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6140944d
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@9edf270
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5d2171d
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7c4dabec
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@19caaad4
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7f52b5ef
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6aad2fe7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7b2eeb95
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@377e722e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5d6954e3
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e389abe
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5246b0af
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@16ed47cb
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@134d7b9
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1bc3404b
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7ce75854
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@190c7576
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@408fc031
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@65372487
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@628334be
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@18de5a5d
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@266e8f3f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7a219469
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@17c6957
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6b1ac797
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@39dfbabc
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4fabe332
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2dff1d41
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10e45116
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@542a13ec
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4408d828
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1148c0fd
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@23965f23
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27279dce
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -3723,14 +4398,14 @@ INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:BowLim
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 2 recipes
@@ -3886,58 +4561,58 @@ INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
 INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
@@ -4068,16 +4743,16 @@ INFO: Removing 1 recipes
 INFO: Removing 2 recipes
 INFO: Removing 0 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 0 recipes
 INFO: Removing 0 recipes
 INFO: Removing 0 recipes
@@ -4764,16 +5439,16 @@ INFO: Restoring 0 recipes
 INFO: Restoring 0 recipes
 INFO: Restoring 0 recipes
 INFO: Restoring 0 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 0 recipes
 INFO: Restoring 2 recipes
@@ -4904,58 +5579,58 @@ INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
@@ -5111,14 +5786,14 @@ INFO: Restoring 1 recipes
 INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
-INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
+INFO: Restoring 2 recipes
 INFO: Restoring 1 recipes
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
@@ -5290,24 +5965,24 @@ INFO: Re-Adding Metal Press Recipes for Electrum Gear
 INFO: Removing Refinery Recipe for Gasoline
 INFO: Removing Refinery Recipe for Tectonic Petrotheum
 INFO: Removing furnace recipe for <ExtraUtilities:cobblestone_compressed>
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7ce75854
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1bc3404b
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@134d7b9
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@16ed47cb
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5246b0af
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5e389abe
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5d6954e3
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@377e722e
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7b2eeb95
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6aad2fe7
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7f52b5ef
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@19caaad4
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7c4dabec
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5d2171d
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@9edf270
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6140944d
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6bf25291
-INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@534bff17
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27279dce
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@23965f23
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1148c0fd
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4408d828
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@542a13ec
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10e45116
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2dff1d41
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4fabe332
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@39dfbabc
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6b1ac797
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@17c6957
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7a219469
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@266e8f3f
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@18de5a5d
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@628334be
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@65372487
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@408fc031
+INFO: [ModTweaker2] Removing 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@190c7576
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Removing 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
@@ -5502,6 +6177,7 @@ INFO: Un-adding Xtreme Crafting Recipe for Transmutation Tablet
 INFO: Un-adding Xtreme Crafting Recipe for Transmutation Table
 INFO: Un-adding Xtreme Crafting Recipe for Swiftwolf's Rending Gale
 INFO: Un-adding Xtreme Crafting Recipe for Philosopher's Stone
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:mithril.molten> * 64
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Removing 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
@@ -5587,13 +6263,73 @@ INFO: Removing recipe for Crushed Netherrack
 INFO: Removing recipe for Compressed Crushed Netherrack
 INFO: Removing recipe for Netherrack
 INFO: Removing recipe for Compressed Netherrack
-INFO: Removing recipe for Stone
-INFO: Removing recipe for Pebble
-INFO: Removing Stone from ore dictionary entry pebble
-INFO: Reverting max stack size of Safari Net (Reusable) to 1
-INFO: Reverting max stack size of Golden Jailer's Safari Net to 1
-INFO: Reverting max stack size of Jailer's Safari Net to 1
-INFO: Reverting max stack size of Safari Net (Single-Use) to 1
+INFO: Removing recipe for Yellorite Seeds
+INFO: Removing recipe for Wither Skeleton Seeds
+INFO: Removing recipe for Water Seeds
+INFO: Removing recipe for Vibrant Alloy Seeds
+INFO: Removing recipe for Tin Seeds
+INFO: Removing recipe for Terrasteel Seeds
+INFO: Removing recipe for Sulfur Seeds
+INFO: Removing recipe for Steel Seeds
+INFO: Removing recipe for Spider Seeds
+INFO: Removing recipe for Soularium Seeds
+INFO: Removing recipe for Slime Seeds
+INFO: Removing recipe for Skeleton Seeds
+INFO: Removing recipe for Silver Seeds
+INFO: Removing recipe for Signalum Seeds
+INFO: Removing recipe for Sheep Seeds
+INFO: Removing recipe for Saltpeter Seeds
+INFO: Removing recipe for Rubber Seeds
+INFO: Removing recipe for Redstone Seeds
+INFO: Removing recipe for Redstone Alloy Seeds
+INFO: Removing recipe for Quartz Seeds
+INFO: Removing recipe for Pulsating Iron Seeds
+INFO: Removing recipe for Platinum Seeds
+INFO: Removing recipe for Pig Seeds
+INFO: Removing recipe for Osmium Seeds
+INFO: Removing recipe for Obsidian Seeds
+INFO: Removing recipe for Nickel Seeds
+INFO: Removing recipe for Nether Seeds
+INFO: Removing recipe for Nature Seeds
+INFO: Removing recipe for Minicio Seeds
+INFO: Removing recipe for Manyullyn Seeds
+INFO: Removing recipe for Manasteel Seeds
+INFO: Removing recipe for Lumium Seeds
+INFO: Removing recipe for Lead Seeds
+INFO: Removing recipe for Lapis Lazuli Seeds
+INFO: Removing recipe for Iron Seeds
+INFO: Removing recipe for Invar Seeds
+INFO: Removing recipe for Gold Seeds
+INFO: Removing recipe for Glowstone Seeds
+INFO: Removing recipe for Ghast Seeds
+INFO: Removing recipe for Fluix Seeds
+INFO: Removing recipe for Fire Seeds
+INFO: Removing recipe for Experience Seeds
+INFO: Removing recipe for Energetic Alloy Seeds
+INFO: Removing recipe for Enderman Seeds
+INFO: Removing recipe for Enderium Seeds
+INFO: Removing recipe for Emerald Seeds
+INFO: Removing recipe for Electrum Seeds
+INFO: Removing recipe for Electrical Steel Seeds
+INFO: Removing recipe for Earth Seeds
+INFO: Removing recipe for Dye Seeds
+INFO: Removing recipe for Draconium Seeds
+INFO: Removing recipe for Diamond Seeds
+INFO: Removing recipe for Dark Steel Seeds
+INFO: Removing recipe for Creeper Seeds
+INFO: Removing recipe for Cow Seeds
+INFO: Removing recipe for Copper Seeds
+INFO: Removing recipe for Conductive Iron Seeds
+INFO: Removing recipe for Cobalt Seeds
+INFO: Removing recipe for Coal Seeds
+INFO: Removing recipe for Chicken Seeds
+INFO: Removing recipe for Certus Quartz Seeds
+INFO: Removing recipe for Bronze Seeds
+INFO: Removing recipe for Blizz Seeds
+INFO: Removing recipe for Blaze Seeds
+INFO: Removing recipe for Ardite Seeds
+INFO: Removing recipe for Alumite Seeds
+INFO: Removing recipe for Aluminium Seeds
 INFO: Removing recipe for Mystical Black Flower Seeds
 INFO: Removing recipe for Mystical Red Flower Seeds
 INFO: Removing recipe for Mystical Green Flower Seeds
@@ -5703,6 +6439,80 @@ INFO: Removing recipe for Dandelion Seeds
 INFO: Removing recipe for Sugarcane Seeds
 INFO: Removing recipe for Carrot Seeds
 INFO: Removing recipe for Potato Seeds
+INFO: Removing recipe for Stone
+INFO: Removing recipe for Pebble
+INFO: Removing Stone from ore dictionary entry pebble
+INFO: Removing Yellorite Seeds from ore dictionary entry listAllseed
+INFO: Removing Wither Skeleton Seeds from ore dictionary entry listAllseed
+INFO: Removing Water Seeds from ore dictionary entry listAllseed
+INFO: Removing Vibrant Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Tin Seeds from ore dictionary entry listAllseed
+INFO: Removing Terrasteel Seeds from ore dictionary entry listAllseed
+INFO: Removing Sulfur Seeds from ore dictionary entry listAllseed
+INFO: Removing Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Spider Seeds from ore dictionary entry listAllseed
+INFO: Removing Soularium Seeds from ore dictionary entry listAllseed
+INFO: Removing Slime Seeds from ore dictionary entry listAllseed
+INFO: Removing Skeleton Seeds from ore dictionary entry listAllseed
+INFO: Removing Silver Seeds from ore dictionary entry listAllseed
+INFO: Removing Signalum Seeds from ore dictionary entry listAllseed
+INFO: Removing Sheep Seeds from ore dictionary entry listAllseed
+INFO: Removing Saltpeter Seeds from ore dictionary entry listAllseed
+INFO: Removing Rubber Seeds from ore dictionary entry listAllseed
+INFO: Removing Redstone Seeds from ore dictionary entry listAllseed
+INFO: Removing Redstone Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Quartz Seeds from ore dictionary entry listAllseed
+INFO: Removing Pulsating Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Platinum Seeds from ore dictionary entry listAllseed
+INFO: Removing Pig Seeds from ore dictionary entry listAllseed
+INFO: Removing Osmium Seeds from ore dictionary entry listAllseed
+INFO: Removing Obsidian Seeds from ore dictionary entry listAllseed
+INFO: Removing Nickel Seeds from ore dictionary entry listAllseed
+INFO: Removing Nether Seeds from ore dictionary entry listAllseed
+INFO: Removing Nature Seeds from ore dictionary entry listAllseed
+INFO: Removing Minicio Seeds from ore dictionary entry listAllseed
+INFO: Removing Manyullyn Seeds from ore dictionary entry listAllseed
+INFO: Removing Manasteel Seeds from ore dictionary entry listAllseed
+INFO: Removing Lumium Seeds from ore dictionary entry listAllseed
+INFO: Removing Lead Seeds from ore dictionary entry listAllseed
+INFO: Removing Lapis Lazuli Seeds from ore dictionary entry listAllseed
+INFO: Removing Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Invar Seeds from ore dictionary entry listAllseed
+INFO: Removing Gold Seeds from ore dictionary entry listAllseed
+INFO: Removing Glowstone Seeds from ore dictionary entry listAllseed
+INFO: Removing Ghast Seeds from ore dictionary entry listAllseed
+INFO: Removing Fluix Seeds from ore dictionary entry listAllseed
+INFO: Removing Fire Seeds from ore dictionary entry listAllseed
+INFO: Removing Experience Seeds from ore dictionary entry listAllseed
+INFO: Removing Energetic Alloy Seeds from ore dictionary entry listAllseed
+INFO: Removing Enderman Seeds from ore dictionary entry listAllseed
+INFO: Removing Enderium Seeds from ore dictionary entry listAllseed
+INFO: Removing Emerald Seeds from ore dictionary entry listAllseed
+INFO: Removing Electrum Seeds from ore dictionary entry listAllseed
+INFO: Removing Electrical Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Earth Seeds from ore dictionary entry listAllseed
+INFO: Removing Dye Seeds from ore dictionary entry listAllseed
+INFO: Removing Draconium Seeds from ore dictionary entry listAllseed
+INFO: Removing Diamond Seeds from ore dictionary entry listAllseed
+INFO: Removing Dark Steel Seeds from ore dictionary entry listAllseed
+INFO: Removing Creeper Seeds from ore dictionary entry listAllseed
+INFO: Removing Cow Seeds from ore dictionary entry listAllseed
+INFO: Removing Copper Seeds from ore dictionary entry listAllseed
+INFO: Removing Conductive Iron Seeds from ore dictionary entry listAllseed
+INFO: Removing Cobalt Seeds from ore dictionary entry listAllseed
+INFO: Removing Coal Seeds from ore dictionary entry listAllseed
+INFO: Removing Chicken Seeds from ore dictionary entry listAllseed
+INFO: Removing Certus Quartz Seeds from ore dictionary entry listAllseed
+INFO: Removing Bronze Seeds from ore dictionary entry listAllseed
+INFO: Removing Blizz Seeds from ore dictionary entry listAllseed
+INFO: Removing Blaze Seeds from ore dictionary entry listAllseed
+INFO: Removing Ardite Seeds from ore dictionary entry listAllseed
+INFO: Removing Alumite Seeds from ore dictionary entry listAllseed
+INFO: Removing Aluminium Seeds from ore dictionary entry listAllseed
+INFO: Reverting max stack size of Safari Net (Reusable) to 1
+INFO: Reverting max stack size of Golden Jailer's Safari Net to 1
+INFO: Reverting max stack size of Jailer's Safari Net to 1
+INFO: Reverting max stack size of Safari Net (Single-Use) to 1
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
@@ -5755,6 +6565,80 @@ INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:132>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:134>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ThermalFoundation:material:139>
+INFO: Setting max stack size of  Safari Net (Single-Use) to 3
+INFO: Setting max stack size of  Jailer's Safari Net to 3
+INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
+INFO: Setting max stack size of  Safari Net (Reusable) to 3
+INFO: Adding Aluminium Seeds to ore dictionary entry listAllseed
+INFO: Adding Alumite Seeds to ore dictionary entry listAllseed
+INFO: Adding Ardite Seeds to ore dictionary entry listAllseed
+INFO: Adding Blaze Seeds to ore dictionary entry listAllseed
+INFO: Adding Blizz Seeds to ore dictionary entry listAllseed
+INFO: Adding Bronze Seeds to ore dictionary entry listAllseed
+INFO: Adding Certus Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Chicken Seeds to ore dictionary entry listAllseed
+INFO: Adding Coal Seeds to ore dictionary entry listAllseed
+INFO: Adding Cobalt Seeds to ore dictionary entry listAllseed
+INFO: Adding Conductive Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Copper Seeds to ore dictionary entry listAllseed
+INFO: Adding Cow Seeds to ore dictionary entry listAllseed
+INFO: Adding Creeper Seeds to ore dictionary entry listAllseed
+INFO: Adding Dark Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Diamond Seeds to ore dictionary entry listAllseed
+INFO: Adding Draconium Seeds to ore dictionary entry listAllseed
+INFO: Adding Dye Seeds to ore dictionary entry listAllseed
+INFO: Adding Earth Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrical Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Electrum Seeds to ore dictionary entry listAllseed
+INFO: Adding Emerald Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderium Seeds to ore dictionary entry listAllseed
+INFO: Adding Enderman Seeds to ore dictionary entry listAllseed
+INFO: Adding Energetic Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Experience Seeds to ore dictionary entry listAllseed
+INFO: Adding Fire Seeds to ore dictionary entry listAllseed
+INFO: Adding Fluix Seeds to ore dictionary entry listAllseed
+INFO: Adding Ghast Seeds to ore dictionary entry listAllseed
+INFO: Adding Glowstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Gold Seeds to ore dictionary entry listAllseed
+INFO: Adding Invar Seeds to ore dictionary entry listAllseed
+INFO: Adding Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Lapis Lazuli Seeds to ore dictionary entry listAllseed
+INFO: Adding Lead Seeds to ore dictionary entry listAllseed
+INFO: Adding Lumium Seeds to ore dictionary entry listAllseed
+INFO: Adding Manasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Manyullyn Seeds to ore dictionary entry listAllseed
+INFO: Adding Minicio Seeds to ore dictionary entry listAllseed
+INFO: Adding Nature Seeds to ore dictionary entry listAllseed
+INFO: Adding Nether Seeds to ore dictionary entry listAllseed
+INFO: Adding Nickel Seeds to ore dictionary entry listAllseed
+INFO: Adding Obsidian Seeds to ore dictionary entry listAllseed
+INFO: Adding Osmium Seeds to ore dictionary entry listAllseed
+INFO: Adding Pig Seeds to ore dictionary entry listAllseed
+INFO: Adding Platinum Seeds to ore dictionary entry listAllseed
+INFO: Adding Pulsating Iron Seeds to ore dictionary entry listAllseed
+INFO: Adding Quartz Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Redstone Seeds to ore dictionary entry listAllseed
+INFO: Adding Rubber Seeds to ore dictionary entry listAllseed
+INFO: Adding Saltpeter Seeds to ore dictionary entry listAllseed
+INFO: Adding Sheep Seeds to ore dictionary entry listAllseed
+INFO: Adding Signalum Seeds to ore dictionary entry listAllseed
+INFO: Adding Silver Seeds to ore dictionary entry listAllseed
+INFO: Adding Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Slime Seeds to ore dictionary entry listAllseed
+INFO: Adding Soularium Seeds to ore dictionary entry listAllseed
+INFO: Adding Spider Seeds to ore dictionary entry listAllseed
+INFO: Adding Steel Seeds to ore dictionary entry listAllseed
+INFO: Adding Sulfur Seeds to ore dictionary entry listAllseed
+INFO: Adding Terrasteel Seeds to ore dictionary entry listAllseed
+INFO: Adding Tin Seeds to ore dictionary entry listAllseed
+INFO: Adding Vibrant Alloy Seeds to ore dictionary entry listAllseed
+INFO: Adding Water Seeds to ore dictionary entry listAllseed
+INFO: Adding Wither Skeleton Seeds to ore dictionary entry listAllseed
+INFO: Adding Yellorite Seeds to ore dictionary entry listAllseed
+INFO: Adding Stone to ore dictionary entry pebble
+INFO: Adding recipe for Pebble
+INFO: Adding recipe for Stone
 INFO: Adding recipe for Potato Seeds
 INFO: Adding recipe for Carrot Seeds
 INFO: Adding recipe for Sugarcane Seeds
@@ -5864,13 +6748,73 @@ INFO: Adding recipe for Mystical Brown Flower Seeds
 INFO: Adding recipe for Mystical Green Flower Seeds
 INFO: Adding recipe for Mystical Red Flower Seeds
 INFO: Adding recipe for Mystical Black Flower Seeds
-INFO: Setting max stack size of  Safari Net (Single-Use) to 3
-INFO: Setting max stack size of  Jailer's Safari Net to 3
-INFO: Setting max stack size of  Golden Jailer's Safari Net to 3
-INFO: Setting max stack size of  Safari Net (Reusable) to 3
-INFO: Adding Stone to ore dictionary entry pebble
-INFO: Adding recipe for Pebble
-INFO: Adding recipe for Stone
+INFO: Adding recipe for Aluminium Seeds
+INFO: Adding recipe for Alumite Seeds
+INFO: Adding recipe for Ardite Seeds
+INFO: Adding recipe for Blaze Seeds
+INFO: Adding recipe for Blizz Seeds
+INFO: Adding recipe for Bronze Seeds
+INFO: Adding recipe for Certus Quartz Seeds
+INFO: Adding recipe for Chicken Seeds
+INFO: Adding recipe for Coal Seeds
+INFO: Adding recipe for Cobalt Seeds
+INFO: Adding recipe for Conductive Iron Seeds
+INFO: Adding recipe for Copper Seeds
+INFO: Adding recipe for Cow Seeds
+INFO: Adding recipe for Creeper Seeds
+INFO: Adding recipe for Dark Steel Seeds
+INFO: Adding recipe for Diamond Seeds
+INFO: Adding recipe for Draconium Seeds
+INFO: Adding recipe for Dye Seeds
+INFO: Adding recipe for Earth Seeds
+INFO: Adding recipe for Electrical Steel Seeds
+INFO: Adding recipe for Electrum Seeds
+INFO: Adding recipe for Emerald Seeds
+INFO: Adding recipe for Enderium Seeds
+INFO: Adding recipe for Enderman Seeds
+INFO: Adding recipe for Energetic Alloy Seeds
+INFO: Adding recipe for Experience Seeds
+INFO: Adding recipe for Fire Seeds
+INFO: Adding recipe for Fluix Seeds
+INFO: Adding recipe for Ghast Seeds
+INFO: Adding recipe for Glowstone Seeds
+INFO: Adding recipe for Gold Seeds
+INFO: Adding recipe for Invar Seeds
+INFO: Adding recipe for Iron Seeds
+INFO: Adding recipe for Lapis Lazuli Seeds
+INFO: Adding recipe for Lead Seeds
+INFO: Adding recipe for Lumium Seeds
+INFO: Adding recipe for Manasteel Seeds
+INFO: Adding recipe for Manyullyn Seeds
+INFO: Adding recipe for Minicio Seeds
+INFO: Adding recipe for Nature Seeds
+INFO: Adding recipe for Nether Seeds
+INFO: Adding recipe for Nickel Seeds
+INFO: Adding recipe for Obsidian Seeds
+INFO: Adding recipe for Osmium Seeds
+INFO: Adding recipe for Pig Seeds
+INFO: Adding recipe for Platinum Seeds
+INFO: Adding recipe for Pulsating Iron Seeds
+INFO: Adding recipe for Quartz Seeds
+INFO: Adding recipe for Redstone Alloy Seeds
+INFO: Adding recipe for Redstone Seeds
+INFO: Adding recipe for Rubber Seeds
+INFO: Adding recipe for Saltpeter Seeds
+INFO: Adding recipe for Sheep Seeds
+INFO: Adding recipe for Signalum Seeds
+INFO: Adding recipe for Silver Seeds
+INFO: Adding recipe for Skeleton Seeds
+INFO: Adding recipe for Slime Seeds
+INFO: Adding recipe for Soularium Seeds
+INFO: Adding recipe for Spider Seeds
+INFO: Adding recipe for Steel Seeds
+INFO: Adding recipe for Sulfur Seeds
+INFO: Adding recipe for Terrasteel Seeds
+INFO: Adding recipe for Tin Seeds
+INFO: Adding recipe for Vibrant Alloy Seeds
+INFO: Adding recipe for Water Seeds
+INFO: Adding recipe for Wither Skeleton Seeds
+INFO: Adding recipe for Yellorite Seeds
 INFO: Adding recipe for Compressed Netherrack
 INFO: Adding recipe for Netherrack
 INFO: Adding recipe for Compressed Crushed Netherrack
@@ -5956,6 +6900,7 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
 INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <customthings:block0:1> (6 entries)
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Alloy Recipe(s) for <liquid:mithril.molten> * 64
 INFO: Adding Xtreme Crafting Recipe for Philosopher's Stone
 INFO: Adding Xtreme Crafting Recipe for Swiftwolf's Rending Gale
 INFO: Adding Xtreme Crafting Recipe for Transmutation Table
@@ -6152,24 +7097,24 @@ INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <BigR
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <aobd:blockUranium>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Heat source) Recipe(s) for <ExtraPlanets:nuclearBomb>
 INFO: [ModTweaker2] Adding 1 ExNihilo Crucible (Melting) Recipe(s) for <ExtraUtilities:plant/ender_lilly>
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@61c0ae71
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@35422c71
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7aef0e06
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@674b3259
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@39cabe7
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@27992e41
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@25848b8a
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1b63bc99
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7d46ff81
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@13433d4e
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@121a2c77
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@141bddd9
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5eeb822c
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@54c87df2
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@17729a88
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5dcd68aa
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@5fb56bdd
-INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4885aa34
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@468a63f9
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@13d8fbdb
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@534246b5
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@ef41b2c
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1bf424a0
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@4fa61226
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@e109289
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@2093c51c
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@1a78248a
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@65b022c1
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6fbe7024
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@513bf3ea
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@a3cc133
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@6e7e5c9f
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@725d3e24
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@7cf73726
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@10ae54d2
+INFO: [ModTweaker2] Adding 1 QED Recipe(s) for net.minecraftforge.oredict.ShapedOreRecipe@ca868fc
 INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
 INFO: Adding Refinery Recipe for Tectonic Petrotheum
 INFO: Adding Refinery Recipe for Gasoline
@@ -6341,14 +7286,14 @@ INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:BowLim
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
 INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 2 recipes
@@ -6504,58 +7449,58 @@ INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
 INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
@@ -6686,16 +7631,16 @@ INFO: Removing 1 recipes
 INFO: Removing 2 recipes
 INFO: Removing 0 recipes
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
+INFO: Removing 2 recipes
 INFO: Removing 0 recipes
 INFO: Removing 0 recipes
 INFO: Removing 0 recipes
