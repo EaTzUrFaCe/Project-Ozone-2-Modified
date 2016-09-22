@@ -1,226 +1,266 @@
-    0.002 D MultiMC 5, (c) 2013-2015 MultiMC Contributors
-    0.003 D Version                    :  "0.4.11-751"
-    0.003 D Git commit                 :  "a3cd3d5ff18215a475ed6b5f231f3f02ccd668f7"
-    0.003 D Git refspec                :  "refs/heads/stable"
-    0.003 D Work dir before adjustment :  "C:/Users/msh160130/Desktop/PO2-Portable"
-    0.003 D Work dir after adjustment  :  "C:/Users/msh160130/Desktop/PO2-Portable"
-    0.003 D Adjusted by                :  "Command line C:/Users/msh160130/Desktop/PO2-Portable"
-    0.003 D Binary path                :  "C:/Users/msh160130/Desktop/PO2-Portable"
-    0.003 D Application root path      :  "C:/Users/msh160130/Desktop/PO2-Portable"
-    0.006 D Detected default console font: "Courier" , substitutions: ""
-    0.006 D FTB Launcher paths: "C:/Users/msh160130/AppData/Roaming/ftblauncher" and "C:/Users/Matt Hermes/AppData/Local/ftblauncher"
-    0.006 D Your language is "en"
-    0.017 W libpng warning: iCCP: known incorrect sRGB profile
-    0.024 D Started watching  "C:/Users/msh160130/Desktop/PO2-Portable/icons"
-    0.025 D Instance path              :  "instances"
-    0.025 D Loading Instances...
-    0.025 D Loading MultiMC instance from  "instances/1.7.10"
-    0.026 D Loaded instance  "Project Ozone 2"  from  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10"
-    0.026 D Loading accounts...
-    0.026 D Detecting proxy settings...
-    0.026 D Using no proxy is an option!
-    0.026 D Downloading Translations Index...
-    0.026 D "Translations Index"  started.
-    0.047 D "Status JSON"  started.
-    0.060 D "Startup player skins download"  started.
-    0.060 D Loading builtin version list.
-    0.061 W Blacklisted legacy version ignored:  "rd-160052"
-    0.061 D Loading local version list.
-    0.061 D Loaded version "1.7.10" from local version list.
-    0.299 D Reloading news.
-    0.299 D "News RSS Feed"  started.
-    0.299 D Checking for updates.
-    0.299 D Channel list isn't loaded yet. Loading channel list and deferring update check.
-    0.299 D Loading the channel list.
-    0.299 D "Update System Channel List"  started.
-    0.299 D "Checking for notifications"  started.
-    0.350 D Java path needs resetting, showing Java selection dialog...
-    0.372 D Probing the following Java paths: 
-    0.372 D   "C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe"
-    0.372 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
-    0.372 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
-    0.372 D   "C:/Program Files/Java/jdk1.8.0_91/bin/javaw.exe"
-    0.372 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
-    0.372 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
-    0.372 D   "java"
-    0.372 D "Java detection"  started.
-    0.372 D "Running java checker: C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-    0.380 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-    0.380 D Java checker has failed to start.
-    0.380 D "Java detection" progress: 1 / 7
-    0.380 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-    0.380 D Java checker has failed to start.
-    0.380 D "Java detection" progress: 2 / 7
-    0.380 D "Running java checker: C:/Program Files/Java/jdk1.8.0_91/bin/javaw.exe-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-    0.386 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-    0.386 D Java checker has failed to start.
-    0.386 D "Java detection" progress: 3 / 7
-    0.386 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-    0.386 D Java checker has failed to start.
-    0.386 D "Java detection" progress: 4 / 7
-    0.386 D "Running java checker: java-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-    0.393 D Downloading  "http://files.multimc.org/translations/index"
-    0.394 D Downloading  "http://status.mojang.com/check"
-    0.395 D Downloading  "https://crafatar.com/skins/83d3619aa3dd4813a289a1dc0645a160.png"
-    0.396 D Downloading  "https://crafatar.com/skins/7455223fb79e483e926a6985498fb29a.png"
-    0.396 D Downloading  "http://multimc.org/rss.xml"
-    0.396 D Downloading  "http://files.multimc.org/update/win32/channels.json"
-    0.397 D Downloading  "http://files.multimc.org/notifications.json"
-    0.420 D Loaded LWJGL list.
-    0.447 D Loading remote version list.
-    0.447 D Loaded version "16w38a" from remote version list.
-    0.447 D Loaded version "16w36a" from remote version list.
-    0.447 D Loaded version "16w35a" from remote version list.
-    0.447 D Loaded version "16w33a" from remote version list.
-    0.447 D Loaded version "16w32b" from remote version list.
-    0.447 D Loaded version "1.10.2" from remote version list.
-    0.447 D Loaded version "1.10.1" from remote version list.
-    0.447 D Loaded version "1.10" from remote version list.
-    0.447 D Loaded version "16w21b" from remote version list.
-    0.447 D Loaded version "16w20a" from remote version list.
-    0.447 D Loaded version "1.9.4" from remote version list.
-    0.447 D Loaded version "1.9.3" from remote version list.
-    0.447 D Loaded version "16w15b" from remote version list.
-    0.447 D Loaded version "16w14a" from remote version list.
-    0.447 D Loaded version "1.9.2" from remote version list.
-    0.447 D Loaded version "1.9.1" from remote version list.
-    0.447 D Loaded version "1.9" from remote version list.
-    0.447 D Loaded version "1.8.9" from remote version list.
-    0.447 D Loaded version "1.8.8" from remote version list.
-    0.447 D Loaded version "1.8.7" from remote version list.
-    0.447 D Loaded version "1.8.6" from remote version list.
-    0.447 D Loaded version "1.8.5" from remote version list.
-    0.447 D Loaded version "1.8.4" from remote version list.
-    0.447 D Loaded version "1.8.3" from remote version list.
-    0.447 D Loaded version "1.8.2" from remote version list.
-    0.447 D Loaded version "1.8.1" from remote version list.
-    0.447 D Loaded version "1.8" from remote version list.
-    0.448 D Loaded version "1.7.10" from remote version list.
-    0.448 D Loaded version "1.7.9" from remote version list.
-    0.448 D Loaded version "1.7.8" from remote version list.
-    0.448 D Loaded version "1.7.7" from remote version list.
-    0.448 D Loaded version "1.7.6" from remote version list.
-    0.448 D Loaded version "1.7.5" from remote version list.
-    0.448 D Loaded version "1.7.4" from remote version list.
-    0.448 D Loaded version "1.7.3" from remote version list.
-    0.448 D Loaded version "1.7.2" from remote version list.
-    0.448 D Loaded version "1.6.4" from remote version list.
-    0.448 D Loaded version "1.6.2" from remote version list.
-    0.448 D Loaded version "1.6.1" from remote version list.
-    0.448 W Blacklisted legacy version ignored:  "rd-160052"
-    0.448 D Task succeeded
-    0.474 D Following redirect to  "https://multimc.org/rss.xml"
-    0.474 D Downloading  "https://multimc.org/rss.xml"
-    0.533 D "Status JSON" succeeded.
-    0.533 D Task succeeded
-    0.533 D Finished loading status JSON.
-    0.533 D Status loading succeeded.
-    0.640 D "Startup player skins download" succeeded.
-    0.640 D Task succeeded
-    0.694 D "Update System Channel List" succeeded.
-    0.694 D Task succeeded
-    0.694 D Successfully loaded UpdateChecker channel list.
-    0.694 D Checking for updates.
-    0.694 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
-    0.694 D "GoUpdate Repository Index"  started.
-    0.694 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
-    0.697 D "Translations Index" succeeded.
-    0.697 D Task succeeded
-    0.697 D Got translations index!
-    0.701 D "Translations"  started.
-    0.701 D Downloading  "http://files.multimc.org/translations/bg.qm"
-    0.702 D Downloading  "http://files.multimc.org/translations/cs.qm"
-    0.702 D Downloading  "http://files.multimc.org/translations/de.qm"
-    0.703 D Downloading  "http://files.multimc.org/translations/es.qm"
-    0.703 D Downloading  "http://files.multimc.org/translations/fi.qm"
-    0.704 D Downloading  "http://files.multimc.org/translations/fr.qm"
-    0.710 D Downloading  "http://files.multimc.org/translations/it.qm"
-    0.712 D Downloading  "http://files.multimc.org/translations/ja.qm"
-    0.717 D Downloading  "http://files.multimc.org/translations/ko.qm"
-    0.720 D Downloading  "http://files.multimc.org/translations/nb.qm"
-    0.722 D Downloading  "http://files.multimc.org/translations/nl.qm"
-    0.729 D Downloading  "http://files.multimc.org/translations/pl.qm"
-    0.730 D Downloading  "http://files.multimc.org/translations/pt_BR.qm"
-    0.743 D "Checking for notifications" succeeded.
-    0.743 D Task succeeded
-    0.744 D Downloading  "http://files.multimc.org/translations/pt_PT.qm"
-    0.745 D Downloading  "http://files.multimc.org/translations/ru.qm"
-    0.745 D Downloading  "http://files.multimc.org/translations/sv.qm"
-    0.752 D Downloading  "http://files.multimc.org/translations/tr.qm"
-    0.752 D Downloading  "http://files.multimc.org/translations/zh.qm"
-    0.753 D Downloading  "http://files.multimc.org/translations/zh_TW.qm"
-    0.780 D "Translations" succeeded.
-    0.780 D Task succeeded
-    0.780 D Got translations!
-    0.834 D "GoUpdate Repository Index" succeeded.
-    0.834 D Task succeeded
-    0.834 D Finished downloading repo index. Checking for new versions.
-    0.834 D Processing repository version list.
-    0.918 D "News RSS Feed" succeeded.
-    0.918 D Task succeeded
-    0.918 D Finished loading RSS feed.
-    0.919 D Loaded news entry "Update to 0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
-    0.919 D Loaded news entry "Update to 0.4.10 - Another wifi fix"
-    0.919 D Loaded news entry "Update to 0.4.9 - the Windows wifi fix"
-    0.919 D Loaded news entry "Update to 0.4.8"
-    0.919 D Loaded news entry "Update to 0.4.7, what 0.4.6 should have been."
-    0.919 D Loaded news entry "Update to 0.4.6, Bug fixes and improvements!"
-    0.919 D Loaded news entry "Update to 0.4.5, Translations, Themes, and Technic"
-    0.919 D Loaded news entry "Version 0.4 out - Jar mods, UI changes, and more!"
-    0.919 D Loaded news entry "Introducing QuickMods - A better way to install mods"
-    0.919 D Loaded news entry "Support us on Patreon!"
-    0.919 D News loading succeeded.
-    1.148 D STDOUT "os.arch=amd64
+    0.010 D MultiMC 5, (c) 2013-2015 MultiMC Contributors
+    0.011 D Version                    :  "0.4.11-751"
+    0.011 D Git commit                 :  "a3cd3d5ff18215a475ed6b5f231f3f02ccd668f7"
+    0.011 D Git refspec                :  "refs/heads/stable"
+    0.011 D Work dir before adjustment :  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified"
+    0.011 D Work dir after adjustment  :  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified"
+    0.011 D Adjusted by                :  "Command line C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified"
+    0.012 D Binary path                :  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified"
+    0.012 D Application root path      :  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified"
+    0.014 D Detected default console font: "Courier" , substitutions: ""
+    0.015 D FTB Launcher paths: "C:/Users/Baer Ackerman MD/AppData/Roaming/ftblauncher" and "C:/Users/Matt Hermes/AppData/Local/ftblauncher"
+    0.016 D Your language is "en"
+    0.030 W libpng warning: iCCP: known incorrect sRGB profile
+    0.043 D Started watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/icons"
+    0.044 D Instance path              :  "instances"
+    0.045 D Loading Instances...
+    0.045 D Loading MultiMC instance from  "instances/1.7.10"
+    0.047 D Loaded instance  "Project Ozone 2"  from  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10"
+    0.047 D Loading accounts...
+    0.048 D Detecting proxy settings...
+    0.048 D Using no proxy is an option!
+    0.048 D Downloading Translations Index...
+    0.048 D "Translations Index"  started.
+    0.094 D "Status JSON"  started.
+    0.105 D "Startup player skins download"  started.
+    0.105 D Loading builtin version list.
+    0.106 W Blacklisted legacy version ignored:  "rd-160052"
+    0.106 D Loading local version list.
+    0.106 D Loaded version "1.7.10" from local version list.
+    0.544 D Reloading news.
+    0.545 D "News RSS Feed"  started.
+    0.545 D Checking for updates.
+    0.545 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.545 D Loading the channel list.
+    0.545 D "Update System Channel List"  started.
+    0.545 D "Checking for notifications"  started.
+    0.652 D Java path needs resetting, showing Java selection dialog...
+    0.674 D Probing the following Java paths: 
+    0.674 D   "C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe"
+    0.674 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+    0.674 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+    0.674 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+    0.675 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+    0.675 D   "java"
+    0.675 D "Java detection"  started.
+    0.675 D "Running java checker: C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe-jar C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/jars/JavaCheck.jar"
+    0.692 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/jars/JavaCheck.jar"
+    0.692 D Java checker has failed to start.
+    0.692 D "Java detection" progress: 1 / 6
+    0.692 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/jars/JavaCheck.jar"
+    0.693 D Java checker has failed to start.
+    0.693 D "Java detection" progress: 2 / 6
+    0.693 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/jars/JavaCheck.jar"
+    0.693 D Java checker has failed to start.
+    0.693 D "Java detection" progress: 3 / 6
+    0.694 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/jars/JavaCheck.jar"
+    0.694 D Java checker has failed to start.
+    0.694 D "Java detection" progress: 4 / 6
+    0.694 D "Running java checker: java-jar C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/jars/JavaCheck.jar"
+    0.707 D Downloading  "http://files.multimc.org/translations/index"
+    0.709 D Downloading  "http://status.mojang.com/check"
+    0.711 D Downloading  "https://crafatar.com/skins/83d3619aa3dd4813a289a1dc0645a160.png"
+    0.713 D Downloading  "https://crafatar.com/skins/7455223fb79e483e926a6985498fb29a.png"
+    0.713 D Downloading  "http://multimc.org/rss.xml"
+    0.713 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    0.715 D Downloading  "http://files.multimc.org/notifications.json"
+    1.824 D STDOUT "os.arch=amd64
 java.version=1.8.0_91
 "
-    1.148 W STDERR ""
-    1.148 D Java checker finished with status  0  exit code  0
-    1.148 D Java checker succeeded.
-    1.148 D "Java detection" progress: 5 / 7
-    1.149 D STDOUT "os.arch=amd64
+    1.824 W STDERR ""
+    1.824 D Java checker finished with status  0  exit code  0
+    1.825 D Java checker succeeded.
+    1.825 D "Java detection" progress: 5 / 6
+    1.826 D STDOUT "os.arch=amd64
 java.version=1.8.0_91
 "
-    1.149 W STDERR ""
-    1.149 D Java checker finished with status  0  exit code  0
-    1.149 D Java checker succeeded.
-    1.149 D "Java detection" progress: 6 / 7
-    1.250 D STDOUT "os.arch=amd64
+    1.826 W STDERR ""
+    1.827 D Java checker finished with status  0  exit code  0
+    1.827 D Java checker succeeded.
+    1.827 D "Java detection" progress: 6 / 6
+    1.828 D Found the following valid Java installations:
+    1.828 D   "1.8.0_91" "64" "C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe"
+    1.828 D   "1.8.0_91" "64" "java"
+    1.828 D Task succeeded
+    2.747 D Following redirect to  "https://multimc.org/rss.xml"
+    2.747 D Downloading  "https://multimc.org/rss.xml"
+    2.748 C "Failed to load LWJGL list. XML error: error occurred while parsing element at line 2"
+    2.758 D "Status JSON" succeeded.
+    2.758 D Task succeeded
+    2.758 D Finished loading status JSON.
+    2.758 D Status loading succeeded.
+    2.918 D "Startup player skins download" succeeded.
+    2.918 D Task succeeded
+    2.959 D "Update System Channel List" succeeded.
+    2.959 D Task succeeded
+    2.959 D Successfully loaded UpdateChecker channel list.
+    2.959 D Checking for updates.
+    2.960 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    2.960 D "GoUpdate Repository Index"  started.
+    2.960 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    2.981 D "Checking for notifications" succeeded.
+    2.981 D Task succeeded
+    2.996 D "Translations Index" succeeded.
+    2.996 D Task succeeded
+    2.996 D Got translations index!
+    3.004 D "Translations"  started.
+    3.005 D Downloading  "http://files.multimc.org/translations/bg.qm"
+    3.007 D Downloading  "http://files.multimc.org/translations/cs.qm"
+    3.008 D Downloading  "http://files.multimc.org/translations/de.qm"
+    3.010 D Downloading  "http://files.multimc.org/translations/es.qm"
+    3.011 D Downloading  "http://files.multimc.org/translations/fi.qm"
+    3.012 D Downloading  "http://files.multimc.org/translations/fr.qm"
+    3.026 D Downloading  "http://files.multimc.org/translations/it.qm"
+    3.034 D Downloading  "http://files.multimc.org/translations/ja.qm"
+    3.042 D Downloading  "http://files.multimc.org/translations/ko.qm"
+    3.065 D Downloading  "http://files.multimc.org/translations/nb.qm"
+    3.067 D Downloading  "http://files.multimc.org/translations/nl.qm"
+    3.069 D Downloading  "http://files.multimc.org/translations/pl.qm"
+    3.081 D Downloading  "http://files.multimc.org/translations/pt_BR.qm"
+    3.083 D Downloading  "http://files.multimc.org/translations/pt_PT.qm"
+    3.088 D Downloading  "http://files.multimc.org/translations/ru.qm"
+    3.111 D Downloading  "http://files.multimc.org/translations/sv.qm"
+    3.113 D Downloading  "http://files.multimc.org/translations/tr.qm"
+    3.115 D Downloading  "http://files.multimc.org/translations/zh.qm"
+    3.127 D Downloading  "http://files.multimc.org/translations/zh_TW.qm"
+    3.140 D "GoUpdate Repository Index" succeeded.
+    3.140 D Task succeeded
+    3.140 D Finished downloading repo index. Checking for new versions.
+    3.140 D Processing repository version list.
+    3.170 D "Translations" succeeded.
+    3.170 D Task succeeded
+    3.170 D Got translations!
+    3.213 D Loading remote version list.
+    3.213 D Loaded version "16w38a" from remote version list.
+    3.214 D Loaded version "16w36a" from remote version list.
+    3.214 D Loaded version "16w35a" from remote version list.
+    3.214 D Loaded version "16w33a" from remote version list.
+    3.214 D Loaded version "16w32b" from remote version list.
+    3.214 D Loaded version "1.10.2" from remote version list.
+    3.214 D Loaded version "1.10.1" from remote version list.
+    3.214 D Loaded version "1.10" from remote version list.
+    3.214 D Loaded version "16w21b" from remote version list.
+    3.214 D Loaded version "16w20a" from remote version list.
+    3.214 D Loaded version "1.9.4" from remote version list.
+    3.214 D Loaded version "1.9.3" from remote version list.
+    3.214 D Loaded version "16w15b" from remote version list.
+    3.214 D Loaded version "16w14a" from remote version list.
+    3.214 D Loaded version "1.9.2" from remote version list.
+    3.214 D Loaded version "1.9.1" from remote version list.
+    3.214 D Loaded version "1.9" from remote version list.
+    3.214 D Loaded version "1.8.9" from remote version list.
+    3.214 D Loaded version "1.8.8" from remote version list.
+    3.214 D Loaded version "1.8.7" from remote version list.
+    3.214 D Loaded version "1.8.6" from remote version list.
+    3.214 D Loaded version "1.8.5" from remote version list.
+    3.214 D Loaded version "1.8.4" from remote version list.
+    3.214 D Loaded version "1.8.3" from remote version list.
+    3.215 D Loaded version "1.8.2" from remote version list.
+    3.215 D Loaded version "1.8.1" from remote version list.
+    3.215 D Loaded version "1.8" from remote version list.
+    3.215 D Loaded version "1.7.10" from remote version list.
+    3.215 D Loaded version "1.7.9" from remote version list.
+    3.215 D Loaded version "1.7.8" from remote version list.
+    3.215 D Loaded version "1.7.7" from remote version list.
+    3.215 D Loaded version "1.7.6" from remote version list.
+    3.215 D Loaded version "1.7.5" from remote version list.
+    3.215 D Loaded version "1.7.4" from remote version list.
+    3.215 D Loaded version "1.7.3" from remote version list.
+    3.215 D Loaded version "1.7.2" from remote version list.
+    3.215 D Loaded version "1.6.4" from remote version list.
+    3.215 D Loaded version "1.6.2" from remote version list.
+    3.215 D Loaded version "1.6.1" from remote version list.
+    3.216 W Blacklisted legacy version ignored:  "rd-160052"
+    3.216 D Task succeeded
+    3.263 D "News RSS Feed" succeeded.
+    3.263 D Task succeeded
+    3.263 D Finished loading RSS feed.
+    3.264 D Loaded news entry "Update to 0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    3.264 D Loaded news entry "Update to 0.4.10 - Another wifi fix"
+    3.264 D Loaded news entry "Update to 0.4.9 - the Windows wifi fix"
+    3.264 D Loaded news entry "Update to 0.4.8"
+    3.264 D Loaded news entry "Update to 0.4.7, what 0.4.6 should have been."
+    3.264 D Loaded news entry "Update to 0.4.6, Bug fixes and improvements!"
+    3.264 D Loaded news entry "Update to 0.4.5, Translations, Themes, and Technic"
+    3.264 D Loaded news entry "Version 0.4 out - Jar mods, UI changes, and more!"
+    3.264 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    3.264 D Loaded news entry "Support us on Patreon!"
+    3.264 D News loading succeeded.
+   36.498 D The request failed, but the server gave us an error message. Processing error.
+   36.498 C Task failed:  "Invalid token."
+   36.499 D Writing account list to "accounts.json"
+   36.499 D Building JSON data structure.
+   36.499 D Building account array.
+   36.499 D Writing account list to file.
+   36.500 D Saved account list to "accounts.json"
+   41.564 D Processing authentication response.
+   41.564 D Getting client token.
+   41.565 D Getting access token.
+   41.565 D Loading profile list.
+   41.565 D Setting current profile.
+   41.565 D Finished reading authentication response.
+   41.565 D Task succeeded
+   41.565 D Writing account list to "accounts.json"
+   41.565 D Building JSON data structure.
+   41.565 D Building account array.
+   41.565 D Writing account list to file.
+   41.568 D Saved account list to "accounts.json"
+   42.499 W Order file doesn't exist. Ignoring.
+   42.500 D Reading "net.minecraftforge.json"
+   42.574 W Order file doesn't exist. Ignoring.
+   42.575 D Reading "net.minecraftforge.json"
+   42.761 C BAD stuff happened to mod json:
+   42.762 C "{
+  "modListVersion": 5,
+  "modList": [{
+    "modid": "aether",
+    "name": "Aether II",
+    "description": "In development by Gilded Games, the Aether II is an extensive mod for Minecraft which implements a remarkable world in the skies. Adventure, danger, and mystery awaits in the depths of the Aether.",
+    "version": "1.7.10-1.6",
+    "mcversion": "1.7.10",
+    "url": "http://www.AetherII.com",
+    "updateUrl": "",
+    "authorList": [ "Brandon Pearce", "Emile van Krieken", "Oscar Payn", "Hugo Payn", "Brandon Potts", "Brendan Freeman", "Collin Soares", "Kino", "Jon Lachney" ],
+    "credits": "Gilded Games, The Aether Team",
+    "logoFile": "/assets/aether/logo.png",
+    "requiredMods": [ "Forge", "gilded-games-util" ],
+    "dependencies": [ "gilded-games-util" ],
+    "useDependencyInformation": true
+  }]
+}
+"
+   46.622 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+   46.710 D Task succeeded
+   46.710 D Task succeeded
+   46.718 D "Running java checker: C:/ProgramData/Oracle/Java/javapath/java.exe-jar C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/jars/JavaCheck.jar"
+   46.987 D STDOUT "os.arch=amd64
 java.version=1.8.0_91
 "
-    1.250 W STDERR ""
-    1.250 D Java checker finished with status  0  exit code  0
-    1.250 D Java checker succeeded.
-    1.250 D "Java detection" progress: 7 / 7
-    1.250 D Found the following valid Java installations:
-    1.250 D   "1.8.0_91" "64" "C:/Program Files/Java/jre1.8.0_91/bin/javaw.exe"
-    1.250 D   "1.8.0_91" "64" "C:/Program Files/Java/jdk1.8.0_91/bin/javaw.exe"
-    1.250 D   "1.8.0_91" "64" "java"
-    1.251 D Task succeeded
-    6.472 D The request failed, but the server gave us an error message. Processing error.
-    6.473 C Task failed:  "Invalid token."
-    6.473 D Writing account list to "accounts.json"
-    6.473 D Building JSON data structure.
-    6.473 D Building account array.
-    6.473 D Writing account list to file.
-    6.473 D Saved account list to "accounts.json"
-   13.887 D Processing authentication response.
-   13.887 D Getting client token.
-   13.888 D Getting access token.
-   13.888 D Loading profile list.
-   13.888 D Setting current profile.
-   13.888 D Finished reading authentication response.
-   13.888 D Task succeeded
-   13.888 D Writing account list to "accounts.json"
-   13.888 D Building JSON data structure.
-   13.888 D Building account array.
-   13.888 D Writing account list to file.
-   13.888 D Saved account list to "accounts.json"
-   13.972 W Order file doesn't exist. Ignoring.
-   13.973 D Reading "net.minecraftforge.json"
-   13.976 W Order file doesn't exist. Ignoring.
-   13.976 D Reading "net.minecraftforge.json"
-   13.996 C BAD stuff happened to mod json:
-   13.997 C "{
+   46.987 W STDERR ""
+   46.987 D Java checker finished with status  0  exit code  0
+   46.987 D Java checker succeeded.
+   47.037 D Task succeeded
+   47.051 D "Version index"  started.
+   47.058 D Downloading  "https://launchermeta.mojang.com/mc/game/016674e6940d040efe6df3a459a4fe10faaa6a40/1.7.10.json"
+   47.567 D "Version index" succeeded.
+   47.567 D Task succeeded
+   47.639 D Task succeeded
+   47.640 D "Project Ozone 2" : downloading libraries
+   47.640 W Order file doesn't exist. Ignoring.
+   47.641 D Reading "net.minecraftforge.json"
+   48.892 D "Libraries for instance Project Ozone 2"  started.
+   48.893 D "Libraries for instance Project Ozone 2" succeeded.
+   48.893 D Task succeeded
+   48.928 D "Project Ozone 2" : Starting asset index download
+   48.928 D "Asset index for Project Ozone 2"  started.
+   48.930 D Downloading  "http://s3.amazonaws.com/Minecraft.Download/indexes/1.7.10.json"
+   49.187 D "Asset index for Project Ozone 2" succeeded.
+   49.187 D Task succeeded
+   49.187 D "Project Ozone 2" : Finished asset index download
+   49.273 D Task succeeded
+   49.273 D Task succeeded
+   49.334 C BAD stuff happened to mod json:
+   49.334 C "{
   "modListVersion": 5,
   "modList": [{
     "modid": "aether",
@@ -239,337 +279,174 @@ java.version=1.8.0_91
   }]
 }
 "
-   14.418 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
-   14.446 D Task succeeded
-   14.446 D Task succeeded
-   14.448 D "Running java checker: C:/ProgramData/Oracle/Java/javapath/java.exe-jar C:/Users/msh160130/Desktop/PO2-Portable/jars/JavaCheck.jar"
-   14.566 D STDOUT "os.arch=amd64
-java.version=1.8.0_91
-"
-   14.566 W STDERR ""
-   14.566 D Java checker finished with status  0  exit code  0
-   14.567 D Java checker succeeded.
-   14.574 D Task succeeded
-   14.574 D "Version index"  started.
-   14.576 D Downloading  "https://launchermeta.mojang.com/mc/game/016674e6940d040efe6df3a459a4fe10faaa6a40/1.7.10.json"
-   15.119 D "Version index" succeeded.
-   15.119 D Task succeeded
-   15.123 D Task succeeded
-   15.124 D "Project Ozone 2" : downloading libraries
-   15.124 W Order file doesn't exist. Ignoring.
-   15.124 D Reading "net.minecraftforge.json"
-   15.256 D "Libraries for instance Project Ozone 2"  started.
-   15.257 D "Libraries for instance Project Ozone 2" succeeded.
-   15.257 D Task succeeded
-   15.258 D "Project Ozone 2" : Starting asset index download
-   15.258 D "Asset index for Project Ozone 2"  started.
-   15.258 D Downloading  "http://s3.amazonaws.com/Minecraft.Download/indexes/1.7.10.json"
-   15.511 D "Asset index for Project Ozone 2" succeeded.
-   15.511 D Task succeeded
-   15.511 D "Project Ozone 2" : Finished asset index download
-   15.525 D "Assets for Project Ozone 2"  started.
-   15.526 D Downloading  "http://resources.download.minecraft.net/91/913dac82b2c852eb1b6f371fe14456901386cd13"  local MD5:  "d6c0cf49e79878f2b34b049e86982ef8"
-   15.526 D Downloading  "http://resources.download.minecraft.net/2e/2e51504c234ea51b194ddf26871d20ed457483ec"  local MD5:  "7bfcfc078c325a0a5782b700b3b8699d"
-   15.527 D Downloading  "http://resources.download.minecraft.net/fc/fc2139572f55c973aedc694b8d633f2a4eb0907a"  local MD5:  "bb4a5e8a315c74046336300f5768c202"
-   15.527 D Downloading  "http://resources.download.minecraft.net/7d/7dbc8bd8dc11c8011b38a682f8a127340634f02c"  local MD5:  "dfaa14b8b12b102d0a4afe9d7ca43f21"
-   15.528 D Downloading  "http://resources.download.minecraft.net/1f/1f8e5f3b70b781bbf6c2ebca61f6647f06b67603"  local MD5:  "3d0a17d55e2fa20c5713724a2a9107a7"
-   15.528 D Downloading  "http://resources.download.minecraft.net/33/3386789f844a747d348a42386ee941daffdf34d4"  local MD5:  "59de4a59de8883107334a52d581efa33"
-   15.647 D Finished  "http://resources.download.minecraft.net/91/913dac82b2c852eb1b6f371fe14456901386cd13"  got  "df38aa7527e6782bf1c3b4a2090c0d5c"
-   15.647 D Downloading  "http://resources.download.minecraft.net/22/22bb966ab55ae53b7d5960e13f7bc11920f380a3"  local MD5:  "407723fa9b75289cbec6841273aa6441"
-   15.648 D Finished  "http://resources.download.minecraft.net/33/3386789f844a747d348a42386ee941daffdf34d4"  got  "49cdddd2c3b6d701a3bc56c3a87c01f7"
-   15.648 D Downloading  "http://resources.download.minecraft.net/99/999257ac419cf90ec067b750bfc074e57015aa75"  local MD5:  "975338cb26651c54bba145ba868d14c0"
-   15.649 D Finished  "http://resources.download.minecraft.net/7d/7dbc8bd8dc11c8011b38a682f8a127340634f02c"  got  "7ce52cac6da8efae852a2b1a0b9e1652"
-   15.650 D Downloading  "http://resources.download.minecraft.net/a2/a2fbcec6e56101db42bdcbbf93461917e3ff9a9b"  local MD5:  "32a48e1b6f2bb8c8879ba1440cb8ea27"
-   15.651 D Finished  "http://resources.download.minecraft.net/2e/2e51504c234ea51b194ddf26871d20ed457483ec"  got  "6f97749d5837246474e75b9ffbc6e07a"
-   15.651 D Downloading  "http://resources.download.minecraft.net/a5/a5b9750a30629916c454b879246231ebd1cc9a2c"  local MD5:  "4e726b6eab00e4d50ee167cbeb055fd1"
-   15.658 D Finished  "http://resources.download.minecraft.net/1f/1f8e5f3b70b781bbf6c2ebca61f6647f06b67603"  got  "525f72c17afc0adf014ca86a48d615ec"
-   15.659 D Downloading  "http://resources.download.minecraft.net/17/17567e7dc53a5e939b5bd0197fbf95d93c002c2a"  local MD5:  "915b13a17eb819f889cd82268af641de"
-   15.667 D Finished  "http://resources.download.minecraft.net/fc/fc2139572f55c973aedc694b8d633f2a4eb0907a"  got  "42a9dc8ae2bffd066575c9e1f4178f9c"
-   15.668 D Downloading  "http://resources.download.minecraft.net/4b/4b0fb97083de71e8b23e144c7cd426fb3eb09e49"  local MD5:  "2937732b3b4b81373582f4e441a94911"
-   15.711 D Finished  "http://resources.download.minecraft.net/a2/a2fbcec6e56101db42bdcbbf93461917e3ff9a9b"  got  "2a529da9309d5d9991475ce14c506afa"
-   15.711 D Downloading  "http://resources.download.minecraft.net/71/7197269073c558f5ae376f40eeae0ad29b05c5f5"  local MD5:  "1ce7d9c404db616e19f8357da34a2b7b"
-   15.713 D Finished  "http://resources.download.minecraft.net/a5/a5b9750a30629916c454b879246231ebd1cc9a2c"  got  "260be6b1951021df037a6335b5647bb2"
-   15.713 D Downloading  "http://resources.download.minecraft.net/81/81187dd7f36516de3a88d19c2f3903f74df1def0"  local MD5:  "96df4b33b3c069e06c7145009333866b"
-   15.718 D Finished  "http://resources.download.minecraft.net/99/999257ac419cf90ec067b750bfc074e57015aa75"  got  "2ed41a3e64141a5777e3263501987467"
-   15.718 D Downloading  "http://resources.download.minecraft.net/0e/0ee5c0e080e6f34e291a604e2485aa2c710cc81f"  local MD5:  "c3ca463f1661aa160ae10853a8986bd1"
-   15.718 D Finished  "http://resources.download.minecraft.net/22/22bb966ab55ae53b7d5960e13f7bc11920f380a3"  got  "d53d85078314dab8db50287323db633a"
-   15.719 D Downloading  "http://resources.download.minecraft.net/c4/c4daa64350971a7714218efc517de25e2a79ccc2"  local MD5:  "898d9ffbbc161c24a1b4bdc0234d3709"
-   15.722 D Finished  "http://resources.download.minecraft.net/17/17567e7dc53a5e939b5bd0197fbf95d93c002c2a"  got  "91a7d373c8eafde3c4e70f9e161a3751"
-   15.723 D Downloading  "http://resources.download.minecraft.net/e5/e55edae0011215873faeba154c7d89f590ddb748"  local MD5:  "5850c3e0a6833a363ad573125d11d4f4"
-   15.755 D Finished  "http://resources.download.minecraft.net/81/81187dd7f36516de3a88d19c2f3903f74df1def0"  got  "17932b50954296814c353beb18b49d0c"
-   15.755 D Downloading  "http://resources.download.minecraft.net/42/428263c79973ad44876048f421511aed401cf2e6"  local MD5:  "6befa9fa75f3459dd2c18277d3cc4de9"
-   15.759 D Finished  "http://resources.download.minecraft.net/0e/0ee5c0e080e6f34e291a604e2485aa2c710cc81f"  got  "c024f013aad17cee79219dab247fda62"
-   15.759 D Downloading  "http://resources.download.minecraft.net/33/33747279d2752138df2d80cc70771e042457017f"  local MD5:  "9b2820c68535e371f5c903e411222e7f"
-   15.762 D Finished  "http://resources.download.minecraft.net/e5/e55edae0011215873faeba154c7d89f590ddb748"  got  "f9822dbec5e0c83fd0d020b520a53dfd"
-   15.762 D Downloading  "http://resources.download.minecraft.net/4e/4e5de18b13004b53cf8e5d46f36ab07b165e7362"  local MD5:  "2018bb5a1c95efb63db8a9e574bcbd1e"
-   15.768 D Finished  "http://resources.download.minecraft.net/4b/4b0fb97083de71e8b23e144c7cd426fb3eb09e49"  got  "29ea4b64055bfeda9b90d2d76d1a9e0f"
-   15.768 D Downloading  "http://resources.download.minecraft.net/a2/a224f70ea345fdb44f89a7c1b7c200b4239e6577"  local MD5:  "5715942d3df99ba1003534e4b19e8625"
-   15.774 D Finished  "http://resources.download.minecraft.net/71/7197269073c558f5ae376f40eeae0ad29b05c5f5"  got  "220ef67f757e9774698eda8af6321851"
-   15.774 D Downloading  "http://resources.download.minecraft.net/6c/6c7a6c4bae01c22e67bed10b69d46e67d5d67895"  local MD5:  "fbac77077cb3cf0ab608e5da4c3d5363"
-   15.787 D Finished  "http://resources.download.minecraft.net/c4/c4daa64350971a7714218efc517de25e2a79ccc2"  got  "4e98615b0cf53d8c7ecc8f42de462296"
-   15.787 D Downloading  "http://resources.download.minecraft.net/34/34090e3d3a908122ff2734784575b5a35c51d911"  local MD5:  "e076b81dcdc00335093ba117606b5ef3"
-   15.794 D Finished  "http://resources.download.minecraft.net/42/428263c79973ad44876048f421511aed401cf2e6"  got  "c64fa0070da29238c8c4b3f7a21f1752"
-   15.795 D Downloading  "http://resources.download.minecraft.net/20/20369b200cab4b4fb4975d8468395eafb62c50a1"  local MD5:  "8b3bf29e96952723f4e91ca2abb86f36"
-   15.803 D Finished  "http://resources.download.minecraft.net/33/33747279d2752138df2d80cc70771e042457017f"  got  "d47252851994ce5c45c0f6c94c8895f0"
-   15.803 D Downloading  "http://resources.download.minecraft.net/ff/ff77255b582c0bac2fb722d74b168d51345ab730"  local MD5:  "59179211b31f358bc2efcafe838fc094"
-   15.805 D Finished  "http://resources.download.minecraft.net/4e/4e5de18b13004b53cf8e5d46f36ab07b165e7362"  got  "8de5d7770f738749fc3b2b43edb06c49"
-   15.805 D Downloading  "http://resources.download.minecraft.net/d8/d8fc393426b1c67fcc0a867233874670b5755687"  local MD5:  "9309cdd6c6064a6101ef6e0f9dee0a53"
-   15.815 D Finished  "http://resources.download.minecraft.net/6c/6c7a6c4bae01c22e67bed10b69d46e67d5d67895"  got  "9b57d3314f1f5986c8dd65cb76dca0d2"
-   15.815 D Downloading  "http://resources.download.minecraft.net/b9/b968a786fb5ddd46e28e4bf5c9ecb9c6db13bb95"  local MD5:  "7400c99aac2e8fb517c3e05f176a2248"
-   15.843 D Finished  "http://resources.download.minecraft.net/34/34090e3d3a908122ff2734784575b5a35c51d911"  got  "2884f44620889e93d50c5d50474c122d"
-   15.843 D Downloading  "http://resources.download.minecraft.net/ea/ea1403be012b32d2239796a3617de19b6774fe06"  local MD5:  "273cc5eda7599d3f0c4981ac5c2bf8f1"
-   15.844 D Finished  "http://resources.download.minecraft.net/20/20369b200cab4b4fb4975d8468395eafb62c50a1"  got  "8ffaa5e1ec1d4e2e50b4889c10066c1a"
-   15.844 D Downloading  "http://resources.download.minecraft.net/0e/0e2933d361b38fc2aff7e7d09c6b723893e4dd5c"  local MD5:  "cfb245b05b3901aada0b0ec67881b7f0"
-   15.844 D Finished  "http://resources.download.minecraft.net/d8/d8fc393426b1c67fcc0a867233874670b5755687"  got  "439efd7bb3f584a15a86c85533816430"
-   15.845 D Downloading  "http://resources.download.minecraft.net/32/323d7f116b2187c51ff76ae7dd1ac15c5d4d007d"  local MD5:  "3ef4d9d6e9f6781dfe54993eb3fa8896"
-   15.845 D Finished  "http://resources.download.minecraft.net/a2/a224f70ea345fdb44f89a7c1b7c200b4239e6577"  got  "d38cd06deb643178fda84cc1ceac27db"
-   15.846 D Downloading  "http://resources.download.minecraft.net/00/00c71b8f15ddfaf958c0c31da003031b8789b3a6"  local MD5:  "dd1c763126d362815647a219c288271d"
-   15.854 D Finished  "http://resources.download.minecraft.net/ff/ff77255b582c0bac2fb722d74b168d51345ab730"  got  "094408861da6aae68b78b2b39840c738"
-   15.855 D Downloading  "http://resources.download.minecraft.net/f9/f92ff2e7e9baf2de036c780dab96dc0d018fd3f3"  local MD5:  "78e0da4d78e2a4e8d38af6cd951acdb1"
-   15.859 D Finished  "http://resources.download.minecraft.net/b9/b968a786fb5ddd46e28e4bf5c9ecb9c6db13bb95"  got  "89e8e5d13ee98f68b2434bd653698811"
-   15.859 D Downloading  "http://resources.download.minecraft.net/08/081d21bad358ef6922c43cecf5e0b8f30aa52e6c"  local MD5:  "d7bd164dfad7e67ff20f652f401d48a9"
-   15.882 D Finished  "http://resources.download.minecraft.net/ea/ea1403be012b32d2239796a3617de19b6774fe06"  got  "2c35864d959d32bba2c130ecb9c6573e"
-   15.883 D Downloading  "http://resources.download.minecraft.net/51/51ffb69a87c411dcde1f3f93f9b799458e66ee81"  local MD5:  "72b89a251d402bc99786afc966ef8d8f"
-   15.883 D Finished  "http://resources.download.minecraft.net/0e/0e2933d361b38fc2aff7e7d09c6b723893e4dd5c"  got  "579bbe308a31b5a52823b0eb673b9db6"
-   15.883 D Downloading  "http://resources.download.minecraft.net/6a/6ae665534a98ef5a051792a98ade7bf555407d7a"  local MD5:  "779625a033da954c98628709240501da"
-   15.884 D Finished  "http://resources.download.minecraft.net/32/323d7f116b2187c51ff76ae7dd1ac15c5d4d007d"  got  "8ca0482b856637df1029651da8941ace"
-   15.885 D Downloading  "http://resources.download.minecraft.net/fd/fd0b95f772a7714597740f625cfd5cc29c9d3560"  local MD5:  "8e84b87372fb0c0eb6d2b10b89e0e717"
-   15.892 D Finished  "http://resources.download.minecraft.net/00/00c71b8f15ddfaf958c0c31da003031b8789b3a6"  got  "aefb977e8d4676354e31593da6bf78d2"
-   15.892 D Downloading  "http://resources.download.minecraft.net/10/10c8a862c62bac263807bf39ae191d39f8e54e35"  local MD5:  "b9b8f8c0bdcd475fb8ca8e51b410bc7e"
-   15.894 D Finished  "http://resources.download.minecraft.net/08/081d21bad358ef6922c43cecf5e0b8f30aa52e6c"  got  "f9308283478ebe0a8a8e031b80a703e3"
-   15.895 D Downloading  "http://resources.download.minecraft.net/b8/b89e2223e2c867ed3077bbe4f233a84c63729c30"  local MD5:  "91e2d70636f3547eb5e89036cee6e8bb"
-   15.897 D Finished  "http://resources.download.minecraft.net/f9/f92ff2e7e9baf2de036c780dab96dc0d018fd3f3"  got  "5392bb82718a1ab28a33dbad758e3f1e"
-   15.897 D Downloading  "http://resources.download.minecraft.net/e2/e257258766f1430cd6e5a97def8ecac0207ae83b"  local MD5:  "9359499f6bbd56f2fe1a2728c22775fc"
-   15.925 D Finished  "http://resources.download.minecraft.net/fd/fd0b95f772a7714597740f625cfd5cc29c9d3560"  got  "e81d4f404268fabecc919caf6cd8e4dc"
-   15.925 D Downloading  "http://resources.download.minecraft.net/c4/c4e61eec725b91b5aa638b4e9155caecef57e56b"  local MD5:  "92e33174fb169df363cdbcbfb0018264"
-   15.926 D Finished  "http://resources.download.minecraft.net/6a/6ae665534a98ef5a051792a98ade7bf555407d7a"  got  "5faac921b10be36809e2cc933570d7ad"
-   15.926 D Downloading  "http://resources.download.minecraft.net/34/34b4b3f6f4ea91b7d631395f00ce43219d025000"  local MD5:  "0a55fa0715914d430d1b51cd94960419"
-   15.927 D Finished  "http://resources.download.minecraft.net/e2/e257258766f1430cd6e5a97def8ecac0207ae83b"  got  "06f55cdaca2ceea43bf202d9243b180d"
-   15.927 D Downloading  "http://resources.download.minecraft.net/f7/f797f0bb31e043750ccaa7be27f60acd04b5c05f"  local MD5:  "477c304088d5132a5d1ad5b8cec9cc16"
-   15.935 D Finished  "http://resources.download.minecraft.net/10/10c8a862c62bac263807bf39ae191d39f8e54e35"  got  "191af4ab6f5c214fa1af7035ae148d9e"
-   15.936 D Downloading  "http://resources.download.minecraft.net/be/bef3b6a408db019403d8d756d0cf85b2c8ab61d9"  local MD5:  "e6a4e20fc8328255714e3e7702b4564a"
-   15.939 D Finished  "http://resources.download.minecraft.net/b8/b89e2223e2c867ed3077bbe4f233a84c63729c30"  got  "d67393ba9b917f2cb1121d9797d9d3fe"
-   15.939 D Downloading  "http://resources.download.minecraft.net/5d/5dbf29b5f54015d771873e9bb02665c1128a56ff"  local MD5:  "91e5dc03bd928a9dd22c3bc840554ac5"
-   15.942 D Finished  "http://resources.download.minecraft.net/51/51ffb69a87c411dcde1f3f93f9b799458e66ee81"  got  "47fb4bb720dc2eb361e97e18dff46cda"
-   15.942 D Downloading  "http://resources.download.minecraft.net/1a/1a498de545784868b5cb34705b4663c16292f837"  local MD5:  "a13e380409aef534de26ac1247567809"
-   15.961 D Finished  "http://resources.download.minecraft.net/c4/c4e61eec725b91b5aa638b4e9155caecef57e56b"  got  "9677114ced137c8dc7692b8377f0bb6e"
-   15.961 D Downloading  "http://resources.download.minecraft.net/78/78f839189133203e8d22d93ef8c9f4d02cda3023"  local MD5:  "72ac620b4fbbb77a2632c0ace0118069"
-   15.966 D Finished  "http://resources.download.minecraft.net/f7/f797f0bb31e043750ccaa7be27f60acd04b5c05f"  got  "a7657b5c52ebd87696844a7454cd983c"
-   15.967 D Downloading  "http://resources.download.minecraft.net/8b/8b39739932fda786e72567c68ac28ff7efe99e80"  local MD5:  "550cc46d9faee43f0701a6d83f1207d3"
-   15.969 D Finished  "http://resources.download.minecraft.net/34/34b4b3f6f4ea91b7d631395f00ce43219d025000"  got  "0ddda9dbc5939ba60fc4af9eeb0be57d"
-   15.969 D Downloading  "http://resources.download.minecraft.net/f1/f149ea34fdfe2ffdbde2f7faa11eb2aa282fa6e2"  local MD5:  "53377290b46e9c88042352753f8ce266"
-   15.980 D Finished  "http://resources.download.minecraft.net/be/bef3b6a408db019403d8d756d0cf85b2c8ab61d9"  got  "451fc7e9967aca4c7b6306ebba328e5f"
-   15.981 D Downloading  "http://resources.download.minecraft.net/33/33aea58cbd8d0a8ad7b1b88432de02709342e333"  local MD5:  "d958156397c96ea745284ea3ab4c3323"
-   15.985 D Finished  "http://resources.download.minecraft.net/1a/1a498de545784868b5cb34705b4663c16292f837"  got  "a37c8d45f977580e152e5ea4f9733328"
-   15.985 D Downloading  "http://resources.download.minecraft.net/68/68a7eab92d03a6b1e432b8783b415271f31771a7"  local MD5:  "4f7a81ffc1c9f681c748cb7568e8bedc"
-   15.986 D Finished  "http://resources.download.minecraft.net/5d/5dbf29b5f54015d771873e9bb02665c1128a56ff"  got  "ce49b2490ed72e06ddfb241b61cd8646"
-   15.986 D Downloading  "http://resources.download.minecraft.net/0c/0c423a8686c43541591a8283ce711f476d0d4074"  local MD5:  "8b395c1954aa3e2637db7b20aa9e9863"
-   15.991 D Finished  "http://resources.download.minecraft.net/78/78f839189133203e8d22d93ef8c9f4d02cda3023"  got  "985b6ab8b93cd8d4176f79047bf04673"
-   15.991 D Downloading  "http://resources.download.minecraft.net/d1/d17c0896a1ecd39c49cf9870d29597bac3a42217"  local MD5:  "05df89175198d780c057c1423063921f"
-   16.000 D Finished  "http://resources.download.minecraft.net/8b/8b39739932fda786e72567c68ac28ff7efe99e80"  got  "a0f79ea6e3d5932e333e5dac3c6dfe9b"
-   16.000 D Downloading  "http://resources.download.minecraft.net/63/63fd5d8c33370939afe79299bb3891fe17acb444"  local MD5:  "4812f41d879a7a0b05a5dcaf03db5937"
-   16.007 D Finished  "http://resources.download.minecraft.net/f1/f149ea34fdfe2ffdbde2f7faa11eb2aa282fa6e2"  got  "cdb60a8ad4009200ac6d89dc0f093334"
-   16.007 D Downloading  "http://resources.download.minecraft.net/47/47aee6e1766ea8127c5b17a9c0416583a836244f"  local MD5:  "36eb4e9f9ceaabae1733769b61afa547"
-   16.025 D Finished  "http://resources.download.minecraft.net/d1/d17c0896a1ecd39c49cf9870d29597bac3a42217"  got  "4053ec48e9424897454a2169b40a6be4"
-   16.025 D Downloading  "http://resources.download.minecraft.net/cf/cfe9155cc562c3e805903ea67c32a62ac1bfe372"  local MD5:  "b79558884aed88fe6b9f8996e0967a66"
-   16.027 D Finished  "http://resources.download.minecraft.net/33/33aea58cbd8d0a8ad7b1b88432de02709342e333"  got  "4e04898866d2245e908f6ff388e6f373"
-   16.028 D Downloading  "http://resources.download.minecraft.net/6d/6da5429aafecf40a160496adb1b3f4537a3a9c67"  local MD5:  "c2a7a4d213b73c401eea20ebee974fb3"
-   16.028 D Finished  "http://resources.download.minecraft.net/0c/0c423a8686c43541591a8283ce711f476d0d4074"  got  "ca3e41d4da049f318f8c04b0d11f0669"
-   16.028 D Downloading  "http://resources.download.minecraft.net/4e/4eedcb87b68eb6c17cc6ad8bb32b381341da08ee"  local MD5:  "facc07c8401b3bad4ad125f8981ce1ad"
-   16.029 D Finished  "http://resources.download.minecraft.net/68/68a7eab92d03a6b1e432b8783b415271f31771a7"  got  "aabf51e7dab288cf37c5d941892f82fb"
-   16.029 D Downloading  "http://resources.download.minecraft.net/88/88077f1e3a47d62cc77fd6e81f04ff3d55644ae1"  local MD5:  "d31d750dade6f375fa972240dc76c1e3"
-   16.034 D Finished  "http://resources.download.minecraft.net/63/63fd5d8c33370939afe79299bb3891fe17acb444"  got  "ae6e859c54ff1fadf8ffc8d2b43e3323"
-   16.034 D Downloading  "http://resources.download.minecraft.net/08/08c19cb92fc7bb6c2445dd9743364960dcf9987b"  local MD5:  "cd776388ee0815fd2f91c970ff0e1a77"
-   16.050 D Finished  "http://resources.download.minecraft.net/47/47aee6e1766ea8127c5b17a9c0416583a836244f"  got  "04d75efae40577546c0fbb925a75dcdf"
-   16.050 D Downloading  "http://resources.download.minecraft.net/6e/6e3c6a4b10e1446b7b7ce5d7342361fcf9b8da0d"  local MD5:  "08d483984deaff9dcd446d255d0232b8"
-   16.059 D Finished  "http://resources.download.minecraft.net/88/88077f1e3a47d62cc77fd6e81f04ff3d55644ae1"  got  "d683b37179905bf5cda9c8c1d715bcfb"
-   16.059 D Downloading  "http://resources.download.minecraft.net/17/17d6e34837dfa86757bed29c47820914745639d5"  local MD5:  "db2798bc52fdfa19ef18566eff38a29a"
-   16.063 D Finished  "http://resources.download.minecraft.net/08/08c19cb92fc7bb6c2445dd9743364960dcf9987b"  got  "364f7df2646638107f026826144732be"
-   16.063 D Downloading  "http://resources.download.minecraft.net/97/977391fc150aed15bee60af375359f495a7f2521"  local MD5:  "87744b22d3bf3bce88aa0c12a78289f5"
-   16.070 D Finished  "http://resources.download.minecraft.net/6d/6da5429aafecf40a160496adb1b3f4537a3a9c67"  got  "a0b0065eed81d79b112b61ea667f3e42"
-   16.071 D Downloading  "http://resources.download.minecraft.net/49/49f8946e2a41e2290bd1a73654550b1413b98fb6"  local MD5:  "2f2d573a363df535cad7e3c6d05bc5f8"
-   16.075 D Finished  "http://resources.download.minecraft.net/4e/4eedcb87b68eb6c17cc6ad8bb32b381341da08ee"  got  "4e2b4aef927e2b08d0fcb6450b5c7fd3"
-   16.076 D Downloading  "http://resources.download.minecraft.net/55/5513fc89fd788c31ecea7d9a3e8a3ec165f0cb4d"  local MD5:  "8b639bee071c6a88a7905860897ee30b"
-   16.089 D Finished  "http://resources.download.minecraft.net/cf/cfe9155cc562c3e805903ea67c32a62ac1bfe372"  got  "286073946f964bf084ee8af99fb27a92"
-   16.089 D Downloading  "http://resources.download.minecraft.net/c2/c246c98daf08c0652972b7143fc3126ff9117703"  local MD5:  "6e0672e5caa070be6b04749a5dbbc1b4"
-   16.092 D Finished  "http://resources.download.minecraft.net/6e/6e3c6a4b10e1446b7b7ce5d7342361fcf9b8da0d"  got  "402ade25b97ff855d7965fdcb0e090d3"
-   16.092 D Downloading  "http://resources.download.minecraft.net/7f/7fafdc20468e5104493072c6708b3f8f9326c3fb"  local MD5:  "018480e33be2cc2626fe0f28ca9bb125"
-   16.094 D Finished  "http://resources.download.minecraft.net/97/977391fc150aed15bee60af375359f495a7f2521"  got  "3e8f6294e42633789008e53f2c7d65cb"
-   16.094 D Downloading  "http://resources.download.minecraft.net/cc/cc38d596bbd7a6f37e3edd0a533adc32d4f89215"  local MD5:  "9d371f87efab69582a4f1d7193f22d08"
-   16.095 D Finished  "http://resources.download.minecraft.net/17/17d6e34837dfa86757bed29c47820914745639d5"  got  "61a5506c0d2fde20eb2271bad2b2f9c1"
-   16.095 D Downloading  "http://resources.download.minecraft.net/2c/2c38cb9ef9216a83da46136fde1128c43562aa89"  local MD5:  "70bbb2dcb5eb245a70c04256974f46dd"
-   16.109 D Finished  "http://resources.download.minecraft.net/49/49f8946e2a41e2290bd1a73654550b1413b98fb6"  got  "17dfb52d4b1ddfc67bcd2bacee5bf302"
-   16.110 D Downloading  "http://resources.download.minecraft.net/02/02ca127554fb1294b473bac256469a0d908ecd86"  local MD5:  "5ef3f19d46c791a4bdcf95c06b054f3a"
-   16.119 D Finished  "http://resources.download.minecraft.net/55/5513fc89fd788c31ecea7d9a3e8a3ec165f0cb4d"  got  "6cd6013036a9d9bc95a9d1e8e9929dbe"
-   16.119 D Downloading  "http://resources.download.minecraft.net/d6/d6fab429585e927cc6ad7bc4363fe27580ea1a97"  local MD5:  "30f3d5106cb70bb0d45a6a2f6ef68e25"
-   16.126 D Finished  "http://resources.download.minecraft.net/cc/cc38d596bbd7a6f37e3edd0a533adc32d4f89215"  got  "e582b25b57673f89564810fd064508a8"
-   16.126 D Downloading  "http://resources.download.minecraft.net/a1/a15b70c81e47f1c9dc8623e838dacddf001fa3c4"  local MD5:  "71fadc053ac1bfde638e70e7e83636bf"
-   16.129 D Finished  "http://resources.download.minecraft.net/c2/c246c98daf08c0652972b7143fc3126ff9117703"  got  "9c5ecc99a701a6fb2455867f7725fbff"
-   16.129 D Downloading  "http://resources.download.minecraft.net/eb/eb206c38395f02f84e1062af3fab9e05cb15611f"  local MD5:  "1f92f44495a0c3800f17f63b264c2506"
-   16.135 D Finished  "http://resources.download.minecraft.net/2c/2c38cb9ef9216a83da46136fde1128c43562aa89"  got  "0600452496ff8b6ef87a07c9a073eca5"
-   16.136 D Downloading  "http://resources.download.minecraft.net/d2/d2f3c9c340a5cfe30fb7e333c81a4d853d9bbddd"  local MD5:  "f3972b38ab14e90804b50395a6f77f33"
-   16.142 D Finished  "http://resources.download.minecraft.net/02/02ca127554fb1294b473bac256469a0d908ecd86"  got  "1396cbb8385f774054930a9f4710495c"
-   16.142 D Downloading  "http://resources.download.minecraft.net/fc/fce0bb3e14ade7b292a7c1d5fa785533d8106d82"  local MD5:  "a485fcea1e7e1783ba2cbc1209bcad7f"
-   16.145 D Finished  "http://resources.download.minecraft.net/7f/7fafdc20468e5104493072c6708b3f8f9326c3fb"  got  "926274e9e1e960ec4664ec183ad7b534"
-   16.145 D Downloading  "http://resources.download.minecraft.net/4f/4fd07421acc4fb19088908f0c40b38cd4ad26f48"  local MD5:  "f561a530cb6e9bdd80e17c56dac99ae3"
-   16.152 D Finished  "http://resources.download.minecraft.net/d6/d6fab429585e927cc6ad7bc4363fe27580ea1a97"  got  "7975aabcafed8d8db15c9b523052b051"
-   16.152 D Downloading  "http://resources.download.minecraft.net/b8/b81c9d77126abec7d7cc2ebb7491e25b6b861670"  local MD5:  "1e8281b8e3220953af3fa95c23caa9f6"
-   16.155 D Finished  "http://resources.download.minecraft.net/a1/a15b70c81e47f1c9dc8623e838dacddf001fa3c4"  got  "6e4edf01cfc81b80c343007512df77e0"
-   16.155 D Downloading  "http://resources.download.minecraft.net/4b/4b3ecb81a2136dd4dc6a32120224dace03ea465c"  local MD5:  "8d59be7071704526a49a4aa6cc7f3560"
-   16.170 D Finished  "http://resources.download.minecraft.net/eb/eb206c38395f02f84e1062af3fab9e05cb15611f"  got  "ba78531af2f1babf33d898faa8b21f33"
-   16.170 D Downloading  "http://resources.download.minecraft.net/3f/3f0a1aea8af9451493927ecb8a18997881ad0e2f"  local MD5:  "ae33341f3c98f6e5aaf1fd2d87ca6753"
-   16.173 D Finished  "http://resources.download.minecraft.net/fc/fce0bb3e14ade7b292a7c1d5fa785533d8106d82"  got  "4b1c38ad7b2c6a14bdc6a9aae3e9139d"
-   16.173 D Downloading  "http://resources.download.minecraft.net/8a/8a0664c68ad24590ad5836fe237f41275df25b5d"  local MD5:  "a0f0bd3e526b0dc92f89c07c6c31f2e9"
-   16.175 D Finished  "http://resources.download.minecraft.net/4f/4fd07421acc4fb19088908f0c40b38cd4ad26f48"  got  "5cf1549e3019a81d5de212ee1846cdfb"
-   16.176 D Downloading  "http://resources.download.minecraft.net/b0/b09ad1252f8d849367a1a7455cd97493287aefa7"  local MD5:  "05d94fdd13457367e07f53f9ec218525"
-   16.176 D Finished  "http://resources.download.minecraft.net/d2/d2f3c9c340a5cfe30fb7e333c81a4d853d9bbddd"  got  "60ed2775b76604a7e80705aabd1ab3f2"
-   16.176 D Downloading  "http://resources.download.minecraft.net/cc/cc96acd7c25af238059cbab1107648f8964648b6"  local MD5:  "d583aace906e92511ff558e7d0215fec"
-   16.184 D Finished  "http://resources.download.minecraft.net/b8/b81c9d77126abec7d7cc2ebb7491e25b6b861670"  got  "b5e115ecb70da343554f8b4aa1c51525"
-   16.184 D Downloading  "http://resources.download.minecraft.net/33/332edac716a96977e2bb5a7995b7139dac08edda"  local MD5:  "567874d3cd95f5013319929e6bb8d2cd"
-   16.186 D Finished  "http://resources.download.minecraft.net/4b/4b3ecb81a2136dd4dc6a32120224dace03ea465c"  got  "0b7a115319cefd3b9ecf5d361f5c4e7c"
-   16.186 D Downloading  "http://resources.download.minecraft.net/7b/7b52463b2df4685d2d82c5d257fd5ec79843d618"  local MD5:  "2a63f6698600a640663e9da1f9223070"
-   16.203 D Finished  "http://resources.download.minecraft.net/3f/3f0a1aea8af9451493927ecb8a18997881ad0e2f"  got  "113926e039d400451b2c9d8986e9c232"
-   16.203 D Downloading  "http://resources.download.minecraft.net/97/9795a729f333a3bbb269959fc21bde2731c474fc"  local MD5:  "a098b620b73966e77f36bd6fbcd009ab"
-   16.206 D Finished  "http://resources.download.minecraft.net/b0/b09ad1252f8d849367a1a7455cd97493287aefa7"  got  "290b8577bcdd4fac7e619a921362a282"
-   16.206 D Downloading  "http://resources.download.minecraft.net/72/729b2c09d5c588787b23127eeda2730f9c039194"  local MD5:  "b1951db4655b92d4ef0c1beb140bb178"
-   16.209 D Finished  "http://resources.download.minecraft.net/cc/cc96acd7c25af238059cbab1107648f8964648b6"  got  "eceaf0651430cc530cd781c19aa92a6e"
-   16.209 D Downloading  "http://resources.download.minecraft.net/f2/f2e1dc557bcea55b34430723dfb4e33120a2dda0"  local MD5:  "fe13e6a45ce603667bcf61dc79e6ee8a"
-   16.215 D Finished  "http://resources.download.minecraft.net/33/332edac716a96977e2bb5a7995b7139dac08edda"  got  "3412465ba2378bf86afb6489159c9831"
-   16.215 D Downloading  "http://resources.download.minecraft.net/37/37fb8e6e0b534c33bdaabb8d083c48a323858e8c"  local MD5:  "3731b50e04c1ba7d61b78c5eac6097b8"
-   16.216 D Finished  "http://resources.download.minecraft.net/7b/7b52463b2df4685d2d82c5d257fd5ec79843d618"  got  "9a2297cabb116b22c87239a37a85267b"
-   16.217 D Downloading  "http://resources.download.minecraft.net/cb/cb94fec6672af40f5418fec044d32990ee96d7b9"  local MD5:  "1aeb495e80e2384228409b07139f4095"
-   16.220 D Finished  "http://resources.download.minecraft.net/8a/8a0664c68ad24590ad5836fe237f41275df25b5d"  got  "fbf2aaa7980ebff72918915ad74085d5"
-   16.220 D Downloading  "http://resources.download.minecraft.net/c2/c2d8994702c664a9bedd4f1961c585507752c7d2"  local MD5:  "6c10c699215346b523b9ff4b5ec61015"
-   16.241 D Finished  "http://resources.download.minecraft.net/97/9795a729f333a3bbb269959fc21bde2731c474fc"  got  "fc56c43224e46a7eab5e8e961f0e111d"
-   16.242 D Downloading  "http://resources.download.minecraft.net/f3/f300aa5e8f7b943f9b8e2a901e2d4fb8f7b83295"  local MD5:  "5b642dfa0687862828d622592127f30c"
-   16.246 D Finished  "http://resources.download.minecraft.net/72/729b2c09d5c588787b23127eeda2730f9c039194"  got  "edb4925a2c90dcc505f02ad07041ed46"
-   16.247 D Downloading  "http://resources.download.minecraft.net/71/710afa6f2c33e1b7de74c260f1258337c19e6779"  local MD5:  "d34e6432ed5eb84fa16ae0c443bf223f"
-   16.247 D Finished  "http://resources.download.minecraft.net/f2/f2e1dc557bcea55b34430723dfb4e33120a2dda0"  got  "34e9a05c72b8fa752c1d6aac2cf9d8bd"
-   16.247 D Downloading  "http://resources.download.minecraft.net/ac/acfe947c1219eb7493130442ef184dc8025e8191"  local MD5:  "4ff62cd62b5516f3e733cf391482a4b3"
-   16.254 D Finished  "http://resources.download.minecraft.net/c2/c2d8994702c664a9bedd4f1961c585507752c7d2"  got  "32d5c269fbe3051b6402e527f8d1ea25"
-   16.255 D Downloading  "http://resources.download.minecraft.net/f3/f3f2bc5d9de49c43f1d65ddcfc4619ea43095d13"  local MD5:  "7e7493f29f716bc5a061f227069a49c3"
-   16.255 D Finished  "http://resources.download.minecraft.net/37/37fb8e6e0b534c33bdaabb8d083c48a323858e8c"  got  "35bed765897c56433765d513971a786a"
-   16.255 D Downloading  "http://resources.download.minecraft.net/de/de6c2b919476b9ba40a81fa54cc149cfcc1e25ac"  local MD5:  "777451d75a94d6c562dc4cf7b6b3bcf4"
-   16.256 D Finished  "http://resources.download.minecraft.net/cb/cb94fec6672af40f5418fec044d32990ee96d7b9"  got  "5d3398840191d78b27195b51427576ff"
-   16.256 D Downloading  "http://resources.download.minecraft.net/2d/2dcc88a24fcc775602cb622006b02862d865def8"  local MD5:  "e56622feaa0299549a3a872f33e26e80"
-   16.276 D Finished  "http://resources.download.minecraft.net/f3/f300aa5e8f7b943f9b8e2a901e2d4fb8f7b83295"  got  "44642386c7c4474285ff85f6af7e96ee"
-   16.276 D Downloading  "http://resources.download.minecraft.net/8a/8a1963013018a8f53d6a72376a5b265c0d2e5ec7"  local MD5:  "accc8bac313ea2555f58562927b1a0f6"
-   16.285 D Finished  "http://resources.download.minecraft.net/71/710afa6f2c33e1b7de74c260f1258337c19e6779"  got  "795917962861c0240c587743fc9b19b9"
-   16.285 D Downloading  "http://resources.download.minecraft.net/72/720c15d04d7be115daf19b024a37b498b6f7730e"  local MD5:  "56e45a20ee4e3cd28db3d79e3b58ffc8"
-   16.288 D Finished  "http://resources.download.minecraft.net/de/de6c2b919476b9ba40a81fa54cc149cfcc1e25ac"  got  "2d27aad1196fed5d02db2eea8952ef33"
-   16.289 D Downloading  "http://resources.download.minecraft.net/a4/a448ca104c51d6934dd669ddac2ef03c0d35695f"  local MD5:  "dd88c801f2bf3225003afe7424d21a5d"
-   16.289 D Finished  "http://resources.download.minecraft.net/2d/2dcc88a24fcc775602cb622006b02862d865def8"  got  "82e6c99573cf84df3d660fcfaa294f4e"
-   16.289 D Downloading  "http://resources.download.minecraft.net/01/017c25f046e93918d0591bdd9628eb767494c8fd"  local MD5:  "af6eab56ee122c1dcf6e4a9481df697f"
-   16.293 D Finished  "http://resources.download.minecraft.net/f3/f3f2bc5d9de49c43f1d65ddcfc4619ea43095d13"  got  "c3ff08f1646f0001451cb45f256f221c"
-   16.293 D Downloading  "http://resources.download.minecraft.net/13/131da513b18868576c3eed5c3921a36c6fa15e45"  local MD5:  "cf632599f17f77ff91e868d4aa31f857"
-   16.293 D Finished  "http://resources.download.minecraft.net/ac/acfe947c1219eb7493130442ef184dc8025e8191"  got  "949ce9731d2dec14dc52039e2f91d4c6"
-   16.294 D Downloading  "http://resources.download.minecraft.net/fd/fde655cdabb7140e657ed69315579c210c43031e"  local MD5:  "e4bcd42e405b6eda7b8916573b454c43"
-   16.307 D Finished  "http://resources.download.minecraft.net/8a/8a1963013018a8f53d6a72376a5b265c0d2e5ec7"  got  "1c9f862f78b816ed03c3b31b01b922ff"
-   16.307 D Downloading  "http://resources.download.minecraft.net/ed/edf3b3dd02931f1630c3663c6d5082a71da4fe9c"  local MD5:  "14348c20e0da4f56b97db6f8d43ffaa4"
-   16.318 D Finished  "http://resources.download.minecraft.net/72/720c15d04d7be115daf19b024a37b498b6f7730e"  got  "2b25a9413367ba98c485952f10a04841"
-   16.319 D Downloading  "http://resources.download.minecraft.net/56/5633f7496870e805b35ca06777de782f49160347"  local MD5:  "56de2a58beddc98242a7e6933834f27b"
-   16.321 D Finished  "http://resources.download.minecraft.net/a4/a448ca104c51d6934dd669ddac2ef03c0d35695f"  got  "51d84c6ebd1090b8a71a8ecebebf4821"
-   16.322 D Downloading  "http://resources.download.minecraft.net/f5/f57f766c0266d36d7fa8efb006aaa95fcd645a36"  local MD5:  "e365d9ca267be1f4a5c85f4211d1ab93"
-   16.327 D Finished  "http://resources.download.minecraft.net/13/131da513b18868576c3eed5c3921a36c6fa15e45"  got  "bda1cdd1b000e084e34ac44778c2f165"
-   16.327 D Downloading  "http://resources.download.minecraft.net/e6/e6cbbdefe6ce1fa4d5eb3387b097e1c24b3258ab"  local MD5:  "feb9fc5c7786af0e7e4c5d16063d03b6"
-   16.327 D Finished  "http://resources.download.minecraft.net/01/017c25f046e93918d0591bdd9628eb767494c8fd"  got  "93e19fd5ddf4d337055433510054ec13"
-   16.328 D Downloading  "http://resources.download.minecraft.net/8a/8a0e1c7158c4c610eda89658128fe6cc7d6d8110"  local MD5:  "bf6f2cfd917a69b10a2d9d95d165b833"
-   16.330 D Finished  "http://resources.download.minecraft.net/fd/fde655cdabb7140e657ed69315579c210c43031e"  got  "d6bc94a11283235ee0a4b944f30c1e05"
-   16.330 D Downloading  "http://resources.download.minecraft.net/2b/2bc6dcd491a02649614e5ffee81958b1e8bdf813"  local MD5:  "b0cc0079b2000ad07d6844358db6d111"
-   16.340 D Finished  "http://resources.download.minecraft.net/ed/edf3b3dd02931f1630c3663c6d5082a71da4fe9c"  got  "7eb7bde3e0bfaf292b679a920a34e09a"
-   16.340 D Downloading  "http://resources.download.minecraft.net/8c/8c791963f3d67ee14e3f084da3d7a14c2b99fc6c"  local MD5:  "3c8c76deba8abbe75e4e7fd654a543f5"
-   16.350 D Finished  "http://resources.download.minecraft.net/56/5633f7496870e805b35ca06777de782f49160347"  got  "014773316c9532ce8d5d06a6f86b7f9e"
-   16.351 D Downloading  "http://resources.download.minecraft.net/dd/ddd313e9466974aff2b0e39edd819954edaa63f1"  local MD5:  "8077da7eb613cee8551ac2d14098eefe"
-   16.356 D Finished  "http://resources.download.minecraft.net/f5/f57f766c0266d36d7fa8efb006aaa95fcd645a36"  got  "d1cb11efbd9888237182901b5368088e"
-   16.356 D Downloading  "http://resources.download.minecraft.net/02/022b14caa9cdc6d43bec35792b9be19e3ad7c909"  local MD5:  "b018317f0aef3dcfef9706f5a201f1ec"
-   16.359 D Finished  "http://resources.download.minecraft.net/e6/e6cbbdefe6ce1fa4d5eb3387b097e1c24b3258ab"  got  "dfacec646c0e58ba58ba98de8f8055bf"
-   16.359 D Downloading  "http://resources.download.minecraft.net/68/685f29bcdcc62c0c58f4d137d30fcc40123411f4"  local MD5:  "544d8ed71a8919f97e3b253eee456e9c"
-   16.362 D Finished  "http://resources.download.minecraft.net/8a/8a0e1c7158c4c610eda89658128fe6cc7d6d8110"  got  "0623e313103f1d2d9c91077e9eea919b"
-   16.362 D Downloading  "http://resources.download.minecraft.net/8a/8a6901092669cae60fa67c2a62c5e9c4548fd056"  local MD5:  "3108d95ad380bb2e1587c78bd7426b93"
-   16.365 D Finished  "http://resources.download.minecraft.net/2b/2bc6dcd491a02649614e5ffee81958b1e8bdf813"  got  "4c52b3445d7dcbcc9bd46ff96fd5d6b1"
-   16.365 D Downloading  "http://resources.download.minecraft.net/c7/c75f27495baf4b0374fcece255d665d1cbbbebbd"  local MD5:  "8b438bc431633501b3082b304a2d8bcf"
-   16.372 D Finished  "http://resources.download.minecraft.net/8c/8c791963f3d67ee14e3f084da3d7a14c2b99fc6c"  got  "2758c3fd388c8660a7cca9ffe62bf367"
-   16.372 D Downloading  "http://resources.download.minecraft.net/74/74d3924ddd105231713694303a9c7ce070b58f9a"  local MD5:  "2742afb0eb8e075c69dabf40fe618f6c"
-   16.378 D Finished  "http://resources.download.minecraft.net/dd/ddd313e9466974aff2b0e39edd819954edaa63f1"  got  "9688606195c45377d59356b67db1a092"
-   16.378 D Downloading  "http://resources.download.minecraft.net/c5/c5cc8bd843d90b8ab4fec12a1ab023c1c1ce7afb"  local MD5:  "92a192ae20f348d352745a1f343569d2"
-   16.387 D Finished  "http://resources.download.minecraft.net/02/022b14caa9cdc6d43bec35792b9be19e3ad7c909"  got  "c2781cff6bda59987c1c1e91b3b941b3"
-   16.387 D Downloading  "http://resources.download.minecraft.net/84/84fa71ecc0af0dba3f20afa2d59e428c304367c6"  local MD5:  "563c94134b2ab16c7647e86dce596605"
-   16.390 D Finished  "http://resources.download.minecraft.net/68/685f29bcdcc62c0c58f4d137d30fcc40123411f4"  got  "a35277fbbb3f4475a1e03e78e26e0acb"
-   16.390 D Downloading  "http://resources.download.minecraft.net/66/66464e3f372f6abd434a27fbff7c03a729ebe9ac"  local MD5:  "908d01347b8f55905b8766f017746cf7"
-   16.394 D Finished  "http://resources.download.minecraft.net/8a/8a6901092669cae60fa67c2a62c5e9c4548fd056"  got  "953f7ad8f2bcebc6c8e3100e80d5e18f"
-   16.394 D Downloading  "http://resources.download.minecraft.net/ac/ac61acec46bb72c4e11b3fbe8317bd593d3c2120"  local MD5:  "9175a2a0e60b3f97488f70281a16d32f"
-   16.396 D Finished  "http://resources.download.minecraft.net/c7/c75f27495baf4b0374fcece255d665d1cbbbebbd"  got  "86ee30a41f0bad30aa0fc0e398df40e8"
-   16.396 D Downloading  "http://resources.download.minecraft.net/4c/4ccb3009e24e1cc0bffe18f544e6fc7ae3cd3b64"  local MD5:  "c91416b975a5550a86d7f5d4e4c8e70e"
-   16.404 D Finished  "http://resources.download.minecraft.net/74/74d3924ddd105231713694303a9c7ce070b58f9a"  got  "d3577d3241e2b063e8764204e25bfe15"
-   16.404 D Downloading  "http://resources.download.minecraft.net/a7/a7602156ac3a8a41e42b833fefafbe80f9914fd5"  local MD5:  "1cd4cbf9a4480e4855d5a16e72cad82f"
-   16.411 D Finished  "http://resources.download.minecraft.net/c5/c5cc8bd843d90b8ab4fec12a1ab023c1c1ce7afb"  got  "9a1fe85d863d519417339fdf54127bb4"
-   16.412 D Downloading  "http://resources.download.minecraft.net/3f/3f41ed39706e90a4babec03798387b38028be639"  local MD5:  "df2ebc4533d6a629fd5199c83acd0bcf"
-   16.419 D Finished  "http://resources.download.minecraft.net/84/84fa71ecc0af0dba3f20afa2d59e428c304367c6"  got  "fb085eee0ac08a582f163c366f71c4a7"
-   16.419 D Downloading  "http://resources.download.minecraft.net/14/147c0bfa040f23f8ffa6a0fe649d7d8f8c8aa303"  local MD5:  "1e537949f869dea3972dda864d968605"
-   16.422 D Finished  "http://resources.download.minecraft.net/66/66464e3f372f6abd434a27fbff7c03a729ebe9ac"  got  "b71718718912e2add04748cee21c6eee"
-   16.422 D Downloading  "http://resources.download.minecraft.net/16/16f20c44b1662917db565be399caf1d68e020430"  local MD5:  "2284ac1323144cb7a1edcece39a69682"
-   16.424 D Finished  "http://resources.download.minecraft.net/ac/ac61acec46bb72c4e11b3fbe8317bd593d3c2120"  got  "9c45c35064b22afca11964b17cf74e20"
-   16.424 D Downloading  "http://resources.download.minecraft.net/15/158ecc0a1b876b4f3c020288e492b2b7cddbd343"  local MD5:  "32881d614cf1df0884aeffbebc850f83"
-   16.426 D Finished  "http://resources.download.minecraft.net/4c/4ccb3009e24e1cc0bffe18f544e6fc7ae3cd3b64"  got  "61e57c11a5c862355bdbad92b2f2a751"
-   16.426 D Downloading  "http://resources.download.minecraft.net/5f/5f839c343f353936498507a4f3da78ebf69182d0"  local MD5:  "c6f3578904ca636da0c0f428927d45c4"
-   16.437 D Finished  "http://resources.download.minecraft.net/a7/a7602156ac3a8a41e42b833fefafbe80f9914fd5"  got  "71cfe0e8d5c37c4c10cfb7e57522f426"
-   16.437 D Downloading  "http://resources.download.minecraft.net/84/84e6480d18c99ad57099ae117a2f028c412bbb2b"  local MD5:  "594b2a5856b85ed529f7c9c014f531ef"
-   16.440 D Finished  "http://resources.download.minecraft.net/3f/3f41ed39706e90a4babec03798387b38028be639"  got  "abca33133f0acd84d72dd3af232f5f23"
-   16.440 D Downloading  "http://resources.download.minecraft.net/5c/5c2894bb6941070ff3a014004326cc05dda28901"  local MD5:  "642494122b0f93b913df492544cb468b"
-   16.449 D Finished  "http://resources.download.minecraft.net/14/147c0bfa040f23f8ffa6a0fe649d7d8f8c8aa303"  got  "eae7459fd5dacb218bb634e4e4d14cce"
-   16.449 D Downloading  "http://resources.download.minecraft.net/83/8349f016bd3d5b42f45dc12d7e0adfb300e245c3"  local MD5:  "956a28b03077161c0c741fc3d444e56b"
-   16.454 D Finished  "http://resources.download.minecraft.net/15/158ecc0a1b876b4f3c020288e492b2b7cddbd343"  got  "e1a410a1c4882133e79d8cba2e491708"
-   16.454 D Downloading  "http://resources.download.minecraft.net/bc/bc4277498220c42b9b6266310c3616793aa17ae3"  local MD5:  "657261a9ef5c8af008f2278453f21d05"
-   16.459 D Finished  "http://resources.download.minecraft.net/16/16f20c44b1662917db565be399caf1d68e020430"  got  "b70e83159c1f2df23d9c7d6b7636c225"
-   16.459 D Downloading  "http://resources.download.minecraft.net/43/431d3ec2c3a969d30f982dda71ff3e9cec17d399"  local MD5:  "602dd5f53a16ff863d80df13b0f83584"
-   16.470 D Finished  "http://resources.download.minecraft.net/5f/5f839c343f353936498507a4f3da78ebf69182d0"  got  "96f06895e473174400d4f1ee66635e6b"
-   16.470 D Downloading  "http://resources.download.minecraft.net/d9/d914f93e28eea9d7ccc225064c74147d993142b8"  local MD5:  "b3a487ab147677772c55a0527cb36cb3"
-   16.477 D Finished  "http://resources.download.minecraft.net/84/84e6480d18c99ad57099ae117a2f028c412bbb2b"  got  "db3f0f50980e73273f6c0a0e31c8d657"
-   16.477 D Downloading  "http://resources.download.minecraft.net/a5/a568ea57eeca8e9494837d7eda1ea2ed362186cc"  local MD5:  "8c1490dafc310d3b4d9700382e6d6984"
-   16.477 D Finished  "http://resources.download.minecraft.net/5c/5c2894bb6941070ff3a014004326cc05dda28901"  got  "9c49caeeb58c92fb3983eb821ff392a5"
-   16.478 D Downloading  "http://resources.download.minecraft.net/1c/1c5095ce89d18162efa0cb42a5a91f8b4d970449"  local MD5:  "468ce2d11d19184ca984973bbcdd9f5f"
-   16.479 D Finished  "http://resources.download.minecraft.net/83/8349f016bd3d5b42f45dc12d7e0adfb300e245c3"  got  "914ad19aa38fd9dc8644cf68bf12ee74"
-   16.479 D Downloading  "http://resources.download.minecraft.net/89/89e887e58fb533f7dcbbbcafabbe1e8051a4c6ca"  local MD5:  "b43b89ebbe5eff4ed33588a597bee4e6"
-   16.486 D Finished  "http://resources.download.minecraft.net/bc/bc4277498220c42b9b6266310c3616793aa17ae3"  got  "19ab92dd949ccd8642bba7e5ad1ffa49"
-   16.486 D Downloading  "http://resources.download.minecraft.net/9e/9e17737e7bc35766f674bf4b56be14a119fd09f5"  local MD5:  "80eabf3d0231126b581c9dbd55abba18"
-   16.490 D Finished  "http://resources.download.minecraft.net/43/431d3ec2c3a969d30f982dda71ff3e9cec17d399"  got  "87cc3cddbaf74db79c1b4d791930a37f"
-   16.490 D Downloading  "http://resources.download.minecraft.net/23/23e46a6151e9ef8cf970df137f914ecfedef97f7"  local MD5:  "0c644842b7e200e2f9c0071aa3aafcd4"
-   16.506 D Finished  "http://resources.download.minecraft.net/a5/a568ea57eeca8e9494837d7eda1ea2ed362186cc"  got  "6563fff77eb53c2abf8e05935cddc81d"
-   16.507 D Downloading  "http://resources.download.minecraft.net/6a/6a69ee43b781f9b05d9965da7a7dd1adb9d3d4b4"  local MD5:  "dc220403289a5228384a9fbc9ff7cc3a"
-   16.512 D Finished  "http://resources.download.minecraft.net/1c/1c5095ce89d18162efa0cb42a5a91f8b4d970449"  got  "94609c4a2e20891606c43d6b7f856b60"
-   16.512 D Downloading  "http://resources.download.minecraft.net/78/78ffefc12f41ac971ee33ba5f30bc1a12788bb9e"  local MD5:  "e235eff3facc8dfe93d3cca27d52fe3e"
-   16.512 D Finished  "http://resources.download.minecraft.net/89/89e887e58fb533f7dcbbbcafabbe1e8051a4c6ca"  got  "32b833e445f873b027b185a870fae15c"
-   16.512 D Downloading  "http://resources.download.minecraft.net/9b/9b84cea77437d7af38d50695543791cc5d9908ae"  local MD5:  "93a40ad6b45866a210bea3d93369905c"
-   16.515 D Finished  "http://resources.download.minecraft.net/d9/d914f93e28eea9d7ccc225064c74147d993142b8"  got  "d91f654bc9bcf075bf31d91565045186"
-   16.515 D Downloading  "http://resources.download.minecraft.net/b7/b7312c5ef37ea6e0f7b51c18c9a53d53da0c9468"  local MD5:  "6d0ec25a5f6f66438a2dbd6d7d3d3b1f"
-   16.520 D Finished  "http://resources.download.minecraft.net/23/23e46a6151e9ef8cf970df137f914ecfedef97f7"  got  "733c582bfd37fc488949c0810e248a65"
-   16.521 D Downloading  "http://resources.download.minecraft.net/90/908cb8d352d2456ba427530dc242ff6dfa319780"  local MD5:  "ccabcf9a9140d359c6c24bd76487a099"
-   16.523 D Finished  "http://resources.download.minecraft.net/9e/9e17737e7bc35766f674bf4b56be14a119fd09f5"  got  "95a9ea18b636313120cb55b8ead737df"
-   16.523 D Downloading  "http://resources.download.minecraft.net/d3/d304de107112235ae44caf7f856f8bc668909146"  local MD5:  "d68905b2a2155dcd5986e22f831c63ec"
-   16.541 D Finished  "http://resources.download.minecraft.net/6a/6a69ee43b781f9b05d9965da7a7dd1adb9d3d4b4"  got  "dc7d7b6705c277926c7e33acdc3f2f9c"
-   16.541 D Downloading  "http://resources.download.minecraft.net/6d/6d2d486beeecb68f3f1d0d884a11f47097e59457"  local MD5:  "7a3011eb83756a8b8e2531941bad0919"
-   16.545 D Finished  "http://resources.download.minecraft.net/9b/9b84cea77437d7af38d50695543791cc5d9908ae"  got  "509fe4196b2310fd1e35fef60221a1a6"
-   16.546 D Downloading  "http://resources.download.minecraft.net/ee/eeb9546344f37e2b8b48d0c7a173d677443aba4e"  local MD5:  "cf40fd4a7ae909aeece5236bbcb6c736"
-   16.549 D Finished  "http://resources.download.minecraft.net/78/78ffefc12f41ac971ee33ba5f30bc1a12788bb9e"  got  "9fb87490fe2a96bd4ccd112c6f425bb3"
-   16.549 D Downloading  "http://resources.download.minecraft.net/bd/bd27bbd59ddc25ae24e1e5102b43ec7abe66fc3d"  local MD5:  "8dc9083dd22038c42a8caa3528932376"
-   16.558 D Finished  "http://resources.download.minecraft.net/b7/b7312c5ef37ea6e0f7b51c18c9a53d53da0c9468"  got  "5cc1e09e0415a3d883582aa1dee22903"
-   16.558 D Downloading  "http://resources.download.minecraft.net/c7/c73ea4893d2b64c11036209e7782e7fb005934ef"  local MD5:  "a59a41d9e3c85f1914094e0dd4d16031"
-   16.559 D Finished  "http://resources.download.minecraft.net/90/908cb8d352d2456ba427530dc242ff6dfa319780"  got  "6be6b010f12f322a60213936c520c313"
-   16.559 D Downloading  "http://resources.download.minecraft.net/ce/ceae6cbd84813981937687c00b911ba385416fd6"  local MD5:  "27b2c4ce562be6c23decf09b5683cd51"
-   16.562 D Finished  "http://resources.download.minecraft.net/d3/d304de107112235ae44caf7f856f8bc668909146"  got  "258668afded89832ffac0d0ee456a671"
-   16.562 D Downloading  "http://resources.download.minecraft.net/07/07711734555b8c1c1e0f1555f9090309a69a3a1b"  local MD5:  "d06bb604336917b2c220fa42cf83f888"
-   16.575 D Finished  "http://resources.download.minecraft.net/6d/6d2d486beeecb68f3f1d0d884a11f47097e59457"  got  "7f6b455bf5dc835caa16d51ac4bfa0c0"
-   16.585 D Finished  "http://resources.download.minecraft.net/ee/eeb9546344f37e2b8b48d0c7a173d677443aba4e"  got  "0b7f9e7a7f17f75e0f4f026018856705"
-   16.586 D Finished  "http://resources.download.minecraft.net/bd/bd27bbd59ddc25ae24e1e5102b43ec7abe66fc3d"  got  "8b5f6227e4f782720e6355c6c6237f32"
-   16.589 D Finished  "http://resources.download.minecraft.net/ce/ceae6cbd84813981937687c00b911ba385416fd6"  got  "efb675a93cc6e1a3dd6a4e366094cbe6"
-   16.594 D Finished  "http://resources.download.minecraft.net/c7/c73ea4893d2b64c11036209e7782e7fb005934ef"  got  "08cd723f4e48db1e06c118e6446b94b5"
-   16.595 D Finished  "http://resources.download.minecraft.net/07/07711734555b8c1c1e0f1555f9090309a69a3a1b"  got  "7eef4d12e7b9b866dcfc393acfdae1df"
-   16.595 D "Assets for Project Ozone 2" succeeded.
-   16.595 D Task succeeded
-   16.595 D Task succeeded
-   16.595 D Task succeeded
-   16.614 C BAD stuff happened to mod json:
-   16.614 C "{
+   49.979 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+   49.985 D Env:  "ALLUSERSPROFILE" "C:\ProgramData"
+   49.985 D Env:  "FPS_BROWSER_USER_PROFILE_STRING" "Default"
+   49.985 D Env:  "USERNAME" "Baer Ackerman MD"
+   49.985 D Env:  "=::" "::\"
+   49.985 D Env:  "ProgramData" "C:\ProgramData"
+   49.985 D Env:  "PUBLIC" "C:\Users\Public"
+   49.985 D Env:  "SESSIONNAME" "Console"
+   49.985 D Env:  "ProgramW6432" "C:\Program Files"
+   49.985 D Env:  "ProgramFiles" "C:\Program Files (x86)"
+   49.985 D Env:  "__COMPAT_LAYER" "DetectorsWin8"
+   49.985 D Env:  "TMP" "C:\Users\BAERAC~1\AppData\Local\Temp"
+   49.985 D Env:  "PSModulePath" "C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"
+   49.985 D Env:  "asl.log" "Destination=file"
+   49.985 D Env:  "HOMEDRIVE" "C:"
+   49.985 D Env:  "windir" "C:\WINDOWS"
+   49.985 D Env:  "Path" "C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;"C:\Program Files\Java\jre1.8.0_51\bin";C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd"
+   49.985 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+   49.985 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+   49.985 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+   49.986 D Env:  "USERPROFILE" "C:\Users\Baer Ackerman MD"
+   49.986 D Env:  "TEMP" "C:\Users\BAERAC~1\AppData\Local\Temp"
+   49.986 D Env:  "HOMEPATH" "\Users\Baer Ackerman MD"
+   49.986 D Env:  "CommonProgramFiles" "C:\Program Files (x86)\Common Files"
+   49.986 D Env:  "PROCESSOR_IDENTIFIER" "AMD64 Family 21 Model 2 Stepping 0, AuthenticAMD"
+   49.986 D Env:  "SystemDrive" "C:"
+   49.986 D Env:  "USERDOMAIN" "Baer"
+   49.986 D Env:  "PROCESSOR_REVISION" "0200"
+   49.986 D Env:  "NUMBER_OF_PROCESSORS" "4"
+   49.986 D Env:  "LOGONSERVER" "\\BAER"
+   49.986 D Env:  "OS" "Windows_NT"
+   49.986 D Env:  "FPS_BROWSER_APP_PROFILE_STRING" "Internet Explorer"
+   49.986 D Env:  "SystemRoot" "C:\WINDOWS"
+   49.986 D Env:  "CommonProgramW6432" "C:\Program Files\Common Files"
+   49.986 D Env:  "APPDATA" "C:\Users\Baer Ackerman MD\AppData\Roaming"
+   49.986 D Env:  "ComSpec" "C:\WINDOWS\system32\cmd.exe"
+   49.986 D Env:  "USERDOMAIN_ROAMINGPROFILE" "Baer"
+   49.986 D Env:  "FP_NO_HOST_CHECK" "NO"
+   49.986 D Env:  "PROCESSOR_LEVEL" "21"
+   49.986 D Env:  "COMPUTERNAME" "BAER"
+   49.986 D Env:  "ProgramFiles(x86)" "C:\Program Files (x86)"
+   49.986 D Env:  "LOCALAPPDATA" "C:\Users\Baer Ackerman MD\AppData\Local"
+   49.986 D Env:  "CommonProgramFiles(x86)" "C:\Program Files (x86)\Common Files"
+   60.091 D "Status JSON"  started.
+   60.091 D Downloading  "http://status.mojang.com/check"
+   60.152 D "Status JSON" succeeded.
+   60.152 D Task succeeded
+   60.152 D Finished loading status JSON.
+   60.152 D Status loading succeeded.
+  120.090 D "Status JSON"  started.
+  120.090 D Downloading  "http://status.mojang.com/check"
+  120.146 D "Status JSON" succeeded.
+  120.146 D Task succeeded
+  120.146 D Finished loading status JSON.
+  120.146 D Status loading succeeded.
+  180.107 D "Status JSON"  started.
+  180.114 D Downloading  "http://status.mojang.com/check"
+  180.191 D "Status JSON" succeeded.
+  180.191 D Task succeeded
+  180.191 D Finished loading status JSON.
+  180.191 D Status loading succeeded.
+  240.089 D "Status JSON"  started.
+  240.089 D Downloading  "http://status.mojang.com/check"
+  240.150 D "Status JSON" succeeded.
+  240.150 D Task succeeded
+  240.150 D Finished loading status JSON.
+  240.151 D Status loading succeeded.
+  300.091 D "Status JSON"  started.
+  300.091 D Downloading  "http://status.mojang.com/check"
+  300.143 D "Status JSON" succeeded.
+  300.143 D Task succeeded
+  300.143 D Finished loading status JSON.
+  300.143 D Status loading succeeded.
+  360.091 D "Status JSON"  started.
+  360.091 D Downloading  "http://status.mojang.com/check"
+  360.153 D "Status JSON" succeeded.
+  360.153 D Task succeeded
+  360.153 D Finished loading status JSON.
+  360.153 D Status loading succeeded.
+  420.092 D "Status JSON"  started.
+  420.092 D Downloading  "http://status.mojang.com/check"
+  420.150 D "Status JSON" succeeded.
+  420.150 D Task succeeded
+  420.150 D Finished loading status JSON.
+  420.150 D Status loading succeeded.
+  480.092 D "Status JSON"  started.
+  480.092 D Downloading  "http://status.mojang.com/check"
+  480.153 D "Status JSON" succeeded.
+  480.153 D Task succeeded
+  480.153 D Finished loading status JSON.
+  480.153 D Status loading succeeded.
+  540.091 D "Status JSON"  started.
+  540.091 D Downloading  "http://status.mojang.com/check"
+  540.145 D "Status JSON" succeeded.
+  540.145 D Task succeeded
+  540.145 D Finished loading status JSON.
+  540.145 D Status loading succeeded.
+  600.090 D "Status JSON"  started.
+  600.090 D Downloading  "http://status.mojang.com/check"
+  600.147 D "Status JSON" succeeded.
+  600.147 D Task succeeded
+  600.147 D Finished loading status JSON.
+  600.147 D Status loading succeeded.
+  660.091 D "Status JSON"  started.
+  660.091 D Downloading  "http://status.mojang.com/check"
+  660.151 D "Status JSON" succeeded.
+  660.151 D Task succeeded
+  660.151 D Finished loading status JSON.
+  660.151 D Status loading succeeded.
+  720.093 D "Status JSON"  started.
+  720.093 D Downloading  "http://status.mojang.com/check"
+  720.154 D "Status JSON" succeeded.
+  720.154 D Task succeeded
+  720.154 D Finished loading status JSON.
+  720.154 D Status loading succeeded.
+  780.090 D "Status JSON"  started.
+  780.090 D Downloading  "http://status.mojang.com/check"
+  780.147 D "Status JSON" succeeded.
+  780.147 D Task succeeded
+  780.147 D Finished loading status JSON.
+  780.147 D Status loading succeeded.
+  840.091 D "Status JSON"  started.
+  840.091 D Downloading  "http://status.mojang.com/check"
+  840.150 D "Status JSON" succeeded.
+  840.150 D Task succeeded
+  840.150 D Finished loading status JSON.
+  840.150 D Status loading succeeded.
+  900.091 D "Status JSON"  started.
+  900.091 D Downloading  "http://status.mojang.com/check"
+  900.155 D "Status JSON" succeeded.
+  900.155 D Task succeeded
+  900.155 D Finished loading status JSON.
+  900.155 D Status loading succeeded.
+  960.092 D "Status JSON"  started.
+  960.092 D Downloading  "http://status.mojang.com/check"
+  960.145 D "Status JSON" succeeded.
+  960.145 D Task succeeded
+  960.145 D Finished loading status JSON.
+  960.145 D Status loading succeeded.
+  990.874 C Task failed:  "Game crashed."
+  991.136 C Task failed:  "Game crashed."
+  997.213 D Task succeeded
+  997.267 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/saves"
+  997.267 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/texturepacks"
+  997.268 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/resourcepacks"
+  997.268 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/coremods"
+  997.268 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/mods"
+ 1020.090 D "Status JSON"  started.
+ 1020.090 D Downloading  "http://status.mojang.com/check"
+ 1020.146 D "Status JSON" succeeded.
+ 1020.146 D Task succeeded
+ 1020.146 D Finished loading status JSON.
+ 1020.146 D Status loading succeeded.
+ 1028.934 D Processing authentication response.
+ 1028.935 D Getting new access token.
+ 1028.935 D Finished reading refresh response.
+ 1028.935 D Task succeeded
+ 1028.935 D Writing account list to "accounts.json"
+ 1028.935 D Building JSON data structure.
+ 1028.935 D Building account array.
+ 1028.935 D Writing account list to file.
+ 1028.936 D Saved account list to "accounts.json"
+ 1030.209 W Order file doesn't exist. Ignoring.
+ 1030.209 D Reading "net.minecraftforge.json"
+ 1030.238 W Order file doesn't exist. Ignoring.
+ 1030.238 D Reading "net.minecraftforge.json"
+ 1030.313 C BAD stuff happened to mod json:
+ 1030.313 C "{
   "modListVersion": 5,
   "modList": [{
     "modid": "aether",
@@ -588,454 +465,27 @@ java.version=1.8.0_91
   }]
 }
 "
-   16.958 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
-   16.962 D Env:  "windir" "C:\Windows"
-   16.962 D Env:  "FP_NO_HOST_CHECK" "NO"
-   16.962 D Env:  "SystemDrive" "C:"
-   16.962 D Env: ignoring "JAVA_HOME" "C:\Program Files\Java\jdk1.8.0_91"
-   16.962 D Env:  "SMLNJ_HOME" "C:\Program Files (x86)\SMLNJ\"
-   16.962 D Env:  "=H:" "H:\Installers"
-   16.962 D Env:  "USERPROFILE" "C:\Users\msh160130"
-   16.962 D Env:  "ANDROID_HOME" "C:\Android\sdk"
-   16.962 D Env:  "HOMEDRIVE" "H:"
-   16.962 D Env:  "ComSpec" "C:\Windows\system32\cmd.exe"
-   16.963 D Env:  "TMP" "C:\Users\MSH160~1\AppData\Local\Temp"
-   16.963 D Env:  "PROMPT" "$P$G"
-   16.963 D Env:  "PROCESSOR_REVISION" "5e03"
-   16.963 D Env:  "ALLUSERSPROFILE" "C:\ProgramData"
-   16.963 D Env:  "Path" "C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\CMake\bin;C:\Python35\Scripts\;C:\Python35\;C:\ProgramData\Oracle\Java\javapath;C:\MinGW\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\SMLNJ\bin\;ANDROID_HOME;C:\Android\sdk\tools;C:\Android\sdk\platform-tools;C:\Users\msh160130\.dnx\bin;C:\Program Files\Git\cmd"
-   16.963 D Env:  "USERDNSDOMAIN" "CAMPUS.AD.UTDALLAS.EDU"
-   16.963 D Env:  "ProgramData" "C:\ProgramData"
-   16.963 D Env:  "FTSDK_DIR" "C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\"
-   16.963 D Env:  "ProgramFiles" "C:\Program Files (x86)"
-   16.963 D Env:  "PROCESSOR_LEVEL" "6"
-   16.963 D Env:  "USERDOMAIN_ROAMINGPROFILE" "CAMPUS"
-   16.963 D Env:  "VS140COMNTOOLS" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\"
-   16.963 D Env:  "KINECTSDK10_DIR" "C:\Program Files\Microsoft SDKs\Kinect\v1.8\"
-   16.963 D Env:  "CommonProgramW6432" "C:\Program Files\Common Files"
-   16.963 D Env:  "HOMEPATH" "\"
-   16.963 D Env:  "windows_tracing_logfile" "C:\BVTBin\Tests\installpackage\csilogfile.log"
-   16.963 D Env:  "=ExitCode" "00000000"
-   16.963 D Env:  "=C:" "C:\Users\msh160130\Desktop\PO2-Portable"
-   16.963 D Env:  "CommonProgramFiles" "C:\Program Files (x86)\Common Files"
-   16.963 D Env:  "KINECT_TOOLKIT_DIR" "C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\"
-   16.963 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW"
-   16.963 D Env:  "CommonProgramFiles(x86)" "C:\Program Files (x86)\Common Files"
-   16.963 D Env:  "HOMESHARE" "\\mars.utdallas.edu\msh160130"
-   16.963 D Env:  "COMPUTERNAME" "CSLAB254051"
-   16.963 D Env:  "SystemRoot" "C:\Windows"
-   16.963 D Env:  "USERDOMAIN" "CAMPUS"
-   16.963 D Env:  "USERNAME" "msh160130"
-   16.963 D Env:  "LOGONSERVER" "\\CAMPUSDC11"
-   16.963 D Env:  "ProgramW6432" "C:\Program Files"
-   16.963 D Env:  "ProgramFiles(x86)" "C:\Program Files (x86)"
-   16.963 D Env:  "SESSIONNAME" "Console"
-   16.963 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel"
-   16.963 D Env:  "PUBLIC" "C:\Users\Public"
-   16.963 D Env:  "NUMBER_OF_PROCESSORS" "4"
-   16.963 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
-   16.963 D Env:  "APPDATA" "C:\Users\msh160130\AppData\Roaming"
-   16.963 D Env:  "PSModulePath" "C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\"
-   16.963 D Env:  "TEMP" "C:\Users\MSH160~1\AppData\Local\Temp"
-   16.963 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
-   16.963 D Env:  "windows_tracing_flags" "3"
-   16.963 D Env:  "OS" "Windows_NT"
-   16.963 D Env:  "LOCALAPPDATA" "C:\Users\msh160130\AppData\Local"
-   60.191 D "Status JSON"  started.
-   60.191 D Downloading  "http://status.mojang.com/check"
-   60.240 D "Status JSON" succeeded.
-   60.241 D Task succeeded
-   60.241 D Finished loading status JSON.
-   60.241 D Status loading succeeded.
-  120.257 D "Status JSON"  started.
-  120.257 D Downloading  "http://status.mojang.com/check"
-  120.305 D "Status JSON" succeeded.
-  120.305 D Task succeeded
-  120.306 D Finished loading status JSON.
-  120.306 D Status loading succeeded.
-  180.319 D "Status JSON"  started.
-  180.319 D Downloading  "http://status.mojang.com/check"
-  180.368 D "Status JSON" succeeded.
-  180.368 D Task succeeded
-  180.368 D Finished loading status JSON.
-  180.368 D Status loading succeeded.
-  240.380 D "Status JSON"  started.
-  240.380 D Downloading  "http://status.mojang.com/check"
-  240.429 D "Status JSON" succeeded.
-  240.429 D Task succeeded
-  240.429 D Finished loading status JSON.
-  240.429 D Status loading succeeded.
-  300.441 D "Status JSON"  started.
-  300.441 D Downloading  "http://status.mojang.com/check"
-  300.490 D "Status JSON" succeeded.
-  300.490 D Task succeeded
-  300.490 D Finished loading status JSON.
-  300.490 D Status loading succeeded.
-  360.504 D "Status JSON"  started.
-  360.504 D Downloading  "http://status.mojang.com/check"
-  360.553 D "Status JSON" succeeded.
-  360.553 D Task succeeded
-  360.553 D Finished loading status JSON.
-  360.553 D Status loading succeeded.
-  420.536 D "Status JSON"  started.
-  420.536 D Downloading  "http://status.mojang.com/check"
-  420.584 D "Status JSON" succeeded.
-  420.585 D Task succeeded
-  420.585 D Finished loading status JSON.
-  420.585 D Status loading succeeded.
-  480.569 D "Status JSON"  started.
-  480.569 D Downloading  "http://status.mojang.com/check"
-  480.621 D "Status JSON" succeeded.
-  480.621 D Task succeeded
-  480.621 D Finished loading status JSON.
-  480.621 D Status loading succeeded.
-  540.594 D "Status JSON"  started.
-  540.594 D Downloading  "http://status.mojang.com/check"
-  540.645 D "Status JSON" succeeded.
-  540.645 D Task succeeded
-  540.645 D Finished loading status JSON.
-  540.646 D Status loading succeeded.
-  600.620 D "Status JSON"  started.
-  600.620 D Downloading  "http://status.mojang.com/check"
-  600.669 D "Status JSON" succeeded.
-  600.670 D Task succeeded
-  600.670 D Finished loading status JSON.
-  600.670 D Status loading succeeded.
-  660.645 D "Status JSON"  started.
-  660.645 D Downloading  "http://status.mojang.com/check"
-  660.694 D "Status JSON" succeeded.
-  660.694 D Task succeeded
-  660.695 D Finished loading status JSON.
-  660.695 D Status loading succeeded.
-  720.671 D "Status JSON"  started.
-  720.671 D Downloading  "http://status.mojang.com/check"
-  720.719 D "Status JSON" succeeded.
-  720.719 D Task succeeded
-  720.719 D Finished loading status JSON.
-  720.719 D Status loading succeeded.
-  780.696 D "Status JSON"  started.
-  780.696 D Downloading  "http://status.mojang.com/check"
-  780.745 D "Status JSON" succeeded.
-  780.746 D Task succeeded
-  780.746 D Finished loading status JSON.
-  780.746 D Status loading succeeded.
-  840.717 D "Status JSON"  started.
-  840.717 D Downloading  "http://status.mojang.com/check"
-  840.768 D "Status JSON" succeeded.
-  840.768 D Task succeeded
-  840.768 D Finished loading status JSON.
-  840.768 D Status loading succeeded.
-  900.737 D "Status JSON"  started.
-  900.737 D Downloading  "http://status.mojang.com/check"
-  900.785 D "Status JSON" succeeded.
-  900.785 D Task succeeded
-  900.785 D Finished loading status JSON.
-  900.785 D Status loading succeeded.
-  960.756 D "Status JSON"  started.
-  960.756 D Downloading  "http://status.mojang.com/check"
-  960.804 D "Status JSON" succeeded.
-  960.804 D Task succeeded
-  960.804 D Finished loading status JSON.
-  960.804 D Status loading succeeded.
- 1020.776 D "Status JSON"  started.
- 1020.776 D Downloading  "http://status.mojang.com/check"
- 1020.825 D "Status JSON" succeeded.
- 1020.825 D Task succeeded
- 1020.825 D Finished loading status JSON.
- 1020.825 D Status loading succeeded.
- 1080.795 D "Status JSON"  started.
- 1080.795 D Downloading  "http://status.mojang.com/check"
- 1080.843 D "Status JSON" succeeded.
- 1080.843 D Task succeeded
- 1080.843 D Finished loading status JSON.
- 1080.843 D Status loading succeeded.
- 1140.815 D "Status JSON"  started.
- 1140.815 D Downloading  "http://status.mojang.com/check"
- 1140.865 D "Status JSON" succeeded.
- 1140.865 D Task succeeded
- 1140.865 D Finished loading status JSON.
- 1140.865 D Status loading succeeded.
- 1200.835 D "Status JSON"  started.
- 1200.835 D Downloading  "http://status.mojang.com/check"
- 1200.884 D "Status JSON" succeeded.
- 1200.884 D Task succeeded
- 1200.884 D Finished loading status JSON.
- 1200.884 D Status loading succeeded.
- 1260.855 D "Status JSON"  started.
- 1260.855 D Downloading  "http://status.mojang.com/check"
- 1260.904 D "Status JSON" succeeded.
- 1260.904 D Task succeeded
- 1260.904 D Finished loading status JSON.
- 1260.904 D Status loading succeeded.
- 1320.874 D "Status JSON"  started.
- 1320.874 D Downloading  "http://status.mojang.com/check"
- 1320.922 D "Status JSON" succeeded.
- 1320.922 D Task succeeded
- 1320.922 D Finished loading status JSON.
- 1320.922 D Status loading succeeded.
- 1380.894 D "Status JSON"  started.
- 1380.894 D Downloading  "http://status.mojang.com/check"
- 1380.943 D "Status JSON" succeeded.
- 1380.943 D Task succeeded
- 1380.943 D Finished loading status JSON.
- 1380.943 D Status loading succeeded.
- 1440.906 D "Status JSON"  started.
- 1440.906 D Downloading  "http://status.mojang.com/check"
- 1440.954 D "Status JSON" succeeded.
- 1440.954 D Task succeeded
- 1440.954 D Finished loading status JSON.
- 1440.954 D Status loading succeeded.
- 1500.920 D "Status JSON"  started.
- 1500.920 D Downloading  "http://status.mojang.com/check"
- 1500.968 D "Status JSON" succeeded.
- 1500.968 D Task succeeded
- 1500.968 D Finished loading status JSON.
- 1500.968 D Status loading succeeded.
- 1560.934 D "Status JSON"  started.
- 1560.934 D Downloading  "http://status.mojang.com/check"
- 1560.983 D "Status JSON" succeeded.
- 1560.983 D Task succeeded
- 1560.983 D Finished loading status JSON.
- 1560.983 D Status loading succeeded.
- 1620.948 D "Status JSON"  started.
- 1620.948 D Downloading  "http://status.mojang.com/check"
- 1620.997 D "Status JSON" succeeded.
- 1620.997 D Task succeeded
- 1620.997 D Finished loading status JSON.
- 1620.997 D Status loading succeeded.
- 1680.962 D "Status JSON"  started.
- 1680.962 D Downloading  "http://status.mojang.com/check"
- 1681.010 D "Status JSON" succeeded.
- 1681.010 D Task succeeded
- 1681.010 D Finished loading status JSON.
- 1681.010 D Status loading succeeded.
- 1740.974 D "Status JSON"  started.
- 1740.974 D Downloading  "http://status.mojang.com/check"
- 1741.025 D "Status JSON" succeeded.
- 1741.025 D Task succeeded
- 1741.025 D Finished loading status JSON.
- 1741.025 D Status loading succeeded.
- 1800.988 D "Status JSON"  started.
- 1800.988 D Downloading  "http://status.mojang.com/check"
- 1801.037 D "Status JSON" succeeded.
- 1801.037 D Task succeeded
- 1801.037 D Finished loading status JSON.
- 1801.038 D Status loading succeeded.
- 1861.001 D "Status JSON"  started.
- 1861.001 D Downloading  "http://status.mojang.com/check"
- 1861.049 D "Status JSON" succeeded.
- 1861.049 D Task succeeded
- 1861.049 D Finished loading status JSON.
- 1861.049 D Status loading succeeded.
- 1921.015 D "Status JSON"  started.
- 1921.015 D Downloading  "http://status.mojang.com/check"
- 1921.064 D "Status JSON" succeeded.
- 1921.064 D Task succeeded
- 1921.064 D Finished loading status JSON.
- 1921.064 D Status loading succeeded.
- 1981.029 D "Status JSON"  started.
- 1981.029 D Downloading  "http://status.mojang.com/check"
- 1981.078 D "Status JSON" succeeded.
- 1981.078 D Task succeeded
- 1981.079 D Finished loading status JSON.
- 1981.079 D Status loading succeeded.
- 2041.043 D "Status JSON"  started.
- 2041.043 D Downloading  "http://status.mojang.com/check"
- 2041.092 D "Status JSON" succeeded.
- 2041.092 D Task succeeded
- 2041.092 D Finished loading status JSON.
- 2041.092 D Status loading succeeded.
- 2101.056 D "Status JSON"  started.
- 2101.056 D Downloading  "http://status.mojang.com/check"
- 2101.104 D "Status JSON" succeeded.
- 2101.104 D Task succeeded
- 2101.104 D Finished loading status JSON.
- 2101.104 D Status loading succeeded.
- 2161.070 D "Status JSON"  started.
- 2161.070 D Downloading  "http://status.mojang.com/check"
- 2161.120 D "Status JSON" succeeded.
- 2161.120 D Task succeeded
- 2161.120 D Finished loading status JSON.
- 2161.120 D Status loading succeeded.
- 2221.084 D "Status JSON"  started.
- 2221.084 D Downloading  "http://status.mojang.com/check"
- 2221.132 D "Status JSON" succeeded.
- 2221.133 D Task succeeded
- 2221.133 D Finished loading status JSON.
- 2221.133 D Status loading succeeded.
- 2281.098 D "Status JSON"  started.
- 2281.098 D Downloading  "http://status.mojang.com/check"
- 2281.147 D "Status JSON" succeeded.
- 2281.147 D Task succeeded
- 2281.147 D Finished loading status JSON.
- 2281.147 D Status loading succeeded.
- 2341.111 D "Status JSON"  started.
- 2341.111 D Downloading  "http://status.mojang.com/check"
- 2341.159 D "Status JSON" succeeded.
- 2341.159 D Task succeeded
- 2341.159 D Finished loading status JSON.
- 2341.159 D Status loading succeeded.
- 2401.125 D "Status JSON"  started.
- 2401.125 D Downloading  "http://status.mojang.com/check"
- 2401.173 D "Status JSON" succeeded.
- 2401.173 D Task succeeded
- 2401.173 D Finished loading status JSON.
- 2401.173 D Status loading succeeded.
- 2461.137 D "Status JSON"  started.
- 2461.137 D Downloading  "http://status.mojang.com/check"
- 2461.186 D "Status JSON" succeeded.
- 2461.186 D Task succeeded
- 2461.186 D Finished loading status JSON.
- 2461.186 D Status loading succeeded.
- 2521.151 D "Status JSON"  started.
- 2521.151 D Downloading  "http://status.mojang.com/check"
- 2521.203 D "Status JSON" succeeded.
- 2521.203 D Task succeeded
- 2521.203 D Finished loading status JSON.
- 2521.203 D Status loading succeeded.
- 2581.166 D "Status JSON"  started.
- 2581.166 D Downloading  "http://status.mojang.com/check"
- 2581.215 D "Status JSON" succeeded.
- 2581.215 D Task succeeded
- 2581.215 D Finished loading status JSON.
- 2581.215 D Status loading succeeded.
- 2641.178 D "Status JSON"  started.
- 2641.178 D Downloading  "http://status.mojang.com/check"
- 2641.228 D "Status JSON" succeeded.
- 2641.228 D Task succeeded
- 2641.228 D Finished loading status JSON.
- 2641.228 D Status loading succeeded.
- 2701.192 D "Status JSON"  started.
- 2701.192 D Downloading  "http://status.mojang.com/check"
- 2701.240 D "Status JSON" succeeded.
- 2701.240 D Task succeeded
- 2701.240 D Finished loading status JSON.
- 2701.240 D Status loading succeeded.
- 2761.205 D "Status JSON"  started.
- 2761.205 D Downloading  "http://status.mojang.com/check"
- 2761.255 D "Status JSON" succeeded.
- 2761.255 D Task succeeded
- 2761.255 D Finished loading status JSON.
- 2761.255 D Status loading succeeded.
- 2821.219 D "Status JSON"  started.
- 2821.219 D Downloading  "http://status.mojang.com/check"
- 2821.280 D "Status JSON" succeeded.
- 2821.280 D Task succeeded
- 2821.280 D Finished loading status JSON.
- 2821.280 D Status loading succeeded.
- 2881.233 D "Status JSON"  started.
- 2881.233 D Downloading  "http://status.mojang.com/check"
- 2881.281 D "Status JSON" succeeded.
- 2881.281 D Task succeeded
- 2881.281 D Finished loading status JSON.
- 2881.281 D Status loading succeeded.
- 2941.246 D "Status JSON"  started.
- 2941.246 D Downloading  "http://status.mojang.com/check"
- 2941.294 D "Status JSON" succeeded.
- 2941.294 D Task succeeded
- 2941.294 D Finished loading status JSON.
- 2941.294 D Status loading succeeded.
- 3001.260 D "Status JSON"  started.
- 3001.260 D Downloading  "http://status.mojang.com/check"
- 3001.308 D "Status JSON" succeeded.
- 3001.308 D Task succeeded
- 3001.308 D Finished loading status JSON.
- 3001.308 D Status loading succeeded.
- 3061.273 D "Status JSON"  started.
- 3061.273 D Downloading  "http://status.mojang.com/check"
- 3061.323 D "Status JSON" succeeded.
- 3061.323 D Task succeeded
- 3061.323 D Finished loading status JSON.
- 3061.323 D Status loading succeeded.
- 3121.288 D "Status JSON"  started.
- 3121.288 D Downloading  "http://status.mojang.com/check"
- 3121.338 D "Status JSON" succeeded.
- 3121.338 D Task succeeded
- 3121.338 D Finished loading status JSON.
- 3121.338 D Status loading succeeded.
- 3181.300 D "Status JSON"  started.
- 3181.300 D Downloading  "http://status.mojang.com/check"
- 3181.351 D "Status JSON" succeeded.
- 3181.351 D Task succeeded
- 3181.351 D Finished loading status JSON.
- 3181.351 D Status loading succeeded.
- 3241.314 D "Status JSON"  started.
- 3241.314 D Downloading  "http://status.mojang.com/check"
- 3241.363 D "Status JSON" succeeded.
- 3241.363 D Task succeeded
- 3241.363 D Finished loading status JSON.
- 3241.363 D Status loading succeeded.
- 3301.329 D "Status JSON"  started.
- 3301.329 D Downloading  "http://status.mojang.com/check"
- 3301.384 D "Status JSON" succeeded.
- 3301.384 D Task succeeded
- 3301.384 D Finished loading status JSON.
- 3301.384 D Status loading succeeded.
- 3361.341 D "Status JSON"  started.
- 3361.341 D Downloading  "http://status.mojang.com/check"
- 3361.389 D "Status JSON" succeeded.
- 3361.389 D Task succeeded
- 3361.389 D Finished loading status JSON.
- 3361.389 D Status loading succeeded.
- 3421.355 D "Status JSON"  started.
- 3421.355 D Downloading  "http://status.mojang.com/check"
- 3421.404 D "Status JSON" succeeded.
- 3421.404 D Task succeeded
- 3421.404 D Finished loading status JSON.
- 3421.404 D Status loading succeeded.
- 3481.368 D "Status JSON"  started.
- 3481.368 D Downloading  "http://status.mojang.com/check"
- 3481.418 D "Status JSON" succeeded.
- 3481.418 D Task succeeded
- 3481.418 D Finished loading status JSON.
- 3481.418 D Status loading succeeded.
- 3541.382 D "Status JSON"  started.
- 3541.382 D Downloading  "http://status.mojang.com/check"
- 3541.433 D "Status JSON" succeeded.
- 3541.433 D Task succeeded
- 3541.433 D Finished loading status JSON.
- 3541.433 D Status loading succeeded.
- 3601.397 D "Status JSON"  started.
- 3601.397 D Downloading  "http://status.mojang.com/check"
- 3601.447 D "Status JSON" succeeded.
- 3601.447 D Task succeeded
- 3601.447 D Finished loading status JSON.
- 3601.447 D Status loading succeeded.
- 3651.913 C Task failed:  "Game crashed."
- 3651.929 C Task failed:  "Game crashed."
- 3661.409 D "Status JSON"  started.
- 3661.409 D Downloading  "http://status.mojang.com/check"
- 3661.459 D "Status JSON" succeeded.
- 3661.459 D Task succeeded
- 3661.459 D Finished loading status JSON.
- 3661.459 D Status loading succeeded.
- 3721.423 D "Status JSON"  started.
- 3721.423 D Downloading  "http://status.mojang.com/check"
- 3721.472 D "Status JSON" succeeded.
- 3721.472 D Task succeeded
- 3721.472 D Finished loading status JSON.
- 3721.472 D Status loading succeeded.
- 3755.429 D Task succeeded
- 3755.449 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/saves"
- 3755.449 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/texturepacks"
- 3755.450 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/resourcepacks"
- 3755.450 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/coremods"
- 3755.450 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/mods"
- 3757.294 D Processing authentication response.
- 3757.294 D Getting new access token.
- 3757.294 D Finished reading refresh response.
- 3757.294 D Task succeeded
- 3757.294 D Writing account list to "accounts.json"
- 3757.295 D Building JSON data structure.
- 3757.295 D Building account array.
- 3757.295 D Writing account list to file.
- 3757.295 D Saved account list to "accounts.json"
- 3757.374 W Order file doesn't exist. Ignoring.
- 3757.374 D Reading "net.minecraftforge.json"
- 3757.377 W Order file doesn't exist. Ignoring.
- 3757.377 D Reading "net.minecraftforge.json"
- 3757.395 C BAD stuff happened to mod json:
- 3757.395 C "{
+ 1031.796 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
+ 1031.832 D Task succeeded
+ 1031.833 D Task succeeded
+ 1031.834 D Task succeeded
+ 1031.835 D Instance either provides a version file or doesn't need an update.
+ 1031.835 D "Project Ozone 2" : downloading libraries
+ 1031.836 W Order file doesn't exist. Ignoring.
+ 1031.836 D Reading "net.minecraftforge.json"
+ 1031.846 D "Libraries for instance Project Ozone 2"  started.
+ 1031.884 D "Libraries for instance Project Ozone 2" succeeded.
+ 1031.884 D Task succeeded
+ 1031.885 D "Project Ozone 2" : Starting asset index download
+ 1031.885 D "Asset index for Project Ozone 2"  started.
+ 1031.918 D Downloading  "http://s3.amazonaws.com/Minecraft.Download/indexes/1.7.10.json"
+ 1032.088 D "Asset index for Project Ozone 2" succeeded.
+ 1032.088 D Task succeeded
+ 1032.088 D "Project Ozone 2" : Finished asset index download
+ 1032.232 D Task succeeded
+ 1032.232 D Task succeeded
+ 1032.279 C BAD stuff happened to mod json:
+ 1032.279 C "{
   "modListVersion": 5,
   "modList": [{
     "modid": "aether",
@@ -1054,656 +504,144 @@ java.version=1.8.0_91
   }]
 }
 "
- 3757.832 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
- 3757.849 D Task succeeded
- 3757.849 D Task succeeded
- 3757.850 D Task succeeded
- 3757.851 D Instance either provides a version file or doesn't need an update.
- 3757.851 D "Project Ozone 2" : downloading libraries
- 3757.851 W Order file doesn't exist. Ignoring.
- 3757.851 D Reading "net.minecraftforge.json"
- 3757.854 D "Libraries for instance Project Ozone 2"  started.
- 3757.866 D "Libraries for instance Project Ozone 2" succeeded.
- 3757.866 D Task succeeded
- 3757.866 D "Project Ozone 2" : Starting asset index download
- 3757.866 D "Asset index for Project Ozone 2"  started.
- 3757.900 D Downloading  "http://s3.amazonaws.com/Minecraft.Download/indexes/1.7.10.json"
- 3758.000 D "Asset index for Project Ozone 2" succeeded.
- 3758.000 D Task succeeded
- 3758.000 D "Project Ozone 2" : Finished asset index download
- 3758.020 D Task succeeded
- 3758.020 D Task succeeded
- 3758.050 C BAD stuff happened to mod json:
- 3758.050 C "{
-  "modListVersion": 5,
-  "modList": [{
-    "modid": "aether",
-    "name": "Aether II",
-    "description": "In development by Gilded Games, the Aether II is an extensive mod for Minecraft which implements a remarkable world in the skies. Adventure, danger, and mystery awaits in the depths of the Aether.",
-    "version": "1.7.10-1.6",
-    "mcversion": "1.7.10",
-    "url": "http://www.AetherII.com",
-    "updateUrl": "",
-    "authorList": [ "Brandon Pearce", "Emile van Krieken", "Oscar Payn", "Hugo Payn", "Brandon Potts", "Brendan Freeman", "Collin Soares", "Kino", "Jon Lachney" ],
-    "credits": "Gilded Games, The Aether Team",
-    "logoFile": "/assets/aether/logo.png",
-    "requiredMods": [ "Forge", "gilded-games-util" ],
-    "dependencies": [ "gilded-games-util" ],
-    "useDependencyInformation": true
-  }]
-}
-"
- 3758.400 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
- 3758.400 D Env:  "windir" "C:\Windows"
- 3758.400 D Env:  "FP_NO_HOST_CHECK" "NO"
- 3758.400 D Env:  "SystemDrive" "C:"
- 3758.400 D Env: ignoring "JAVA_HOME" "C:\Program Files\Java\jdk1.8.0_91"
- 3758.400 D Env:  "SMLNJ_HOME" "C:\Program Files (x86)\SMLNJ\"
- 3758.400 D Env:  "=H:" "H:\Installers"
- 3758.400 D Env:  "USERPROFILE" "C:\Users\msh160130"
- 3758.400 D Env:  "ANDROID_HOME" "C:\Android\sdk"
- 3758.400 D Env:  "HOMEDRIVE" "H:"
- 3758.400 D Env:  "ComSpec" "C:\Windows\system32\cmd.exe"
- 3758.400 D Env:  "TMP" "C:\Users\MSH160~1\AppData\Local\Temp"
- 3758.400 D Env:  "PROMPT" "$P$G"
- 3758.400 D Env:  "PROCESSOR_REVISION" "5e03"
- 3758.400 D Env:  "ALLUSERSPROFILE" "C:\ProgramData"
- 3758.400 D Env:  "Path" "C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\CMake\bin;C:\Python35\Scripts\;C:\Python35\;C:\ProgramData\Oracle\Java\javapath;C:\MinGW\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\SMLNJ\bin\;ANDROID_HOME;C:\Android\sdk\tools;C:\Android\sdk\platform-tools;C:\Users\msh160130\.dnx\bin;C:\Program Files\Git\cmd"
- 3758.400 D Env:  "USERDNSDOMAIN" "CAMPUS.AD.UTDALLAS.EDU"
- 3758.410 D Env:  "ProgramData" "C:\ProgramData"
- 3758.410 D Env:  "FTSDK_DIR" "C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\"
- 3758.410 D Env:  "ProgramFiles" "C:\Program Files (x86)"
- 3758.410 D Env:  "PROCESSOR_LEVEL" "6"
- 3758.410 D Env:  "USERDOMAIN_ROAMINGPROFILE" "CAMPUS"
- 3758.410 D Env:  "VS140COMNTOOLS" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\"
- 3758.410 D Env:  "KINECTSDK10_DIR" "C:\Program Files\Microsoft SDKs\Kinect\v1.8\"
- 3758.410 D Env:  "CommonProgramW6432" "C:\Program Files\Common Files"
- 3758.410 D Env:  "HOMEPATH" "\"
- 3758.410 D Env:  "windows_tracing_logfile" "C:\BVTBin\Tests\installpackage\csilogfile.log"
- 3758.410 D Env:  "=ExitCode" "00000000"
- 3758.410 D Env:  "=C:" "C:\Users\msh160130\Desktop\PO2-Portable"
- 3758.410 D Env:  "CommonProgramFiles" "C:\Program Files (x86)\Common Files"
- 3758.410 D Env:  "KINECT_TOOLKIT_DIR" "C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\"
- 3758.410 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW"
- 3758.410 D Env:  "CommonProgramFiles(x86)" "C:\Program Files (x86)\Common Files"
- 3758.410 D Env:  "HOMESHARE" "\\mars.utdallas.edu\msh160130"
- 3758.410 D Env:  "COMPUTERNAME" "CSLAB254051"
- 3758.410 D Env:  "SystemRoot" "C:\Windows"
- 3758.410 D Env:  "USERDOMAIN" "CAMPUS"
- 3758.410 D Env:  "USERNAME" "msh160130"
- 3758.410 D Env:  "LOGONSERVER" "\\CAMPUSDC11"
- 3758.410 D Env:  "ProgramW6432" "C:\Program Files"
- 3758.410 D Env:  "ProgramFiles(x86)" "C:\Program Files (x86)"
- 3758.410 D Env:  "SESSIONNAME" "Console"
- 3758.410 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel"
- 3758.410 D Env:  "PUBLIC" "C:\Users\Public"
- 3758.410 D Env:  "NUMBER_OF_PROCESSORS" "4"
- 3758.410 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
- 3758.410 D Env:  "APPDATA" "C:\Users\msh160130\AppData\Roaming"
- 3758.410 D Env:  "PSModulePath" "C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\"
- 3758.410 D Env:  "TEMP" "C:\Users\MSH160~1\AppData\Local\Temp"
- 3758.410 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
- 3758.410 D Env:  "windows_tracing_flags" "3"
- 3758.410 D Env:  "OS" "Windows_NT"
- 3758.410 D Env:  "LOCALAPPDATA" "C:\Users\msh160130\AppData\Local"
- 3781.437 D "Status JSON"  started.
- 3781.437 D Downloading  "http://status.mojang.com/check"
- 3781.486 D "Status JSON" succeeded.
- 3781.486 D Task succeeded
- 3781.486 D Finished loading status JSON.
- 3781.486 D Status loading succeeded.
- 3841.451 D "Status JSON"  started.
- 3841.452 D Downloading  "http://status.mojang.com/check"
- 3841.500 D "Status JSON" succeeded.
- 3841.500 D Task succeeded
- 3841.500 D Finished loading status JSON.
- 3841.500 D Status loading succeeded.
- 3901.464 D "Status JSON"  started.
- 3901.464 D Downloading  "http://status.mojang.com/check"
- 3901.512 D "Status JSON" succeeded.
- 3901.512 D Task succeeded
- 3901.512 D Finished loading status JSON.
- 3901.512 D Status loading succeeded.
- 3961.478 D "Status JSON"  started.
- 3961.478 D Downloading  "http://status.mojang.com/check"
- 3961.555 D "Status JSON" succeeded.
- 3961.555 D Task succeeded
- 3961.555 D Finished loading status JSON.
- 3961.555 D Status loading succeeded.
- 4021.492 D "Status JSON"  started.
- 4021.492 D Downloading  "http://status.mojang.com/check"
- 4021.543 D "Status JSON" succeeded.
- 4021.543 D Task succeeded
- 4021.543 D Finished loading status JSON.
- 4021.543 D Status loading succeeded.
- 4081.505 D "Status JSON"  started.
- 4081.505 D Downloading  "http://status.mojang.com/check"
- 4081.555 D "Status JSON" succeeded.
- 4081.555 D Task succeeded
- 4081.555 D Finished loading status JSON.
- 4081.555 D Status loading succeeded.
- 4141.519 D "Status JSON"  started.
- 4141.519 D Downloading  "http://status.mojang.com/check"
- 4141.567 D "Status JSON" succeeded.
- 4141.567 D Task succeeded
- 4141.567 D Finished loading status JSON.
- 4141.567 D Status loading succeeded.
- 4201.531 D "Status JSON"  started.
- 4201.531 D Downloading  "http://status.mojang.com/check"
- 4201.582 D "Status JSON" succeeded.
- 4201.582 D Task succeeded
- 4201.582 D Finished loading status JSON.
- 4201.582 D Status loading succeeded.
- 4261.545 D "Status JSON"  started.
- 4261.545 D Downloading  "http://status.mojang.com/check"
- 4261.595 D "Status JSON" succeeded.
- 4261.595 D Task succeeded
- 4261.595 D Finished loading status JSON.
- 4261.595 D Status loading succeeded.
- 4321.559 D "Status JSON"  started.
- 4321.559 D Downloading  "http://status.mojang.com/check"
- 4321.619 D "Status JSON" succeeded.
- 4321.619 D Task succeeded
- 4321.619 D Finished loading status JSON.
- 4321.619 D Status loading succeeded.
- 4381.572 D "Status JSON"  started.
- 4381.572 D Downloading  "http://status.mojang.com/check"
- 4381.625 D "Status JSON" succeeded.
- 4381.626 D Task succeeded
- 4381.626 D Finished loading status JSON.
- 4381.626 D Status loading succeeded.
- 4441.587 D "Status JSON"  started.
- 4441.587 D Downloading  "http://status.mojang.com/check"
- 4441.640 D "Status JSON" succeeded.
- 4441.640 D Task succeeded
- 4441.640 D Finished loading status JSON.
- 4441.640 D Status loading succeeded.
- 4501.600 D "Status JSON"  started.
- 4501.600 D Downloading  "http://status.mojang.com/check"
- 4501.649 D "Status JSON" succeeded.
- 4501.649 D Task succeeded
- 4501.650 D Finished loading status JSON.
- 4501.650 D Status loading succeeded.
- 4561.614 D "Status JSON"  started.
- 4561.614 D Downloading  "http://status.mojang.com/check"
- 4561.662 D "Status JSON" succeeded.
- 4561.662 D Task succeeded
- 4561.662 D Finished loading status JSON.
- 4561.662 D Status loading succeeded.
- 4621.627 D "Status JSON"  started.
- 4621.627 D Downloading  "http://status.mojang.com/check"
- 4621.676 D "Status JSON" succeeded.
- 4621.676 D Task succeeded
- 4621.676 D Finished loading status JSON.
- 4621.676 D Status loading succeeded.
- 4681.641 D "Status JSON"  started.
- 4681.641 D Downloading  "http://status.mojang.com/check"
- 4681.689 D "Status JSON" succeeded.
- 4681.689 D Task succeeded
- 4681.689 D Finished loading status JSON.
- 4681.689 D Status loading succeeded.
- 4741.654 D "Status JSON"  started.
- 4741.654 D Downloading  "http://status.mojang.com/check"
- 4741.703 D "Status JSON" succeeded.
- 4741.703 D Task succeeded
- 4741.703 D Finished loading status JSON.
- 4741.703 D Status loading succeeded.
- 4801.667 D "Status JSON"  started.
- 4801.667 D Downloading  "http://status.mojang.com/check"
- 4801.716 D "Status JSON" succeeded.
- 4801.716 D Task succeeded
- 4801.716 D Finished loading status JSON.
- 4801.716 D Status loading succeeded.
- 4861.681 D "Status JSON"  started.
- 4861.681 D Downloading  "http://status.mojang.com/check"
- 4861.730 D "Status JSON" succeeded.
- 4861.730 D Task succeeded
- 4861.730 D Finished loading status JSON.
- 4861.730 D Status loading succeeded.
- 4921.694 D "Status JSON"  started.
- 4921.694 D Downloading  "http://status.mojang.com/check"
- 4921.742 D "Status JSON" succeeded.
- 4921.742 D Task succeeded
- 4921.742 D Finished loading status JSON.
- 4921.742 D Status loading succeeded.
- 4981.708 D "Status JSON"  started.
- 4981.708 D Downloading  "http://status.mojang.com/check"
- 4981.759 D "Status JSON" succeeded.
- 4981.759 D Task succeeded
- 4981.759 D Finished loading status JSON.
- 4981.759 D Status loading succeeded.
- 5041.722 D "Status JSON"  started.
- 5041.722 D Downloading  "http://status.mojang.com/check"
- 5041.771 D "Status JSON" succeeded.
- 5041.771 D Task succeeded
- 5041.771 D Finished loading status JSON.
- 5041.771 D Status loading succeeded.
- 5101.736 D "Status JSON"  started.
- 5101.736 D Downloading  "http://status.mojang.com/check"
- 5101.787 D "Status JSON" succeeded.
- 5101.787 D Task succeeded
- 5101.787 D Finished loading status JSON.
- 5101.787 D Status loading succeeded.
- 5161.750 D "Status JSON"  started.
- 5161.750 D Downloading  "http://status.mojang.com/check"
- 5161.798 D "Status JSON" succeeded.
- 5161.798 D Task succeeded
- 5161.798 D Finished loading status JSON.
- 5161.798 D Status loading succeeded.
- 5221.763 D "Status JSON"  started.
- 5221.763 D Downloading  "http://status.mojang.com/check"
- 5221.813 D "Status JSON" succeeded.
- 5221.813 D Task succeeded
- 5221.813 D Finished loading status JSON.
- 5221.813 D Status loading succeeded.
- 5281.777 D "Status JSON"  started.
- 5281.777 D Downloading  "http://status.mojang.com/check"
- 5281.825 D "Status JSON" succeeded.
- 5281.825 D Task succeeded
- 5281.825 D Finished loading status JSON.
- 5281.826 D Status loading succeeded.
- 5341.789 D "Status JSON"  started.
- 5341.789 D Downloading  "http://status.mojang.com/check"
- 5341.839 D "Status JSON" succeeded.
- 5341.840 D Task succeeded
- 5341.840 D Finished loading status JSON.
- 5341.840 D Status loading succeeded.
- 5401.803 D "Status JSON"  started.
- 5401.803 D Downloading  "http://status.mojang.com/check"
- 5401.851 D "Status JSON" succeeded.
- 5401.851 D Task succeeded
- 5401.851 D Finished loading status JSON.
- 5401.851 D Status loading succeeded.
- 5461.817 D "Status JSON"  started.
- 5461.817 D Downloading  "http://status.mojang.com/check"
- 5461.865 D "Status JSON" succeeded.
- 5461.865 D Task succeeded
- 5461.865 D Finished loading status JSON.
- 5461.865 D Status loading succeeded.
- 5521.830 D "Status JSON"  started.
- 5521.830 D Downloading  "http://status.mojang.com/check"
- 5521.878 D "Status JSON" succeeded.
- 5521.878 D Task succeeded
- 5521.878 D Finished loading status JSON.
- 5521.878 D Status loading succeeded.
- 5581.845 D "Status JSON"  started.
- 5581.845 D Downloading  "http://status.mojang.com/check"
- 5581.894 D "Status JSON" succeeded.
- 5581.894 D Task succeeded
- 5581.894 D Finished loading status JSON.
- 5581.894 D Status loading succeeded.
- 5641.857 D "Status JSON"  started.
- 5641.857 D Downloading  "http://status.mojang.com/check"
- 5641.907 D "Status JSON" succeeded.
- 5641.907 D Task succeeded
- 5641.907 D Finished loading status JSON.
- 5641.907 D Status loading succeeded.
- 5701.871 D "Status JSON"  started.
- 5701.871 D Downloading  "http://status.mojang.com/check"
- 5701.919 D "Status JSON" succeeded.
- 5701.919 D Task succeeded
- 5701.919 D Finished loading status JSON.
- 5701.919 D Status loading succeeded.
- 5761.884 D "Status JSON"  started.
- 5761.884 D Downloading  "http://status.mojang.com/check"
- 5761.934 D "Status JSON" succeeded.
- 5761.934 D Task succeeded
- 5761.934 D Finished loading status JSON.
- 5761.934 D Status loading succeeded.
- 5821.899 D "Status JSON"  started.
- 5821.899 D Downloading  "http://status.mojang.com/check"
- 5821.947 D "Status JSON" succeeded.
- 5821.947 D Task succeeded
- 5821.947 D Finished loading status JSON.
- 5821.947 D Status loading succeeded.
- 5881.912 D "Status JSON"  started.
- 5881.912 D Downloading  "http://status.mojang.com/check"
- 5881.960 D "Status JSON" succeeded.
- 5881.960 D Task succeeded
- 5881.960 D Finished loading status JSON.
- 5881.960 D Status loading succeeded.
- 5941.926 D "Status JSON"  started.
- 5941.926 D Downloading  "http://status.mojang.com/check"
- 5941.977 D "Status JSON" succeeded.
- 5941.977 D Task succeeded
- 5941.977 D Finished loading status JSON.
- 5941.977 D Status loading succeeded.
- 6001.939 D "Status JSON"  started.
- 6001.939 D Downloading  "http://status.mojang.com/check"
- 6001.989 D "Status JSON" succeeded.
- 6001.990 D Task succeeded
- 6001.990 D Finished loading status JSON.
- 6001.990 D Status loading succeeded.
- 6061.953 D "Status JSON"  started.
- 6061.953 D Downloading  "http://status.mojang.com/check"
- 6062.004 D "Status JSON" succeeded.
- 6062.004 D Task succeeded
- 6062.004 D Finished loading status JSON.
- 6062.004 D Status loading succeeded.
- 6121.966 D "Status JSON"  started.
- 6121.966 D Downloading  "http://status.mojang.com/check"
- 6122.015 D "Status JSON" succeeded.
- 6122.016 D Task succeeded
- 6122.016 D Finished loading status JSON.
- 6122.016 D Status loading succeeded.
- 6181.981 D "Status JSON"  started.
- 6181.981 D Downloading  "http://status.mojang.com/check"
- 6182.032 D "Status JSON" succeeded.
- 6182.032 D Task succeeded
- 6182.032 D Finished loading status JSON.
- 6182.032 D Status loading succeeded.
- 6241.993 D "Status JSON"  started.
- 6241.993 D Downloading  "http://status.mojang.com/check"
- 6242.044 D "Status JSON" succeeded.
- 6242.044 D Task succeeded
- 6242.045 D Finished loading status JSON.
- 6242.045 D Status loading succeeded.
- 6302.008 D "Status JSON"  started.
- 6302.008 D Downloading  "http://status.mojang.com/check"
- 6302.058 D "Status JSON" succeeded.
- 6302.058 D Task succeeded
- 6302.058 D Finished loading status JSON.
- 6302.058 D Status loading succeeded.
- 6362.021 D "Status JSON"  started.
- 6362.021 D Downloading  "http://status.mojang.com/check"
- 6362.073 D "Status JSON" succeeded.
- 6362.073 D Task succeeded
- 6362.073 D Finished loading status JSON.
- 6362.073 D Status loading succeeded.
- 6422.035 D "Status JSON"  started.
- 6422.035 D Downloading  "http://status.mojang.com/check"
- 6422.084 D "Status JSON" succeeded.
- 6422.084 D Task succeeded
- 6422.084 D Finished loading status JSON.
- 6422.084 D Status loading succeeded.
- 6482.048 D "Status JSON"  started.
- 6482.048 D Downloading  "http://status.mojang.com/check"
- 6482.097 D "Status JSON" succeeded.
- 6482.097 D Task succeeded
- 6482.097 D Finished loading status JSON.
- 6482.097 D Status loading succeeded.
- 6542.061 D "Status JSON"  started.
- 6542.061 D Downloading  "http://status.mojang.com/check"
- 6542.110 D "Status JSON" succeeded.
- 6542.110 D Task succeeded
- 6542.110 D Finished loading status JSON.
- 6542.111 D Status loading succeeded.
- 6602.075 D "Status JSON"  started.
- 6602.075 D Downloading  "http://status.mojang.com/check"
- 6602.126 D "Status JSON" succeeded.
- 6602.126 D Task succeeded
- 6602.126 D Finished loading status JSON.
- 6602.126 D Status loading succeeded.
- 6662.088 D "Status JSON"  started.
- 6662.088 D Downloading  "http://status.mojang.com/check"
- 6662.139 D "Status JSON" succeeded.
- 6662.139 D Task succeeded
- 6662.139 D Finished loading status JSON.
- 6662.139 D Status loading succeeded.
- 6722.102 D "Status JSON"  started.
- 6722.102 D Downloading  "http://status.mojang.com/check"
- 6722.155 D "Status JSON" succeeded.
- 6722.155 D Task succeeded
- 6722.155 D Finished loading status JSON.
- 6722.155 D Status loading succeeded.
- 6782.115 D "Status JSON"  started.
- 6782.115 D Downloading  "http://status.mojang.com/check"
- 6782.165 D "Status JSON" succeeded.
- 6782.165 D Task succeeded
- 6782.165 D Finished loading status JSON.
- 6782.165 D Status loading succeeded.
- 6842.129 D "Status JSON"  started.
- 6842.129 D Downloading  "http://status.mojang.com/check"
- 6842.178 D "Status JSON" succeeded.
- 6842.178 D Task succeeded
- 6842.178 D Finished loading status JSON.
- 6842.178 D Status loading succeeded.
- 6902.144 D "Status JSON"  started.
- 6902.144 D Downloading  "http://status.mojang.com/check"
- 6902.195 D "Status JSON" succeeded.
- 6902.196 D Task succeeded
- 6902.196 D Finished loading status JSON.
- 6902.196 D Status loading succeeded.
- 6962.156 D "Status JSON"  started.
- 6962.156 D Downloading  "http://status.mojang.com/check"
- 6962.204 D "Status JSON" succeeded.
- 6962.204 D Task succeeded
- 6962.204 D Finished loading status JSON.
- 6962.204 D Status loading succeeded.
- 7022.171 D "Status JSON"  started.
- 7022.171 D Downloading  "http://status.mojang.com/check"
- 7022.222 D "Status JSON" succeeded.
- 7022.222 D Task succeeded
- 7022.222 D Finished loading status JSON.
- 7022.222 D Status loading succeeded.
- 7082.183 D "Status JSON"  started.
- 7082.183 D Downloading  "http://status.mojang.com/check"
- 7082.233 D "Status JSON" succeeded.
- 7082.233 D Task succeeded
- 7082.233 D Finished loading status JSON.
- 7082.233 D Status loading succeeded.
- 7142.198 D "Status JSON"  started.
- 7142.198 D Downloading  "http://status.mojang.com/check"
- 7142.247 D "Status JSON" succeeded.
- 7142.248 D Task succeeded
- 7142.248 D Finished loading status JSON.
- 7142.248 D Status loading succeeded.
- 7202.212 D "Status JSON"  started.
- 7202.212 D Downloading  "http://status.mojang.com/check"
- 7202.261 D "Status JSON" succeeded.
- 7202.261 D Task succeeded
- 7202.261 D Finished loading status JSON.
- 7202.261 D Status loading succeeded.
- 7262.225 D "Status JSON"  started.
- 7262.225 D Downloading  "http://status.mojang.com/check"
- 7262.277 D "Status JSON" succeeded.
- 7262.277 D Task succeeded
- 7262.277 D Finished loading status JSON.
- 7262.277 D Status loading succeeded.
- 7322.239 D "Status JSON"  started.
- 7322.239 D Downloading  "http://status.mojang.com/check"
- 7322.287 D "Status JSON" succeeded.
- 7322.288 D Task succeeded
- 7322.288 D Finished loading status JSON.
- 7322.288 D Status loading succeeded.
- 7328.616 C Task failed:  "Game crashed."
- 7328.632 C Task failed:  "Game crashed."
- 7332.094 D Task succeeded
- 7332.105 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/saves"
- 7332.105 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/texturepacks"
- 7332.105 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/resourcepacks"
- 7332.105 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/coremods"
- 7332.105 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/mods"
- 7333.530 D Processing authentication response.
- 7333.530 D Getting new access token.
- 7333.530 D Finished reading refresh response.
- 7333.530 D Task succeeded
- 7333.530 D Writing account list to "accounts.json"
- 7333.530 D Building JSON data structure.
- 7333.530 D Building account array.
- 7333.530 D Writing account list to file.
- 7333.531 D Saved account list to "accounts.json"
- 7333.622 W Order file doesn't exist. Ignoring.
- 7333.622 D Reading "net.minecraftforge.json"
- 7333.625 W Order file doesn't exist. Ignoring.
- 7333.625 D Reading "net.minecraftforge.json"
- 7333.646 C BAD stuff happened to mod json:
- 7333.646 C "{
-  "modListVersion": 5,
-  "modList": [{
-    "modid": "aether",
-    "name": "Aether II",
-    "description": "In development by Gilded Games, the Aether II is an extensive mod for Minecraft which implements a remarkable world in the skies. Adventure, danger, and mystery awaits in the depths of the Aether.",
-    "version": "1.7.10-1.6",
-    "mcversion": "1.7.10",
-    "url": "http://www.AetherII.com",
-    "updateUrl": "",
-    "authorList": [ "Brandon Pearce", "Emile van Krieken", "Oscar Payn", "Hugo Payn", "Brandon Potts", "Brendan Freeman", "Collin Soares", "Kino", "Jon Lachney" ],
-    "credits": "Gilded Games, The Aether Team",
-    "logoFile": "/assets/aether/logo.png",
-    "requiredMods": [ "Forge", "gilded-games-util" ],
-    "dependencies": [ "gilded-games-util" ],
-    "useDependencyInformation": true
-  }]
-}
-"
- 7334.179 W QWidget::setLayout: Attempting to set QLayout "" on ConsoleWindow "", which already has a layout
- 7334.209 D Task succeeded
- 7334.209 D Task succeeded
- 7334.211 D Task succeeded
- 7334.211 D Instance either provides a version file or doesn't need an update.
- 7334.211 D "Project Ozone 2" : downloading libraries
- 7334.212 W Order file doesn't exist. Ignoring.
- 7334.212 D Reading "net.minecraftforge.json"
- 7334.217 D "Libraries for instance Project Ozone 2"  started.
- 7334.231 D "Libraries for instance Project Ozone 2" succeeded.
- 7334.231 D Task succeeded
- 7334.231 D "Project Ozone 2" : Starting asset index download
- 7334.231 D "Asset index for Project Ozone 2"  started.
- 7334.258 D Downloading  "http://s3.amazonaws.com/Minecraft.Download/indexes/1.7.10.json"
- 7334.380 D "Asset index for Project Ozone 2" succeeded.
- 7334.380 D Task succeeded
- 7334.380 D "Project Ozone 2" : Finished asset index download
- 7334.452 D Task succeeded
- 7334.452 D Task succeeded
- 7334.476 C BAD stuff happened to mod json:
- 7334.476 C "{
-  "modListVersion": 5,
-  "modList": [{
-    "modid": "aether",
-    "name": "Aether II",
-    "description": "In development by Gilded Games, the Aether II is an extensive mod for Minecraft which implements a remarkable world in the skies. Adventure, danger, and mystery awaits in the depths of the Aether.",
-    "version": "1.7.10-1.6",
-    "mcversion": "1.7.10",
-    "url": "http://www.AetherII.com",
-    "updateUrl": "",
-    "authorList": [ "Brandon Pearce", "Emile van Krieken", "Oscar Payn", "Hugo Payn", "Brandon Potts", "Brendan Freeman", "Collin Soares", "Kino", "Jon Lachney" ],
-    "credits": "Gilded Games, The Aether Team",
-    "logoFile": "/assets/aether/logo.png",
-    "requiredMods": [ "Forge", "gilded-games-util" ],
-    "dependencies": [ "gilded-games-util" ],
-    "useDependencyInformation": true
-  }]
-}
-"
- 7334.912 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
- 7334.915 D Env:  "windir" "C:\Windows"
- 7334.915 D Env:  "FP_NO_HOST_CHECK" "NO"
- 7334.916 D Env:  "SystemDrive" "C:"
- 7334.916 D Env: ignoring "JAVA_HOME" "C:\Program Files\Java\jdk1.8.0_91"
- 7334.916 D Env:  "SMLNJ_HOME" "C:\Program Files (x86)\SMLNJ\"
- 7334.916 D Env:  "=H:" "H:\Installers"
- 7334.916 D Env:  "USERPROFILE" "C:\Users\msh160130"
- 7334.916 D Env:  "ANDROID_HOME" "C:\Android\sdk"
- 7334.916 D Env:  "HOMEDRIVE" "H:"
- 7334.916 D Env:  "ComSpec" "C:\Windows\system32\cmd.exe"
- 7334.916 D Env:  "TMP" "C:\Users\MSH160~1\AppData\Local\Temp"
- 7334.916 D Env:  "PROMPT" "$P$G"
- 7334.916 D Env:  "PROCESSOR_REVISION" "5e03"
- 7334.916 D Env:  "ALLUSERSPROFILE" "C:\ProgramData"
- 7334.916 D Env:  "Path" "C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\CMake\bin;C:\Python35\Scripts\;C:\Python35\;C:\ProgramData\Oracle\Java\javapath;C:\MinGW\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\SMLNJ\bin\;ANDROID_HOME;C:\Android\sdk\tools;C:\Android\sdk\platform-tools;C:\Users\msh160130\.dnx\bin;C:\Program Files\Git\cmd"
- 7334.916 D Env:  "USERDNSDOMAIN" "CAMPUS.AD.UTDALLAS.EDU"
- 7334.916 D Env:  "ProgramData" "C:\ProgramData"
- 7334.916 D Env:  "FTSDK_DIR" "C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\"
- 7334.916 D Env:  "ProgramFiles" "C:\Program Files (x86)"
- 7334.916 D Env:  "PROCESSOR_LEVEL" "6"
- 7334.916 D Env:  "USERDOMAIN_ROAMINGPROFILE" "CAMPUS"
- 7334.916 D Env:  "VS140COMNTOOLS" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\"
- 7334.916 D Env:  "KINECTSDK10_DIR" "C:\Program Files\Microsoft SDKs\Kinect\v1.8\"
- 7334.916 D Env:  "CommonProgramW6432" "C:\Program Files\Common Files"
- 7334.916 D Env:  "HOMEPATH" "\"
- 7334.916 D Env:  "windows_tracing_logfile" "C:\BVTBin\Tests\installpackage\csilogfile.log"
- 7334.916 D Env:  "=ExitCode" "00000000"
- 7334.916 D Env:  "=C:" "C:\Users\msh160130\Desktop\PO2-Portable"
- 7334.916 D Env:  "CommonProgramFiles" "C:\Program Files (x86)\Common Files"
- 7334.916 D Env:  "KINECT_TOOLKIT_DIR" "C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\"
- 7334.916 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW"
- 7334.916 D Env:  "CommonProgramFiles(x86)" "C:\Program Files (x86)\Common Files"
- 7334.916 D Env:  "HOMESHARE" "\\mars.utdallas.edu\msh160130"
- 7334.916 D Env:  "COMPUTERNAME" "CSLAB254051"
- 7334.916 D Env:  "SystemRoot" "C:\Windows"
- 7334.916 D Env:  "USERDOMAIN" "CAMPUS"
- 7334.916 D Env:  "USERNAME" "msh160130"
- 7334.916 D Env:  "LOGONSERVER" "\\CAMPUSDC11"
- 7334.916 D Env:  "ProgramW6432" "C:\Program Files"
- 7334.916 D Env:  "ProgramFiles(x86)" "C:\Program Files (x86)"
- 7334.916 D Env:  "SESSIONNAME" "Console"
- 7334.916 D Env:  "PROCESSOR_IDENTIFIER" "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel"
- 7334.916 D Env:  "PUBLIC" "C:\Users\Public"
- 7334.916 D Env:  "NUMBER_OF_PROCESSORS" "4"
- 7334.916 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
- 7334.916 D Env:  "APPDATA" "C:\Users\msh160130\AppData\Roaming"
- 7334.916 D Env:  "PSModulePath" "C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\"
- 7334.916 D Env:  "TEMP" "C:\Users\MSH160~1\AppData\Local\Temp"
- 7334.916 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
- 7334.916 D Env:  "windows_tracing_flags" "3"
- 7334.916 D Env:  "OS" "Windows_NT"
- 7334.916 D Env:  "LOCALAPPDATA" "C:\Users\msh160130\AppData\Local"
- 7382.251 D "Status JSON"  started.
- 7382.251 D Downloading  "http://status.mojang.com/check"
- 7382.301 D "Status JSON" succeeded.
- 7382.301 D Task succeeded
- 7382.302 D Finished loading status JSON.
- 7382.302 D Status loading succeeded.
- 7442.266 D "Status JSON"  started.
- 7442.266 D Downloading  "http://status.mojang.com/check"
- 7442.315 D "Status JSON" succeeded.
- 7442.315 D Task succeeded
- 7442.315 D Finished loading status JSON.
- 7442.315 D Status loading succeeded.
- 7502.278 D "Status JSON"  started.
- 7502.278 D Downloading  "http://status.mojang.com/check"
- 7502.328 D "Status JSON" succeeded.
- 7502.328 D Task succeeded
- 7502.328 D Finished loading status JSON.
- 7502.328 D Status loading succeeded.
- 7562.292 D "Status JSON"  started.
- 7562.292 D Downloading  "http://status.mojang.com/check"
- 7562.341 D "Status JSON" succeeded.
- 7562.341 D Task succeeded
- 7562.341 D Finished loading status JSON.
- 7562.341 D Status loading succeeded.
- 7622.307 D "Status JSON"  started.
- 7622.307 D Downloading  "http://status.mojang.com/check"
- 7622.356 D "Status JSON" succeeded.
- 7622.356 D Task succeeded
- 7622.356 D Finished loading status JSON.
- 7622.356 D Status loading succeeded.
- 7682.319 D "Status JSON"  started.
- 7682.319 D Downloading  "http://status.mojang.com/check"
- 7682.368 D "Status JSON" succeeded.
- 7682.368 D Task succeeded
- 7682.368 D Finished loading status JSON.
- 7682.368 D Status loading succeeded.
- 7742.339 D "Status JSON"  started.
- 7742.339 D Downloading  "http://status.mojang.com/check"
- 7742.389 D "Status JSON" succeeded.
- 7742.390 D Task succeeded
- 7742.390 D Finished loading status JSON.
- 7742.390 D Status loading succeeded.
- 7802.369 D "Status JSON"  started.
- 7802.369 D Downloading  "http://status.mojang.com/check"
- 7802.419 D "Status JSON" succeeded.
- 7802.419 D Task succeeded
- 7802.419 D Finished loading status JSON.
- 7802.419 D Status loading succeeded.
- 7862.361 D "Status JSON"  started.
- 7862.361 D Downloading  "http://status.mojang.com/check"
- 7862.410 D "Status JSON" succeeded.
- 7862.410 D Task succeeded
- 7862.410 D Finished loading status JSON.
- 7862.410 D Status loading succeeded.
- 7918.106 C Task failed:  "Game crashed."
- 7918.116 C Task failed:  "Game crashed."
- 7922.197 D Task succeeded
- 7922.206 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/saves"
- 7922.206 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/texturepacks"
- 7922.206 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/resourcepacks"
- 7922.206 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/coremods"
- 7922.207 D Failed to stop watching  "C:/Users/msh160130/Desktop/PO2-Portable/instances/1.7.10/minecraft/mods"
- 7922.374 D "Status JSON"  started.
- 7922.374 D Downloading  "http://status.mojang.com/check"
- 7922.425 D "Status JSON" succeeded.
- 7922.425 D Task succeeded
- 7922.425 D Finished loading status JSON.
- 7922.425 D Status loading succeeded.
+ 1032.928 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.7.10"
+ 1032.933 D Env:  "ALLUSERSPROFILE" "C:\ProgramData"
+ 1032.934 D Env:  "FPS_BROWSER_USER_PROFILE_STRING" "Default"
+ 1032.934 D Env:  "USERNAME" "Baer Ackerman MD"
+ 1032.934 D Env:  "=::" "::\"
+ 1032.934 D Env:  "ProgramData" "C:\ProgramData"
+ 1032.934 D Env:  "PUBLIC" "C:\Users\Public"
+ 1032.934 D Env:  "SESSIONNAME" "Console"
+ 1032.934 D Env:  "ProgramW6432" "C:\Program Files"
+ 1032.934 D Env:  "ProgramFiles" "C:\Program Files (x86)"
+ 1032.934 D Env:  "__COMPAT_LAYER" "DetectorsWin8"
+ 1032.934 D Env:  "TMP" "C:\Users\BAERAC~1\AppData\Local\Temp"
+ 1032.934 D Env:  "PSModulePath" "C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"
+ 1032.934 D Env:  "asl.log" "Destination=file"
+ 1032.934 D Env:  "HOMEDRIVE" "C:"
+ 1032.934 D Env:  "windir" "C:\WINDOWS"
+ 1032.934 D Env:  "Path" "C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;"C:\Program Files\Java\jre1.8.0_51\bin";C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd"
+ 1032.934 D Env:  "PATHEXT" ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+ 1032.934 D Env:  "PROCESSOR_ARCHITECTURE" "x86"
+ 1032.934 D Env:  "PROCESSOR_ARCHITEW6432" "AMD64"
+ 1032.934 D Env:  "USERPROFILE" "C:\Users\Baer Ackerman MD"
+ 1032.934 D Env:  "TEMP" "C:\Users\BAERAC~1\AppData\Local\Temp"
+ 1032.934 D Env:  "HOMEPATH" "\Users\Baer Ackerman MD"
+ 1032.934 D Env:  "CommonProgramFiles" "C:\Program Files (x86)\Common Files"
+ 1032.934 D Env:  "PROCESSOR_IDENTIFIER" "AMD64 Family 21 Model 2 Stepping 0, AuthenticAMD"
+ 1032.934 D Env:  "SystemDrive" "C:"
+ 1032.934 D Env:  "USERDOMAIN" "Baer"
+ 1032.934 D Env:  "PROCESSOR_REVISION" "0200"
+ 1032.934 D Env:  "NUMBER_OF_PROCESSORS" "4"
+ 1032.934 D Env:  "LOGONSERVER" "\\BAER"
+ 1032.934 D Env:  "OS" "Windows_NT"
+ 1032.934 D Env:  "FPS_BROWSER_APP_PROFILE_STRING" "Internet Explorer"
+ 1032.935 D Env:  "SystemRoot" "C:\WINDOWS"
+ 1032.935 D Env:  "CommonProgramW6432" "C:\Program Files\Common Files"
+ 1032.935 D Env:  "APPDATA" "C:\Users\Baer Ackerman MD\AppData\Roaming"
+ 1032.935 D Env:  "ComSpec" "C:\WINDOWS\system32\cmd.exe"
+ 1032.935 D Env:  "USERDOMAIN_ROAMINGPROFILE" "Baer"
+ 1032.935 D Env:  "FP_NO_HOST_CHECK" "NO"
+ 1032.935 D Env:  "PROCESSOR_LEVEL" "21"
+ 1032.935 D Env:  "COMPUTERNAME" "BAER"
+ 1032.935 D Env:  "ProgramFiles(x86)" "C:\Program Files (x86)"
+ 1032.935 D Env:  "LOCALAPPDATA" "C:\Users\Baer Ackerman MD\AppData\Local"
+ 1032.935 D Env:  "CommonProgramFiles(x86)" "C:\Program Files (x86)\Common Files"
+ 1080.093 D "Status JSON"  started.
+ 1080.093 D Downloading  "http://status.mojang.com/check"
+ 1080.151 D "Status JSON" succeeded.
+ 1080.151 D Task succeeded
+ 1080.151 D Finished loading status JSON.
+ 1080.151 D Status loading succeeded.
+ 1140.090 D "Status JSON"  started.
+ 1140.090 D Downloading  "http://status.mojang.com/check"
+ 1140.146 D "Status JSON" succeeded.
+ 1140.146 D Task succeeded
+ 1140.146 D Finished loading status JSON.
+ 1140.146 D Status loading succeeded.
+ 1200.091 D "Status JSON"  started.
+ 1200.091 D Downloading  "http://status.mojang.com/check"
+ 1200.145 D "Status JSON" succeeded.
+ 1200.146 D Task succeeded
+ 1200.146 D Finished loading status JSON.
+ 1200.146 D Status loading succeeded.
+ 1260.091 D "Status JSON"  started.
+ 1260.091 D Downloading  "http://status.mojang.com/check"
+ 1260.150 D "Status JSON" succeeded.
+ 1260.150 D Task succeeded
+ 1260.150 D Finished loading status JSON.
+ 1260.150 D Status loading succeeded.
+ 1320.090 D "Status JSON"  started.
+ 1320.090 D Downloading  "http://status.mojang.com/check"
+ 1320.143 D "Status JSON" succeeded.
+ 1320.143 D Task succeeded
+ 1320.143 D Finished loading status JSON.
+ 1320.143 D Status loading succeeded.
+ 1380.092 D "Status JSON"  started.
+ 1380.092 D Downloading  "http://status.mojang.com/check"
+ 1380.145 D "Status JSON" succeeded.
+ 1380.145 D Task succeeded
+ 1380.145 D Finished loading status JSON.
+ 1380.145 D Status loading succeeded.
+ 1440.090 D "Status JSON"  started.
+ 1440.090 D Downloading  "http://status.mojang.com/check"
+ 1440.148 D "Status JSON" succeeded.
+ 1440.148 D Task succeeded
+ 1440.148 D Finished loading status JSON.
+ 1440.148 D Status loading succeeded.
+ 1500.090 D "Status JSON"  started.
+ 1500.090 D Downloading  "http://status.mojang.com/check"
+ 1500.151 D "Status JSON" succeeded.
+ 1500.152 D Task succeeded
+ 1500.152 D Finished loading status JSON.
+ 1500.152 D Status loading succeeded.
+ 1560.091 D "Status JSON"  started.
+ 1560.091 D Downloading  "http://status.mojang.com/check"
+ 1560.143 D "Status JSON" succeeded.
+ 1560.143 D Task succeeded
+ 1560.143 D Finished loading status JSON.
+ 1560.144 D Status loading succeeded.
+ 1620.089 D "Status JSON"  started.
+ 1620.089 D Downloading  "http://status.mojang.com/check"
+ 1620.148 D "Status JSON" succeeded.
+ 1620.149 D Task succeeded
+ 1620.149 D Finished loading status JSON.
+ 1620.149 D Status loading succeeded.
+ 1680.090 D "Status JSON"  started.
+ 1680.090 D Downloading  "http://status.mojang.com/check"
+ 1680.149 D "Status JSON" succeeded.
+ 1680.149 D Task succeeded
+ 1680.150 D Finished loading status JSON.
+ 1680.150 D Status loading succeeded.
+ 1740.092 D "Status JSON"  started.
+ 1740.092 D Downloading  "http://status.mojang.com/check"
+ 1740.155 D "Status JSON" succeeded.
+ 1740.155 D Task succeeded
+ 1740.155 D Finished loading status JSON.
+ 1740.155 D Status loading succeeded.
+ 1800.090 D "Status JSON"  started.
+ 1800.090 D Downloading  "http://status.mojang.com/check"
+ 1800.145 D "Status JSON" succeeded.
+ 1800.145 D Task succeeded
+ 1800.145 D Finished loading status JSON.
+ 1800.145 D Status loading succeeded.
+ 1860.092 D "Status JSON"  started.
+ 1860.092 D Downloading  "http://status.mojang.com/check"
+ 1860.147 D "Status JSON" succeeded.
+ 1860.148 D Task succeeded
+ 1860.148 D Finished loading status JSON.
+ 1860.148 D Status loading succeeded.
+ 1920.091 D "Status JSON"  started.
+ 1920.091 D Downloading  "http://status.mojang.com/check"
+ 1920.150 D "Status JSON" succeeded.
+ 1920.150 D Task succeeded
+ 1920.150 D Finished loading status JSON.
+ 1920.150 D Status loading succeeded.
+ 1935.452 D Task succeeded
+ 1935.554 D Task succeeded
+ 1937.096 D Task succeeded
+ 1937.116 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/saves"
+ 1937.117 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/texturepacks"
+ 1937.117 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/resourcepacks"
+ 1937.118 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/coremods"
+ 1937.118 D Failed to stop watching  "C:/Users/Baer Ackerman MD/Documents/My Games/Project-Ozone-2-Modified/instances/1.7.10/minecraft/mods"
